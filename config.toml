@@ -1,0 +1,47 @@
+baseurl = "http://asharpminor.com/"
+languageCode = "ja"
+title = "a sharp minor"
+HasCJKLanguage = true
+SectionPagesMenu = "sections"
+Paginate = 20
+theme = "beg"
+ignoreFiles = [ "\\*~$" ]
+
+[params]
+description = "Every word is like an unnecessary stain on silence and nothingness"
+author = "Shinichi SUGIYAMA"
+DateForm = "2006年1月2日"
+GoogleAnalyticsUserID =	"UA-7045949-1"
+Twitter = "chez_sugi"
+Github = "ssugiyama"
+
+ [[menu.sections]]
+        name = "演劇ノート"
+        weight = 0
+        identifier = "play"
+        url = "/play/"
+ [[menu.sections]]
+        name = "読書ノート"
+        weight = 10
+        identifier = "book"
+        url = "/book/"
+ [[menu.sections]]
+        name = "翻訳ラボ"
+        weight = 20
+        identifier = "translation"
+        url = "/translation/"		
+ [[menu.sections]]
+        name = "SAQ"
+        weight = 30
+        identifier = "saq"
+        url = "/saq/"
+ [[menu.sections]]
+        name = "ふらんせ入門"
+        weight = 40
+        identifier = "francais"
+        url = "/francais/"
+ [[menu.sections]]
+        name = "lost+found"
+        weight = 50
+        identifier = "lost+found"
+        url = "/lost+found/"

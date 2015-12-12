@@ -1,0 +1,27 @@
+.alignleft {
+    float: left;
+    margin: 0 10px 10px 10px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus,
+.gsc-search-button {
+    box-sizing: content-box; 
+    line-height: normal;
+}
+
+.navbar-brand span {
+    opacity: 0;
+}
+
+.navbar-brand {
+    background-image: url(/images/scorelogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}

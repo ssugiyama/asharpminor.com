@@ -1,0 +1,17 @@
+{{ partial "default_head.html" . }}
+
+<div class="row">
+    <div class="col-md-8">
+	<div class="posts">
+	    {{ range .Paginator.Pages }}	    
+	    {{ .Render "li" }}
+	    {{ end }}
+	    {{ template "_internal/pagination.html" . }}
+	</div>
+    </div>
+    <div class="col-md-4">
+	{{ partial "sidebar.html" . }}
+    </div>
+</div>
+
+{{ partial "default_foot.html" . }}

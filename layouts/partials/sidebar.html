@@ -1,0 +1,48 @@
+<script>
+(function() {
+	var cx = '003791151110832145504:blvtvct5zx4';
+	var gcse = document.createElement('script');
+	gcse.type = 'text/javascript';
+	gcse.async = true;
+	gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		'//cse.google.com/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(gcse, s);
+})();
+</script>
+
+<aside>
+	<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-12">
+			<div class="panel panel-default">
+				<gcse:search></gcse:search>
+			</div>
+		</div>		
+		<div class="col-xs-12 col-sm-4 col-md-12">
+			<div class="panel panel-default">
+				<Div class="panel-heading">
+					<h2 class="panel-title">Sections</h2>
+				</div>
+				<div class="list-group">
+					{{ $currentNode := . }}
+					{{ range .Site.Menus.sections }}
+					<a class="{{if or ($currentNode.IsMenuCurrent "sections" .) ($currentNode.HasMenuCurrent "sections" .) }} active{{end}} list-group-item" href="{{.URL}}">{{ .Name }}</a>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-12 col-sm-4 col-md-12">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h2 class="panel-title">Recent Posts</h2>
+				</div>
+				<div class="list-group">
+					{{range first 10 .Site.Pages}}
+					<a href="{{.RelPermalink}}" class="list-group-item">{{ .Title }}</a>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+
+	</div>
+</aside>
