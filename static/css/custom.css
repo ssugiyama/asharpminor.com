@@ -25,3 +25,11 @@ input.gsc-input,
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+hr {
+    clear: both;
+}
+
+figcaption {
+    text-align: center;
+}
