@@ -1,12 +1,11 @@
 ---
-type: post
 title: バルザック（宮下志朗訳）『グランド・ブルテーシュ奇譚』
 author: sugi
 layout: post
 date: 2011-11-16
 url: /book/2622/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4334751865/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4334751865/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/41tUz5ZR6qL._SL160_.jpg?w=660" alt="グランド・ブルテーシュ奇譚 (光文社古典新訳文庫)" class="alignleft" data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4334751865/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/41tUz5ZR6qL._SL160_.jpg?w=660" alt="グランド・ブルテーシュ奇譚 (光文社古典新訳文庫)" class="alignleft" data-recalc-dims="1" /></a>
 
 きっかけは、架空の人物のフルネームがタイトルになっている文学作品をさがそうと思ったことだった。古今東西の小説家をひとりひとり思い浮かべるうちに、バルザックなら絶対にフルネームタイトル作品があるはずだと思って、調べてみたら、予想通り。でも、ちょっと待て。いままで、そのバルザックの作品をまったく読んだことがない。ここは、どれか一冊読んでみるべきなんじゃないか。いきなり長編というのも骨が折れるので、短編集、ということで本書を手に取ったわけだ。
 

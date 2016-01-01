@@ -1,12 +1,11 @@
 ---
-type: post
 title: 山野浩一『鳥はいまどこを飛ぶか』、『殺人者の空』
 author: sugi
 layout: post
 date: 2011-12-13
 url: /book/2804/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488740014/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4488740014/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51YeqmjpkIL._SL160_.jpg?w=660" alt="鳥はいまどこを飛ぶか (山野浩一傑作選Ⅰ) (創元ＳＦ文庫)" class="alignleft"  data-recalc-dims="1" /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488740022/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4488740022/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/514qpPhpmYL._SL160_.jpg?w=660" alt="殺人者の空 (山野浩一傑作選Ⅱ) (創元ＳＦ文庫)" class="alignleft"  data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488740014/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51YeqmjpkIL._SL160_.jpg?w=660" alt="鳥はいまどこを飛ぶか (山野浩一傑作選Ⅰ) (創元ＳＦ文庫)" class="alignleft"  data-recalc-dims="1" /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488740022/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/514qpPhpmYL._SL160_.jpg?w=660" alt="殺人者の空 (山野浩一傑作選Ⅱ) (創元ＳＦ文庫)" class="alignleft"  data-recalc-dims="1" /></a>
 
 山野浩一の傑作短編集二編。『鳥はいまどこを飛ぶか』のほうをジャケ買いして、日本にこんな独自の世界を築き上げた小説家がいるのかと驚き、読み終わらないうちに『殺人者の空』を入手した。
 

@@ -1,12 +1,11 @@
 ---
-type: post
 title: 小澤征爾×村上春樹『小澤征爾さんと、音楽について話をする』
 author: sugi
 layout: post
 date: 2011-12-16
 url: /book/2814/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4103534281/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4103534281/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/41q-jhrRzsL._SL160_.jpg?w=660" alt="小澤征爾さんと、音楽について話をする" class="alignleft"  data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4103534281/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/41q-jhrRzsL._SL160_.jpg?w=660" alt="小澤征爾さんと、音楽について話をする" class="alignleft"  data-recalc-dims="1" /></a>
 
 小澤征爾はまぎれもない音楽のプロフェッショナルで、その語るエピソードは、有名な指揮者や演奏家に関するものにせよ、音楽のなりたちに関するものにせよ、興味深いものばかりだった。驚くのは、少なくとも音楽の演奏に関してはずぶの素人であるはずの村上春樹が、小澤征爾の話の先回りをしたり、小澤征爾自身が気づいてないようなことに気づかせたりしていたことだ。彼は、音楽を聴くことに関してもほとんどプロフェッショナルといってもいいかもしれない。そして、その音楽を聴くことに関する高い能力が、創作とも関係しているのはまちがいのないところだ。
 

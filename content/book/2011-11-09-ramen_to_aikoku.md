@@ -1,12 +1,11 @@
 ---
-type: post
 title: 速水健朗『ラーメンと愛国』
 author: sugi
 layout: post
 date: 2011-11-08
 url: /book/2590/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062800411/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4062800411/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/5186RPOGFZL._SL160_.jpg?w=660" alt="ラーメンと愛国 (講談社現代新書)" class="alignleft"  data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062800411/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/5186RPOGFZL._SL160_.jpg?w=660" alt="ラーメンと愛国 (講談社現代新書)" class="alignleft"  data-recalc-dims="1" /></a>
 
 ニッチでマイナーな食べ物だった戦前の「南京そば」、「支那そば」がいかに国民食ともいわれるようになってきたかを、戦後日本の歴史と共にたどっていく。ラーメンそのものではなく、ラーメンと日本社会のかかわりに重点を置いた本だ。
 

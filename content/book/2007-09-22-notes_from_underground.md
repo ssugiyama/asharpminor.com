@@ -1,5 +1,4 @@
 ---
-type: post
 title: ドストエフスキー（安岡治子訳）『地下室の手記』
 author: sugi
 layout: post
@@ -8,7 +7,7 @@ url: /book/1647/
 attitude_sidebarlayout:
   - default
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4334751296/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4334751296/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ec2.images-amazon.com/images/I/41gjG9RlrqL.SL160.jpg?w=660" alt="地下室の手記" class="alignleft" data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4334751296/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ec2.images-amazon.com/images/I/41gjG9RlrqL.SL160.jpg?w=660" alt="地下室の手記" class="alignleft" data-recalc-dims="1" /></a>
 
 なにごとにもきっかけが必要で、『カラマーゾフの兄弟』は光文社古典新訳文庫版が出始めたのをきっかけに読もうと思ったのだが、なかなか完結しなくて待ちきれず、結局新潮文庫版を読んだのだった。京の仇を江戸で討つではないが、『地下室の手記』は光文社古典新訳文庫版を選んだ。はるか昔に読んだような読んでないような微妙な作品だが、いずれにせよまったく覚えていなかったので、新鮮な気持ちで読めた。
 

@@ -1,12 +1,11 @@
 ---
-type: post
 title: グレッグ・イーガン（山岸真編・訳）『プランク・ダイヴ』
 author: sugi
 layout: post
 date: 2011-11-01
 url: /book/2543/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118264/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4150118264/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51F52rdNM9L._SL160_.jpg?w=660" alt="プランク・ダイヴ (ハヤカワ文庫SF)" class="alignleft" data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118264/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51F52rdNM9L._SL160_.jpg?w=660" alt="プランク・ダイヴ (ハヤカワ文庫SF)" class="alignleft" data-recalc-dims="1" /></a>
 
 これまでイーガンを読み継いできた読者からすると、決してあたらしいアイディアが書かれているわけではない。高速なコンピュータ上で進化をシミュレートして生み出される知的存在。脳をクローンに移植して得られる永遠の生命と、自分とは何かという問。異なる数学的原理に支配される、隣接する二つの世界。ソフトウェア化した人間を亜光速のナノマシンにのせて宇宙の彼方やブラックホールの中に送り出せるようになったはるか未来の物語。などなど。アイディアの目新しさではなく、じっくりとそのテーマに取り組んだ、思考のあとがうかがえる作品が多く、物語としておもしろい。
 

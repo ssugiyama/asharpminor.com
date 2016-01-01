@@ -6,7 +6,7 @@ layout: post
 date: 2011-11-12
 url: /play/2598/
 ---
-<a href="http://asharpminor.com/play-villa_grande_aoyama/villa_grande_aoyama" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://asharpminor.com/play-villa_grande_aoyama/villa_grande_aoyama', '']);" rel="attachment wp-att-2599"><img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/villa_grande_aoyama.jpg?resize=170%2C240" alt="ヴィラ・グランデ青山" title="villa_grande_aoyama" class="alignleft size-full wp-image-2599" data-recalc-dims="1" /></a>
+{{% figure src="/wp-content/uploads/2011/11/villa_grande_aoyama.jpg" alt="ヴィラ・グランデ青山" class="alignleft" %}}
 
 **作・演出：倉持裕／シアタークリエ／指定席8800円／2011-11-12 18:00／★★**
 

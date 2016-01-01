@@ -1,12 +1,11 @@
 ---
-type: post
 title: ジャネット・ウィンターソン（岸本佐知子訳）『オレンジだけが果物じゃない』
 author: sugi
 layout: post
 date: 2011-12-26
 url: /book/2859/
 ---
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4560071764/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4560071764/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/41ivL4bTsmL._SL160_.jpg?w=660" alt="オレンジだけが果物じゃない (白水Uブックス176)" class="alignleft"  data-recalc-dims="1" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4560071764/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/41ivL4bTsmL._SL160_.jpg?w=660" alt="オレンジだけが果物じゃない (白水Uブックス176)" class="alignleft"  data-recalc-dims="1" /></a>
 
 作者の半生をなぞったかのような自伝的小説。帯には半自伝的と書いてあったけど、自伝的成分は4分の3くらいはあるんじゃないか。
 
