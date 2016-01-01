@@ -22,7 +22,6 @@
 <meta property="og:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
 {{ end }}
 <meta property="og:site_name" content="{{ .Site.Title }}">
-
 <title>
     {{ if eq .URL "/" }}
     {{ .Site.Title }}
@@ -30,6 +29,8 @@
     All Entries &middot; {{ .Site.Title }}
     {{ else if in .URL "/tags/" }}
     {{ .Site.Title }}
+    {{ else if .IsNode }}
+    {{ partial "section_name.html" . }}    
     {{ else }}
     {{ .Title }}
     {{ end }}

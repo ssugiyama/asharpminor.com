@@ -16,6 +16,10 @@ input.gsc-input,
     line-height: normal;
 }
 
+div.gsc-selected-option-container {
+    width: 100px !important;
+}
+
 .navbar-brand span {
     opacity: 0;
 }
