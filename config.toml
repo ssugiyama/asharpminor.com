@@ -8,8 +8,8 @@ theme = "beg"
 ignoreFiles = [ "\\*~$" ]
 
 [params]
-description = "Every word is like an unnecessary stain on silence and nothingness"
-author = "Shinichi SUGIYAMA"
+Description = "Every word is like an unnecessary stain on silence and nothingness"
+Author = "Shinichi SUGIYAMA"
 DateForm = "2006年1月2日"
 GoogleAnalyticsUserID =	"UA-7045949-1"
 Twitter = "chez_sugi"

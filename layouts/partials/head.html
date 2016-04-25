@@ -2,24 +2,34 @@
 
 <!-- Enable responsiveness on mobile devices-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@{{ .Site.Params.Twitter }}" />
 <meta property="og:url" content="{{ .Site.BaseURL }}">
 {{ if eq .URL "/" }}
 <!-- Index -->
 <meta property="og:type" content="website">
+<meta property="twitter:title" content="{{ .Site.Title }}">
+<meta property="twitter:text:description" content="{{ .Site.Params.Description }}">
 {{ range first 1 .Data.Pages }}
 <meta property="og:title" content="{{ .Site.Title }}">
 {{ end }}
 {{ else if eq .URL "/post/" }}
 <!-- Post -->
 <meta property="og:title" content="All Entries &middot; {{ .Site.Title }}">
-{{ else if in .URL "/tags/" }}
+<meta property="twitter:title" content="All Entries &middot; {{ .Site.Title }}">
+<meta property="twitter:description" content="{{ .Site.Params.Description }}">
+{{ else if .IsNode }}
 <!-- Category -->
-<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ partial "section_name.html" . }}">
+<meta property="twitter:title" content="{{ partial "section_name.html" . }}">
+<meta property="twitter:description" content="{{ .Site.Params.Description }}">
 {{ else }}
 <!-- Article -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
+<meta property="twitter:title" content="{{ .Title }} &middot; {{ .Site.Title }}">
+<meta property="twitter:description" content="{{ .Summary }}">
+<meta property="twitter:image" content="{{ $.Param "image" }}">
 {{ end }}
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <title>
