@@ -1,4 +1,4 @@
-baseurl = "http://asharpminor.com/"
+baseurl = "//asharpminor.com/"
 languageCode = "ja"
 title = "a sharp minor"
 HasCJKLanguage = true
