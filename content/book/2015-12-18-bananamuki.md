@@ -4,6 +4,7 @@ date = "2015-12-19T02:12:01+09:00"
 layout = "post"
 title = "円城塔『バナナ剥きには最適の日々』"
 type = "post"
+ebook = 1
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00KID932A/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51jwUAdPweL.jpg" alt="バナナ剥きには最適の日々" style="border: none;" class="alignleft" /></a>

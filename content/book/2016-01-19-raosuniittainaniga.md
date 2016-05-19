@@ -4,7 +4,7 @@ date = "2016-01-19T22:32:13+09:00"
 layout = "post"
 title = "村上春樹『ラオスにいったい何があるというんですか？　紀行文集』"
 type = "post"
-
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/416390364X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/517stTBg7qL.jpg" alt="ラオスにいったい何があるというんですか? 紀行文集" style="border: none;" class="alignleft" /></a>
 

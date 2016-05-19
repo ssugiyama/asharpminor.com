@@ -8,7 +8,7 @@
             </time>
         </div>
         <h1 class="post-title h3">
-	    <a href="{{ .Permalink }}">{{ .Title }}</a>
+	    <a href="{{ .Permalink }}">{{ .Title }}{{ if .Params.ebook }}<img src="/images/ebook.png" alt="ebook" />{{ end }}</a>
         </h1>
     </header>
     <div class="post-content">

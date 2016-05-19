@@ -4,7 +4,7 @@ date = "2016-01-10T01:26:40+09:00"
 layout = "post"
 title = "入不二基義『あるようにあり、なるようになる 運命論の運命』"
 type = "post"
-
+ebook = 1
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062195755/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41m5ZyT5gOL.jpg" alt="あるようにあり、なるようになる 運命論の運命" style="border: none;" class="alignleft" /></a>

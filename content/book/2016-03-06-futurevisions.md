@@ -4,7 +4,7 @@ date = "2016-03-06T20:41:33+09:00"
 layout = "post"
 title = "Future Visions: Original Science Fiction Inspired by Microsoft"
 type = "post"
-
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0182NCTWS/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/417rQGHM6AL.jpg" alt="Future Visions: Original Science Fiction Inspired by Microsoft" class="alignleft" /></a>
 

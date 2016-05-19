@@ -4,7 +4,7 @@ date = "2016-03-10T00:17:06+09:00"
 layout = "post"
 title = "佐々木敦『ニッポンの文学』"
 type = "post"
-
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062883562/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31h1sYCf6WL.jpg" alt="ニッポンの文学 (講談社現代新書)" class="alignleft"  /></a>
 
