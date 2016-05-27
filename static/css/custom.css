@@ -37,3 +37,7 @@ hr {
 figcaption {
     text-align: center;
 }
+
+img {
+    width: none !important;
+}
