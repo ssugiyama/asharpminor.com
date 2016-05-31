@@ -4,7 +4,6 @@ title = "a sharp minor"
 HasCJKLanguage = true
 SectionPagesMenu = "sections"
 Paginate = 20
-theme = "beg"
 ignoreFiles = [ "\\*~$" ]
 
 [params]
