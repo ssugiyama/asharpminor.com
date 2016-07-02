@@ -14,6 +14,9 @@ TwitterのことはTwitterの中で。ということですべてTwitterのコ�
 {{< tweet 808054027 >}}
 
 * 2016年
+  * [2016年5, 6月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/737999265792827392)
+  * [2016年4月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/726428062745677824)
+  * [2016年2, 3月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/715583754832482305)
   * [2016年1月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/693828619127271424)
 * 2015年
   * [2015年11, 12月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/683286768922132482)
