@@ -6,7 +6,7 @@ title = "青年団『ニッポン・サポート・センター』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/nipponsupportcenter.jpg"
 +++
-{{% figure src="/images/play/2016/nipponsupportcenter.png" alt="ニッポン・サポート・センター" class="alignleft" %}}
+{{% figure src="/images/play/2016/nipponsupportcenter.jpg" alt="ニッポン・サポート・センター" class="alignleft" %}}
 
 平田オリザ8年ぶりの新作書き下ろしとのこと。前作『[眠れない夜なんてない](/play/1821/)』が沈みゆく日本から逃げ出した人を描いていたとすれば、本作は残った人々を描いた作品といえる。
 
