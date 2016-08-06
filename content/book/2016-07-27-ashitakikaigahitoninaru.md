@@ -5,6 +5,7 @@ layout = "post"
 title = "海猫沢メロン『明日、機械がヒトになる ルポ最新科学』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51SxYk552yL._SX303_BO1,204,203,200_.jpg"
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062883686/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51SxYk552yL.jpg" alt="明日、機械がヒトになる ルポ最新科学 (講談社現代新書)" class="alignleft"  /></a>
 
