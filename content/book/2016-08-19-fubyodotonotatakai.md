@@ -5,6 +5,7 @@ layout = "post"
 title = "不平等との闘い ルソーからピケティまで"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51oL715oKSL._SX315_BO1,204,203,200_.jpg"
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4166610783/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51oL715oKSL.jpg" alt="不平等との闘い ルソーからピケティまで ((文春新書))" class="alignleft"  /></a>
 
@@ -14,4 +15,4 @@ image = "https://images-na.ssl-images-amazon.com/images/I/51oL715oKSL._SX315_BO1
 
 後半になってようやくピケティの主張がこの流れの中に位置づける形で紹介される。それによってピケティが『21世紀の資本』の中で何を主張して何を主張してないかをはっきり示してくれている。20世紀終わりになって経済学者たちは再び先進国内部での格差問題に目を向けるようになる。彼らは主に労働所得、人的資本の差異に注目したが、ピケティは資本所得、物的資本の差異に注目して、実データから格差が広がりつつあることを実証した。ピケティはもともと理論家だったのだけど、実証研究に転身して生まれたのが『21世紀の資本』とのこと。
 
-ちょっと物足りない気もしたが、経済学の考え方の勉強になった気がする。
+経済学の考え方の勉強になった気がする。
