@@ -2,7 +2,7 @@
 author = "sugi"
 date = "2016-08-19T23:57:03+09:00"
 layout = "post"
-title = "不平等との闘い ルソーからピケティまで"
+title = "稲葉振一郎『不平等との闘い ルソーからピケティまで』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51oL715oKSL._SX315_BO1,204,203,200_.jpg"
 ebook = 1
