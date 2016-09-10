@@ -5,8 +5,8 @@ layout = "post"
 title = "遊園地再生事業団+こまばアゴラ劇場『子どもたちは未来のように笑う』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/kodomotachi.jpg"
-+++
-{{% figure src="/images/play/2016/kodomotachi.jpg" alt="子どもたちは未来のように笑う" style="width: 300px" class="alignleft" %}}
+++
+<figure class="alignleft"><img src="/images/play/2016/kodomotachi.jpg" alt="子どもたちは未来のように笑う" style="width: 300px"></figure>
 
 ちょっと考えると奇妙なタイトルだ。「未来のように笑う」。でも未来は笑わないし、そもそも未来が笑うというのはどういうことなのかわからない。この作品の中で子供たちは未来そのもの、つまりいい面も悪い面も不確定で未知なものとして扱われている。ある意味「無」そのものだ。無だからこそ、論理学の基礎的な帰結として「未来のように〜」の〜の部分にはどんな動詞でも当てはまる。その中から「笑う」が選ばれているのはおそらくこの舞台がとても笑えるからだ。往年の宮沢章夫作のシティボーイズのコントを思い出した（ぼくはほとんどヴィデオでみたが）。
 
