@@ -6,7 +6,7 @@ title = "ヨーロッパ企画『来てけつかるべき新世界』"
 type = "post"
 image = "/images/play/2016/shinsekai.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2016/shinsekai.md" alt="来てけつかるべき新世界" style="width: 300px"></figure>
+<figure class="alignleft"><img src="/images/play/2016/shinsekai.jpg" alt="来てけつかるべき新世界" style="width: 300px"></figure>
 
 タイトルはハクスリーの『すｂらしい新世界』のパロディーだが、ここでいう「新世界」は大阪の下町の新世界だ。新世界のさらにはずれにある大阪のおっさんたちが集う串揚げ屋が舞台。なにわの人情喜劇に転進かと思ったが、ちゃんといつものヨーロッパ企画だった。「新世界」にはダブルミーニングがかかっていて、近未来の技術（といってもほぼ今話題の技術の延長線ではあるが）がこの片隅にもやってきて否応なしに変化するさまが描かれている。ドローン、ロボット、人工知能、VR/AR、そして脳のバックアップ（最後のはまだSFの世界にしかないが）。おっさんたちはかなり積極的に新技術を使いこなしていた。
 
