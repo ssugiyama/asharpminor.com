@@ -1,4 +1,4 @@
-baseurl = "//asharpminor.com/"
+baseurl = "https://asharpminor.com/"
 languageCode = "ja"
 title = "a sharp minor"
 HasCJKLanguage = true
@@ -28,7 +28,7 @@ Github = "ssugiyama"
         name = "翻訳ラボ"
         weight = 20
         identifier = "translation"
-        url = "/translation/"		
+        url = "/translation/"
  [[menu.sections]]
         name = "SAQ"
         weight = 30
