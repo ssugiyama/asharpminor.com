@@ -12,7 +12,7 @@ input.gsc-input,
 .gsc-input-box-hover,
 .gsc-input-box-focus,
 .gsc-search-button {
-    box-sizing: content-box; 
+    box-sizing: content-box;
     line-height: normal;
 }
 
@@ -40,4 +40,11 @@ figcaption {
 
 img {
     width: auto !important;
+}
+
+p {
+    letter-spacing: .1em;
+    text-align: justify;
+    line-height: 1.65;
+    text-indent: 1.2em;
 }
