@@ -6,7 +6,7 @@ type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2016/hatarakuotoko.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2016/hatarakuotoko.jpg" alt="はたらくおとこ" style="width: 300px"></figure>
+<figure class="alignleft"><img src="/images/play/2016/hatarakuotoko.jpg" alt="はたらくおとこ" style="width: 300px !important;"></figure>
 
 リンゴ農園そしてそのあとはじめた工場も失敗し、仕事がなくなりながらいくところがなく集まり続ける男たち。しかしとことん渋いリンゴを作るという夢は失っていなかった……。
 
