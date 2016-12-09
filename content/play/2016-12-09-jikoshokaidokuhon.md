@@ -6,7 +6,7 @@ layout = "post"
 date = "2016-12-09T23:24:57+09:00"
 image = "https://asharpminor.com//images/play/2016/jikoshokai.gif"
 +++
-<figure class="alignleft"><img src="/images/play/2016/jikoshokai.gif" alt="" style="width: 300px"></figure>
+<figure class="alignleft"><img src="/images/play/2016/jikoshokai.gif" alt="" style="width: 300px !important;"></figure>
 
 初対面でお互いに自己紹介し合うというのは演劇でとても重宝され多用されるシチュエーションだ。この作品は唐突な自己紹介からはじまり、玉突き的に紹介が連鎖していくという、そのことをパロディー化したような構成になっている。
 
