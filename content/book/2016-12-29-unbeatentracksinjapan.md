@@ -4,7 +4,7 @@ title = "イザベラ・バード（時岡敬子訳）『イザベラ・バー�
 layout = "post"
 author = "sugi"
 type = "post"
-image = https://images-fe.ssl-images-amazon.com/images/I/515xS%2BphNoL.jpg"
+image = "https://images-fe.ssl-images-amazon.com/images/I/515xS%2BphNoL.jpg"
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00NOTKTIW/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/515xS%2BphNoL.jpg" alt="イザベラ・バードの日本紀行　合本版 (講談社学術文庫)" class="alignleft"  /></a>
