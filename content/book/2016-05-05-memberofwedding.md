@@ -4,9 +4,9 @@ date = "2016-05-05T04:36:03+09:00"
 layout = "post"
 title = "カーソン・マッカラーズ（村上春樹訳）『結婚式のメンバー』"
 type = "post"
-image = "http://ecx.images-amazon.com/images/I/41XKjapNwIL._SX349_BO1,204,203,200_.jpg"
+image = "https://images-fe.ssl-images-amazon.com/images/I/41XKjapNwIL.jpg"
 +++
-<a href="https://www.amazon.co.jp/exec/obidos/ASIN/4102042024/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://ecx.images-amazon.com/images/I/41XKjapNwIL.jpg" alt="結婚式のメンバー (新潮文庫)" style="border: none;" class="alignleft" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4102042024/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41XKjapNwIL.jpg" alt="結婚式のメンバー (新潮文庫)" class="alignleft" /></a>
 
 冒頭の「緑色をした気の触れた夏」という一節にいきなり心をつかまれた。
 
@@ -16,7 +16,7 @@ image = "http://ecx.images-amazon.com/images/I/41XKjapNwIL._SX349_BO1,204,203,20
 
 アメリカ南部の魔術的な風土と真夏の淀んだ空気を背景に、家の台所で6歳の従弟ジョン・ヘンリーと家事をしにくる黒人女性ベレニスと過ごす無為で退屈な日々。彼女はその中で人間を閉じ込める本質的な孤独に気がついたりする。それは二度と戻ってこない特別な時間だった。
 
-登場するシーンは少ないが、ベレニスの弟ハニーが印象的だ。頭はずば抜けていいのに、何をしてもものにならずついには破滅してしまう。彼とジョン・ヘンリーに二人がこの作品になんともいえない余韻を残している。
+登場するシーンは少ないが、ベレニスの弟ハニーが印象的だ。頭はずば抜けていいのに、何をしてもものにならずついには破滅してしまう。彼とジョン・ヘンリーの二人がこの作品になんともいえない余韻を残している。
 
 最後に気に入ったフレーズを二つ。
 
@@ -25,8 +25,3 @@ image = "http://ecx.images-amazon.com/images/I/41XKjapNwIL._SX349_BO1,204,203,20
 > それは台所の物の輪郭が暗くなり、人の声が花開く時刻だった。彼らは柔らかな声で語り、それは花として咲いたーーもし響きが花であり、声に咲くことができたとしたらだが。
 
 美しい！
-
-
-
-
-
