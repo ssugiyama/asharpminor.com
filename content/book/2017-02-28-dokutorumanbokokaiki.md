@@ -6,7 +6,7 @@ layout = "post"
 author = "sugi"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/41973Kib%2BqL.jpg" 
-+++=
++++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101131031/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41973Kib%2BqL.jpg" alt="どくとるマンボウ航海記 (新潮文庫)" class="alignleft"  /></a>
 
 [夜と霧の隅で](/book/2017-01-28-yorutokirinosumide/)からさらに遡っておそらくこの本が一番最初に読んだ「大人の本」だったと思う。
