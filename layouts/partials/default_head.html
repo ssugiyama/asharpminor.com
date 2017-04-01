@@ -18,28 +18,30 @@
 
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav">
-                        {{ range where .Site.Pages "Type" "page" }}
+                      {{ range where .Site.Pages "Section" ""  }}
+		      {{ if eq .Kind "page" }}
                             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                            {{ end }}
+                      {{ end }}
+		      {{ end }}
                             <li><a href="http://walk.asharpminor.com">walklog</a></li>		
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
-                        {{ if isset .Site.Params "Facebook" }}
+                        {{ if .Site.Params.Facebook }}
                         <li>
                             <a href="https://www.facebook.com/{{ .Site.Params.Facebook }}" target="_blank">
                                 <i class="fa fa-facebook-square"></i>
                                 Facebook</a>
                         </li>
                         {{ end }}
-                        {{ if isset .Site.Params "Twitter" }}
+                        {{ if .Site.Params.Twitter }}
                         <li>
                             <a href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
                                 <i class="fa fa-twitter-square"></i>
                                 Twitter</a>
                         </li>
                         {{ end }}
-                        {{ if isset .Site.Params "Github" }}
+                        {{ if .Site.Params.Github }}
                         <li>
                             <a href="https://github.com/{{ .Site.Params.Github }}" target="_blank">
                                 <i class="fa fa-github-square"></i>
@@ -47,7 +49,7 @@
                             </a>
                         </li>
                         {{ end }}
-                        {{ if isset .Site.Params "Linkedin" }}
+                        {{ if .Site.Params.Linkedin }}
                         <li>
                             <a href="https://www.linkedin.com/in/{{ .Site.Params.Linkedin }}" target="_blank">
                                 <i class="fa fa-linkedin-square"></i>

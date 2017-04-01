@@ -13,6 +13,7 @@ DateForm = "2006年1月2日"
 GoogleAnalyticsUserID =	"UA-7045949-1"
 Twitter = "chez_sugi"
 Github = "ssugiyama"
+ShowRelatedPost = 1
 
  [[menu.sections]]
         name = "演劇ノート"

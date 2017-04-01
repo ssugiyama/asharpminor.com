@@ -32,7 +32,7 @@
                     {{ end }}
                 </ul>
 
-                {{ if .Site.Params.ShowRelatedPost }}
+                {{ if and .Site.Params.ShowRelatedPost .Params.tags }}
                 <!-- Related post. -->
                 <h3>Related Post</h3>
                 <ul class="post-rels">
