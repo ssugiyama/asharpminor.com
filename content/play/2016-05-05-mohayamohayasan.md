@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-06T02:56:42+09:00"
-layout = "post"
 title = "ナカゴー特別劇場『もはや、もはやさん』"
 type = "post"
 +++

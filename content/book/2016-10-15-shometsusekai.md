@@ -1,7 +1,6 @@
 +++
 type = "post"
 author = "sugi"
-layout = "post"
 date = "2016-10-15T20:53:28+09:00"
 title = "村田沙耶香『消滅世界』"
 image = "http://ecx.images-amazon.com/images/I/51CZyn%2BwXHL.jpg"

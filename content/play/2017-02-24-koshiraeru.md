@@ -2,7 +2,6 @@
 date = "2017-02-25T01:35:46+09:00"
 title = "無隣館若手自主企画／松村企画『こしらえる』"
 type = "post"
-layout = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2017/koshiraeru.png"
 +++

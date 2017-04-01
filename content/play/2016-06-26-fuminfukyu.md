@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-06-26T23:06:38+09:00"
-layout = "post"
 title = "青年団リンク キュイ『不眠普及』"
 type = "post"
 image = 'https://asharpminor.com/images/play/2016/fuminkodomo.png'

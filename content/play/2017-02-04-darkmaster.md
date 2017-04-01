@@ -1,6 +1,5 @@
 +++
 title = "庭劇団ペニノ『ダークマスター』"
-layout = "post"
 author = "sugi"
 type = "post"
 date = "2017-02-07T00:57:02+09:00"

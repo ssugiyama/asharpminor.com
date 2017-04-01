@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-01-10T01:26:40+09:00"
-layout = "post"
 title = "入不二基義『あるようにあり、なるようになる 運命論の運命』"
 type = "post"
 ebook = 1

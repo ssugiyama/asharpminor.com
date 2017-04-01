@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-03-10T00:17:06+09:00"
-layout = "post"
 title = "佐々木敦『ニッポンの文学』"
 type = "post"
 ebook = 1

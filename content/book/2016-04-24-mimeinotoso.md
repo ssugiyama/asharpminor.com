@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-04-24T23:43:04+09:00"
-layout = "post"
 title = "保坂和志『未明の闘争』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/41JjnLpiHvL._SX356_BO1,204,203,200_.jpg"

@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-07T23:55:02+09:00"
-layout = "post"
 title = "『8月の家族たち August: Osage Country』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/augustosagecountry.jpg"

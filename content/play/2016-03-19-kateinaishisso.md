@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-03-20T01:46:16+09:00"
-layout = "post"
 title = "M&Oplays プロデュース『家庭内失踪』"
 type = "post"
 +++

@@ -1,7 +1,6 @@
 +++
 date = "2016-12-29T21:50:36+09:00"
 title = "イザベラ・バード（時岡敬子訳）『イザベラ・バードの日本紀行』"
-layout = "post"
 author = "sugi"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/515xS%2BphNoL.jpg"

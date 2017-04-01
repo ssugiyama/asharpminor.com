@@ -1,7 +1,6 @@
 +++
 date = "2017-02-10T23:54:16+09:00"
 title = "ジャック・ヴァンス（日夏響訳）『終末期の赤い地球』"
-layout = "post"
 author = "sugi"
 type = "post"
 ebook = 1

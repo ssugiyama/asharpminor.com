@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-09-10T23:17:59+09:00"
-layout = "post"
 title = "遊園地再生事業団+こまばアゴラ劇場『子どもたちは未来のように笑う』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/kodomotachi.jpg"

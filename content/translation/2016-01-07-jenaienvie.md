@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-01-07T02:20:42+09:00"
-layout = "post"
 title = "『ただ君を愛していたい』 by ポール・エリュアール"
 type = "post"
 

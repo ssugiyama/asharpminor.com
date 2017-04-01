@@ -2,7 +2,6 @@
 title = "スティーヴ・エリクソン（越川芳明訳）『きみを夢みて』"
 type = "post"
 author = "sugi"
-layout = "post"
 date = "2016-11-03T12:16:25+09:00"
 image = "http://ecx.images-amazon.com/images/I/512gNazp-CL.jpg"
 +++

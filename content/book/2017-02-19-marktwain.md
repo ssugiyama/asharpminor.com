@@ -3,7 +3,6 @@ date = "2017-02-19T21:46:48+09:00"
 title = "マーク・トウェイン（柴田元幸訳）『ジム・スマイリーの跳び蛙 —マーク・トウェイン傑作選—』"
 author = "sugi"
 type = "post"
-layout = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41e3mS68r0L.jpg"
 ebook = 1
 +++

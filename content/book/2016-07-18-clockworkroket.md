@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-07-18T23:54:00+09:00"
-layout = "post"
 title = "グレッグ・イーガン（山岸真、中村融訳）『クロックワーク・ロケット』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/514dXABDmuL._SX285_BO1,204,203,200_.jpg"

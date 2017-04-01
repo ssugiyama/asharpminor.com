@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-08-14T00:22:19+09:00"
-layout = "post"
 title = "青年団リンク ホエイ『麦とクシャミ』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/mugitokushami.jpg"

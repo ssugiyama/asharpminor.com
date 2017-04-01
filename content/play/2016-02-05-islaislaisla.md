@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-02-05T23:32:11+09:00"
-layout = "post"
 title = "岡崎藝術座『イスラ！イスラ！イスラ！』"
 type = "post"
 +++

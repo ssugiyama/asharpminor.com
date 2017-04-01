@@ -2,7 +2,6 @@
 date = "2017-02-28T22:33:33+09:00"
 title = "北杜夫『どくとるマンボウ航海記』"
 type = "post"
-layout = "post"
 author = "sugi"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/41973Kib%2BqL.jpg" 

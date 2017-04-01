@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-03-06T20:41:33+09:00"
-layout = "post"
 title = "Future Visions: Original Science Fiction Inspired by Microsoft"
 type = "post"
 ebook = 1

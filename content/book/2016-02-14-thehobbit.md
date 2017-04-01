@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-02-14T20:27:40+09:00"
-layout = "post"
 title = "J. R. R. Tolkien \"The Hobbit\""
 type = "post"
 

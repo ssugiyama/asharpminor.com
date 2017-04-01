@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-31T23:05:45+09:00"
-layout = "post"
 title = "筒井康隆『おれに関する噂』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/51SCJSLigSL._SX349_BO1,204,203,200_.jpg"

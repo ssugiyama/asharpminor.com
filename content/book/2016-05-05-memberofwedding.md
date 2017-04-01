@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-05T04:36:03+09:00"
-layout = "post"
 title = "カーソン・マッカラーズ（村上春樹訳）『結婚式のメンバー』"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41XKjapNwIL.jpg"

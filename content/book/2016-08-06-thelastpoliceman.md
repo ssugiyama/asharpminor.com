@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-08-07T00:25:32+09:00"
-layout = "post"
 title = "ベン・H・ウィンタース（上野元美訳）『地上最後の刑事』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51nLEAmiTUL._SX334_BO1,204,203,200_.jpg"

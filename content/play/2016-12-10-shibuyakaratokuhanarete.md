@@ -2,7 +2,6 @@
 title = "『シブヤから遠く離れて』"
 type = "post"
 author = "sugi"
-layout = "post"
 date = "2016-12-10T23:56:25+09:00"
 image="https://asharpminor.com/images/play/2016/shibuya.jpg"
 +++

@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2015-12-19T02:12:01+09:00"
-layout = "post"
 title = "円城塔『バナナ剥きには最適の日々』"
 type = "post"
 ebook = 1

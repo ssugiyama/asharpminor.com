@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-28T22:30:51+09:00"
-layout = "post"
 title = "ウイリアム・サローヤン（柴田元幸訳）『僕の名はアラム』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/51SNiSDrtNL._SX349_BO1,204,203,200_.jpg"

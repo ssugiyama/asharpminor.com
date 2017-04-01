@@ -1,7 +1,6 @@
 +++
 date = "2017-03-13T00:32:07+09:00"
 title = "マーガレット・アトウッド（斎藤英治訳）『侍女の物語』"
-layout = "post"
 author = "sugi"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51k2O2gOf7L.jpg"

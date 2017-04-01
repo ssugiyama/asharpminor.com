@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-03-27T22:48:36+09:00"
-layout = "post"
 title = "ミクニヤナイハラプロジェクト『東京ノート』"
 type = "post"
 +++

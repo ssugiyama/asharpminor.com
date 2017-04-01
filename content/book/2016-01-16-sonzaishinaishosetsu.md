@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-01-17T00:05:56+09:00"
-layout = "post"
 title = "いとうせいこう『存在しない小説』"
 type = "post"
 

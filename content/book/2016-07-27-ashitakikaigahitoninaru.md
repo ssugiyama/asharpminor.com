@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-07-27T23:22:23+09:00"
-layout = "post"
 title = "海猫沢メロン『明日、機械がヒトになる ルポ最新科学』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51SxYk552yL._SX303_BO1,204,203,200_.jpg"

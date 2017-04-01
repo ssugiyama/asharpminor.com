@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-06-25T02:17:01+09:00"
-layout = "post"
 title = "筒井康隆『メタモルフォセス群島』"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51CU16ToY-L.jpg"

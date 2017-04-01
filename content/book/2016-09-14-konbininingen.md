@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-09-14T23:33:56+09:00"
-layout = "post"
 title = "村田沙耶香『コンビニ人間』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/51%2Bpx9T8vNL.jpg"

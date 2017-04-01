@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-06-18T23:46:22+09:00"
-layout = "post"
 title = "ウンベルト・エーコ（河島英昭訳）『薔薇の名前』"
 type = "post"
 image = "http://www.amazon.co.jp/exec/obidos/ASIN/4488013511/chezsugi-22/ref=nosim/"

@@ -1,7 +1,6 @@
 +++
 title = "北杜夫『夜と霧の隅で』"
 type = "post"
-layout = "post"
 author = "sugi"
 date = "2017-01-28T21:56:02+09:00"
 image= "https://images-fe.ssl-images-amazon.com/images/I/51NWQbfrkaL.jpg"

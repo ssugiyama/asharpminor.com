@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-22T00:19:10+09:00"
-layout = "post"
 title = "ロロ『あなたがいなかった頃の物語と、いなくなってからの物語』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/anatagainakatta.jpg"

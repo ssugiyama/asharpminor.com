@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-01-01T23:50:23+09:00"
-layout = "post"
 title = "青年団リンク ホエイ『珈琲法要』"
 type = "post"
 

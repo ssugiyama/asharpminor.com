@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-01-19T22:32:13+09:00"
-layout = "post"
 title = "村上春樹『ラオスにいったい何があるというんですか？　紀行文集』"
 type = "post"
 ebook = 1

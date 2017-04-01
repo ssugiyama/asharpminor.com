@@ -1,7 +1,6 @@
 +++
 type = "post"
 author = "sugi"
-layout = "post"
 date = "2016-11-12T23:00:55+09:00"
 title = "トム・ジョーンズ（岸本佐和子訳）『拳闘士の休息』"
 image = "http://ecx.images-amazon.com/images/I/51IzBnhHrzL.jpg"

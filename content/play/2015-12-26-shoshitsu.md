@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2015-12-27T22:48:02+09:00"
-layout = "post"
 title = "ナイロン100℃『消失』"
 type = "post"
 

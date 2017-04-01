@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-06-18T00:21:48+09:00"
-layout = "post"
 title = "シベリア少女鉄道『君がくれたラブストーリー』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/lovestory.jpg"

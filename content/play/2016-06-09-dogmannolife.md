@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-06-10T01:33:54+09:00"
-layout = "post"
 title = "『ドッグマンノーライフ』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/dogmannolife.jpg"

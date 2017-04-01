@@ -2,7 +2,6 @@
 title = "城山羊の会『自己紹介読本』"
 type = "post"
 author = "sugi"
-layout = "post"
 date = "2016-12-09T23:24:57+09:00"
 image = "https://asharpminor.com//images/play/2016/jikoshokai.gif"
 +++

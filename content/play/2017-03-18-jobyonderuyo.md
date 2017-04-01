@@ -1,7 +1,6 @@
 +++
 date = "2017-03-18T23:58:13+09:00"
 title = "鳥公園『ヨブ呼んでるよ』"
-layout = "post"
 author = "sugi"
 type = "post"
 image = "https://asharpminor.com/images/play/2017/jobyonderuyo.jpg"

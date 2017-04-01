@@ -1,5 +1,4 @@
 +++
-layout = "post"
 author = "sugi"
 type = "post"
 date = "2017-01-18T23:59:27+09:00"

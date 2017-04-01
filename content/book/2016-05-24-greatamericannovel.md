@@ -1,7 +1,6 @@
 +++
 author = "sugi"
 date = "2016-05-25T00:39:01+09:00"
-layout = "post"
 title = "フィリップ・ロス（中野好夫、常盤新平訳）『素晴らしいアメリカ野球』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/51jihWL3jEL._SX349_BO1,204,203,200_.jpg"
