@@ -1,7 +1,18 @@
 {{ partial "default_head.html" . }}
 
 <div class="row">
-    <div class="col-md-8">
+  <div class="col-md-8">
+    <header>
+      <h1 class="post-title h2">
+    {{ if eq .Kind "taxonomy" }}
+    Tag : &quot;{{ .Title }}&quot;
+    {{ else if eq .Kind "section" }}
+    {{ partial "section_name.html" . }}
+    {{ end }}
+      </h1>
+   </header>
+   <hr>      
+    
 	<div class="posts">
 	    {{ range .Paginator.Pages }}	    
 	    {{ .Render "li" }}

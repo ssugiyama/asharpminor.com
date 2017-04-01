@@ -7,9 +7,9 @@
                 {{ .Date.Format .Site.Params.DateForm }}
             </time>
         </div>
-        <h1 class="post-title h3">
+        <h2 class="post-title h3">
 	    <a href="{{ .Permalink }}">{{ .Title }}{{ if .Params.ebook }}<img src="/images/ebook.png" alt="ebook" />{{ end }}</a>
-        </h1>
+        </h2>
     </header>
     <div class="post-content">
         {{ .Summary }}...

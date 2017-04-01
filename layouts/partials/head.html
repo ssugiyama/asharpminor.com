@@ -23,13 +23,11 @@
 <meta property="twitter:description" content="{{ .Summary }}">
 {{ end }}
 <title>
-    {{ if eq .URL "/" }}
+    {{ if eq .Kind "index" }}
     {{ .Site.Title }}
-    {{ else if eq .URL "/post/" }}
-    All Entries &middot; {{ .Site.Title }}
-    {{ else if in .URL "/tags/" }}
-    {{ .Site.Title }}
-    {{ else if .IsNode }}
+    {{ else if eq .Kind "taxonomy" }}
+    Tag : &quot;{{ .Title }}&quot;
+    {{ else if eq .Kind "section" }}
     {{ partial "section_name.html" . }}
     {{ else }}
     {{ .Title }}
