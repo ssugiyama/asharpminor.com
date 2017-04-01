@@ -2,7 +2,6 @@
 type: post
 title: 猫のホテル『土色の恋情』
 author: sugi
-layout: post
 date: 2005-01-08
 url: /play/1073/
 ---

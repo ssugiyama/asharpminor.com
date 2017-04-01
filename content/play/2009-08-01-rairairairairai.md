@@ -2,7 +2,6 @@
 type: post
 title: 劇団、本谷有希子『来来来来来』
 author: sugi
-layout: post
 date: 2009-08-01
 url: /play/2047/
 ---

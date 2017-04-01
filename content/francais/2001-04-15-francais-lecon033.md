@@ -2,7 +2,6 @@
 type: post
 title: 関係代名詞
 author: sugi
-layout: post
 date: 2001-04-15
 url: /francais/299/
 ---

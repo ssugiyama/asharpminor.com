@@ -2,7 +2,6 @@
 type: post
 title: レイモンド・カーヴァー（村上春樹訳）『ビギナーズ』
 author: sugi
-layout: post
 date: 2013-03-23
 url: /book/4049/
 ---

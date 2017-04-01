@@ -2,7 +2,6 @@
 type: post
 title: 重力／Note『リスボン＠ペソア』
 author: sugi
-layout: post
 date: 2013-06-15
 url: /play/4316/
 ---

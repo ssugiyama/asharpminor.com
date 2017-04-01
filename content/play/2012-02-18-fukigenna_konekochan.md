@@ -2,7 +2,6 @@
 type: post
 title: 青年団リンク 水素74%『不機嫌な子猫ちゃん』
 author: sugi
-layout: post
 date: 2012-02-18
 url: /play/3039/
 ---

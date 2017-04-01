@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『津田沼』
 author: sugi
-layout: post
 date: 2006-10-21
 url: /play/1446/
 ---

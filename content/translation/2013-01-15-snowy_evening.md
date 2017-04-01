@@ -2,7 +2,6 @@
 type: post
 title: 『雪の夜森のそばで立ちどまる』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2013-01-14
 url: /translation/3892/
 ---

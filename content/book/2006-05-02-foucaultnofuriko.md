@@ -2,7 +2,6 @@
 type: post
 title: ウンベルト・エーコ（藤村昌昭訳）『フーコーの振り子』（上・下）
 author: sugi
-layout: post
 date: 2006-05-02
 url: /book/1351/
 ---

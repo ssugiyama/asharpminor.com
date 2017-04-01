@@ -2,7 +2,6 @@
 type: post
 title: 『小石はなんて幸せなんだろう』 by エミリー・ディキンソン
 author: sugi
-layout: post
 date: 2012-05-17
 url: /translation/3339/
 ---

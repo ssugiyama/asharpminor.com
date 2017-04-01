@@ -2,7 +2,6 @@
 type: post
 title: サンプル『家族の肖像』
 author: sugi
-layout: post
 date: 2008-08-23
 url: /play/1848/
 ---

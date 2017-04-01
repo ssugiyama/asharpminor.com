@@ -2,7 +2,6 @@
 type: post
 title: 古川日出男『MUSIC』
 author: sugi
-layout: post
 date: 2012-12-12
 url: /book/3811/
 ---

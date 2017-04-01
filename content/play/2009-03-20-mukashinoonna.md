@@ -2,7 +2,6 @@
 type: post
 title: シリーズ・同時代【海外編】『昔の女』
 author: sugi
-layout: post
 date: 2009-03-20
 url: /play/1977/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 表現･さわやか『ザ ベスト オブ 表現・さわやか』
 author: sugi
-layout: post
 date: 2009-07-04
 url: /play/2029/
 ---

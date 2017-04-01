@@ -2,7 +2,6 @@
 type: post
 title: 遊園地再生事業団『ニュータウン入口』
 author: sugi
-layout: post
 date: 2007-09-29
 url: /play/1654/
 ---

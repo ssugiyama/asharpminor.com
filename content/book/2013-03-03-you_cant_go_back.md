@@ -2,7 +2,6 @@
 type: post
 title: R. A. ラファティ（伊藤典夫、浅倉 久志訳）『昔には帰れない』
 author: sugi
-layout: post
 date: 2013-03-02
 url: /book/3997/
 ---

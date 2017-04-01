@@ -2,7 +2,6 @@
 type: post
 title: ポツドール『人間♥失格』
 author: sugi
-layout: post
 date: 2007-07-15
 url: /play/1601/
 ---

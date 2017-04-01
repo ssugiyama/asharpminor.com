@@ -2,7 +2,6 @@
 type: post
 title: 『マギーとミリーとモリーとメイ』 by e.e.カミングス
 author: sugi
-layout: post
 date: 2013-05-03
 url: /translation/4111/
 ---

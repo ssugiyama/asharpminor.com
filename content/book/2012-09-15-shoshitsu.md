@@ -2,7 +2,6 @@
 type: post
 title: ケラリーノ・サンドロヴィッチ『消失／神様とその他の変種』
 author: sugi
-layout: post
 date: 2012-09-14
 url: /book/3634/
 ---

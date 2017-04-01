@@ -2,7 +2,6 @@
 type: post
 title: 母音の発音
 author: sugi
-layout: post
 date: 2000-05-15T02:00:00+09:00
 url: /francais/115/
 ---

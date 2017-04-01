@@ -2,7 +2,6 @@
 type: post
 title: 複合過去
 author: sugi
-layout: post
 date: 2001-01-19
 url: /francais/258/
 ---

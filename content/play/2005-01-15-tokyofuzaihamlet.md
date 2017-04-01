@@ -2,7 +2,6 @@
 type: post
 title: 遊園地再生事業団＋ニブロール『トーキョー／不在／ハムレット』
 author: sugi
-layout: post
 date: 2005-01-15
 url: /play/1079/
 ---

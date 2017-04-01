@@ -2,7 +2,6 @@
 type: post
 title: 福永信『一一一一一』
 author: sugi
-layout: post
 date: 2013-05-11
 url: /book/4127/
 ---

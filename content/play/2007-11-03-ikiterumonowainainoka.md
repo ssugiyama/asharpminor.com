@@ -2,7 +2,6 @@
 type: post
 title: 五反田団+演劇計画2007『生きてるものはいないのか』
 author: sugi
-layout: post
 date: 2007-11-03
 url: /play/1675/
 ---

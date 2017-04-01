@@ -2,7 +2,6 @@
 type: post
 title: サリンジャー（野崎孝訳）『フラニーとゾーイ』
 author: sugi
-layout: post
 date: 2012-03-04
 url: /book/3093/
 ---

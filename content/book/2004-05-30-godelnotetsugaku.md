@@ -2,7 +2,6 @@
 type: post
 title: 高橋昌一郎『ゲーデルの哲学 不完全性定理と神の存在論』
 author: sugi
-layout: post
 date: 2004-05-30
 url: /book/899/
 ---

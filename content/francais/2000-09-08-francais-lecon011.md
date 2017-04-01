@@ -2,7 +2,6 @@
 type: post
 title: 性と数の例外的な活用
 author: sugi
-layout: post
 date: 2000-09-08T01:00:00+09:00
 url: /francais/184/
 ---

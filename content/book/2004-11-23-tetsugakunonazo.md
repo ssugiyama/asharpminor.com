@@ -2,7 +2,6 @@
 type: post
 title: 野矢茂樹『哲学の謎』
 author: sugi
-layout: post
 date: 2003-11-23
 url: /book/1041/
 ---

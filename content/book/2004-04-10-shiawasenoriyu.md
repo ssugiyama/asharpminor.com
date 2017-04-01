@@ -2,9 +2,9 @@
 type: post
 title: グレッグ・イーガン（山岸真訳）『しあわせの理由』
 author: sugi
-layout: post
 date: 2004-04-10
 url: /book/855/
+tags: ["gregegan"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/415011451X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Y8BNNFB7L.jpg" alt="しあわせの理由 (ハヤカワ文庫SF)" style="border: none;" class="alignleft" /></a>
 

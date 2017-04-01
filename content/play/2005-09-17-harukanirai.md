@@ -2,7 +2,6 @@
 type: post
 title: innerchild『遙 ニライ』
 author: sugi
-layout: post
 date: 2005-09-17
 url: /play/1227/
 ---

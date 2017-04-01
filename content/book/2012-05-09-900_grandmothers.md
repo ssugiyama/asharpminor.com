@@ -2,7 +2,6 @@
 type: post
 title: R. A. ラファティ（浅倉久志訳）『九百人のお祖母さん』
 author: sugi
-layout: post
 date: 2012-05-08
 url: /book/3311/
 ---

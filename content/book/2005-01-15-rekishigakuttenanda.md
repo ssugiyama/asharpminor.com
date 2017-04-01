@@ -2,7 +2,6 @@
 type: post
 title: 小田中直樹『歴史学って何だ？』
 author: sugi
-layout: post
 date: 2005-01-15
 url: /book/1080/
 ---

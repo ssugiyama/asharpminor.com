@@ -2,7 +2,6 @@
 type: post
 title: 条件法
 author: sugi
-layout: post
 date: 2001-05-21
 url: /francais/311/
 ---

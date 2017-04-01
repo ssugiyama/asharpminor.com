@@ -2,7 +2,6 @@
 type: post
 title: アルファベット
 author: sugi
-layout: post
 date: 2000-05-15T01:00:00+09:00
 url: /francais/114/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 庭劇団ペニノ『大きなトランクの中の箱』
 author: sugi
-layout: post
 date: 2013-04-28
 url: /play/4095/
 ---

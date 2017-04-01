@@ -2,7 +2,6 @@
 type: post
 title: Arthur Miller "Death of a Salesman"
 author: sugi
-layout: post
 date: 2010-12-19
 url: /book/2305/
 ---

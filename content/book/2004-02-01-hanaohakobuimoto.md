@@ -2,7 +2,6 @@
 type: post
 title: 池澤夏樹『花を運ぶ妹』
 author: sugi
-layout: post
 date: 2004-02-01
 url: /book/807/
 ---

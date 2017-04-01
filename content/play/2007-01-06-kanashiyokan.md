@@ -2,7 +2,6 @@
 type: post
 title: 『哀しい予感』
 author: sugi
-layout: post
 date: 2007-01-06
 url: /play/1490/
 ---

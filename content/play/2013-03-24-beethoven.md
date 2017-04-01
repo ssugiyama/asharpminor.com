@@ -2,7 +2,6 @@
 type: post
 title: ダックスーププロデュース『音楽家のベートーベン』
 author: sugi
-layout: post
 date: 2013-03-23
 url: /play/4051/
 ---

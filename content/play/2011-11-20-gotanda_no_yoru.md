@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『五反田の夜』
 author: sugi
-layout: post
 date: 2011-11-20
 url: /play/2713/
 ---

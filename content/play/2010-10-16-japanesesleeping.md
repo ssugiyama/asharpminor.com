@@ -2,7 +2,6 @@
 type: post
 title: 遊園地再生事業団『ジャパニーズ・スリーピング／世界でいちばん眠い場所』
 author: sugi
-layout: post
 date: 2010-10-16
 url: /play/2275/
 ---

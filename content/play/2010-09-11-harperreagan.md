@@ -2,7 +2,6 @@
 type: post
 title: 『ハーパー・リーガン』
 author: sugi
-layout: post
 date: 2010-09-11
 url: /play/2256/
 ---

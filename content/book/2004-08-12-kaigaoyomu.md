@@ -2,7 +2,6 @@
 type: post
 title: 若桑みどり『絵画を読む～イコノロジー入門』
 author: sugi
-layout: post
 date: 2004-08-12
 url: /book/960/
 ---

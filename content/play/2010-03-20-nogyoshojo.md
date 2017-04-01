@@ -2,7 +2,6 @@
 type: post
 title: 『農業少女』
 author: sugi
-layout: post
 date: 2010-03-20
 url: /play/2165/
 ---

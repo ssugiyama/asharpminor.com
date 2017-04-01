@@ -2,7 +2,6 @@
 type: post
 title: 奥泉光『新・地底旅行』
 author: sugi
-layout: post
 date: 2007-05-01
 url: /book/1557/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 阿部和重『インディヴィジュアル・プロジェクション』
 author: sugi
-layout: post
 date: 2004-01-25
 url: /book/802/
 ---

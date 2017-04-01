@@ -2,7 +2,6 @@
 type: post
 title: innerchild『（紙の上の）ユグドラシル』
 author: sugi
-layout: post
 date: 2008-04-05
 url: /play/1768/
 ---

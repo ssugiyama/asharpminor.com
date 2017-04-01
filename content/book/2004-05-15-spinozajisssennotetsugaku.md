@@ -2,7 +2,6 @@
 type: post
 title: G.ドゥルーズ（鈴木雅大訳）『スピノザ 実践の哲学』
 author: sugi
-layout: post
 date: 2004-05-15
 url: /book/887/
 ---

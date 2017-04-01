@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『消失』
 author: sugi
-layout: post
 date: 2004-12-18
 url: /play/1054/
 ---

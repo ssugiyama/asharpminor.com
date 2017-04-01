@@ -2,7 +2,6 @@
 type: post
 title: 遊園地再生事業団プロデュース『モーターサイクル・ドン・キホーテ』
 author: sugi
-layout: post
 date: 2006-05-27
 url: /play/1369/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 青年団『平田オリザ演劇展 vol.2 隣にいても一人 関西編』
 author: sugi
-layout: post
 date: 2012-04-14
 url: /play/3197/
 ---

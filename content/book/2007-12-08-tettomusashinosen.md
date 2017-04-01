@@ -2,7 +2,6 @@
 type: post
 title: 銀林みのる『鉄塔 武蔵野線』
 author: sugi
-layout: post
 date: 2007-12-08
 url: /book/1695/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 内田樹『寝ながら学べる構造主義』
 author: sugi
-layout: post
 date: 2004-06-12
 url: /book/908/
 ---

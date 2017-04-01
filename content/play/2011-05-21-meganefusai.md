@@ -2,7 +2,6 @@
 type: post
 title: 城山羊の会『メガネ夫妻のイスタンブール旅行記』
 author: sugi
-layout: post
 date: 2011-05-21
 url: /play/2391/
 ---

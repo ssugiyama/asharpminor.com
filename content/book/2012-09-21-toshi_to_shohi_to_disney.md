@@ -2,7 +2,6 @@
 type: post
 title: 速水健朗『都市と消費とディズニーの夢——ショッピングモーライゼーションの時代』
 author: sugi
-layout: post
 date: 2012-09-20
 url: /book/3651/
 ---

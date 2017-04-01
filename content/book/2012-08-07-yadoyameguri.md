@@ -2,7 +2,6 @@
 type: post
 title: 町田康『宿屋めぐり』
 author: sugi
-layout: post
 date: 2012-08-06
 url: /book/3542/
 ---

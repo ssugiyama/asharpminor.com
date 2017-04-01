@@ -2,7 +2,6 @@
 type: post
 title: AGAPE store『しかたがない穴』
 author: sugi
-layout: post
 date: 2004-03-05
 url: /play/828/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 平田オリザ『演技と演出』
 author: sugi
-layout: post
 date: 2012-11-11
 url: /book/3762/
 ---

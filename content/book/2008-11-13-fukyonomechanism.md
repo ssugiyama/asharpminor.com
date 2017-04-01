@@ -2,7 +2,6 @@
 type: post
 title: 小野善康『不況のメカニズム ---- ケインズ『一般理論』から新たな「不況動学」へ』
 author: sugi
-layout: post
 date: 2008-11-13
 url: /book/1896/
 ---

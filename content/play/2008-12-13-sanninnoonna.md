@@ -2,7 +2,6 @@
 type: post
 title: 竹中直人の匙かげん『三人の女』
 author: sugi
-layout: post
 date: 2008-12-13
 url: /play/1917/
 ---

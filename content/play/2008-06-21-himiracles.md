@@ -2,7 +2,6 @@
 type: post
 title: 劇団♪♪ダンダンブエノ七味公演『ハイ！ミラクルズ』
 author: sugi
-layout: post
 date: 2008-06-21
 url: /play/1812/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 殊能将之『ハサミ男』
 author: sugi
-layout: post
 date: 2004-02-29
 url: /book/825/
 ---

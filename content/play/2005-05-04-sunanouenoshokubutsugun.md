@@ -2,7 +2,6 @@
 type: post
 title: Kera・Map『砂の上の植物群』
 author: sugi
-layout: post
 date: 2005-05-04
 url: /play/1150/
 ---

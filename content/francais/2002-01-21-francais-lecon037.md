@@ -2,7 +2,6 @@
 type: post
 title: フランス語とインターネット
 author: sugi
-layout: post
 date: 2002-01-21
 url: /francais/434/
 ---

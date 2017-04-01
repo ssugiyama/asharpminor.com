@@ -2,7 +2,6 @@
 type: post
 title: 『幸せ最高ありがとうマジで！』
 author: sugi
-layout: post
 date: 2008-11-01
 url: /play/1888/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ジェローム・K・ジェローム（丸谷才一訳）『ボートの三人男』
 author: sugi
-layout: post
 date: 2004-02-14
 url: /book/814/
 ---

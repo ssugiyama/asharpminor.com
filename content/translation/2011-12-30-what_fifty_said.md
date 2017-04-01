@@ -2,7 +2,6 @@
 type: post
 title: 『50男の言ったこと』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2011-12-29
 url: /translation/2864/
 ---

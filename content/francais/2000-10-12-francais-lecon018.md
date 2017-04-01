@@ -2,7 +2,6 @@
 type: post
 title: 否定文と疑問文
 author: sugi
-layout: post
 date: 2000-10-12
 url: /francais/206/
 ---

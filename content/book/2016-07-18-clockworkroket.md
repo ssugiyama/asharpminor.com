@@ -5,6 +5,7 @@ title = "グレッグ・イーガン（山岸真、中村融訳）『クロッ�
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/514dXABDmuL._SX285_BO1,204,203,200_.jpg"
 ebook = 1
+tags = ["orthogonal", "gregegan"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4153350249/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51cW1NAZLAL.jpg" alt="クロックワーク・ロケット (新☆ハヤカワ・SF・シリーズ)" style="border: none;" class="alignleft"  /></a>
 

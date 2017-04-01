@@ -2,7 +2,6 @@
 type: post
 title: シティボーイズミックス『そこで黄金のキッス』
 author: sugi
-layout: post
 date: 2009-05-02
 url: /play/1999/
 ---

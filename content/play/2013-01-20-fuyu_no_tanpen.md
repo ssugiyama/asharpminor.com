@@ -2,7 +2,6 @@
 type: post
 title: 昨日の祝賀会『冬の短編』
 author: sugi
-layout: post
 date: 2013-01-19
 url: /play/3898/
 ---

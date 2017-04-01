@@ -2,7 +2,6 @@
 type: post
 title: 青年団『火宅か修羅か』
 author: sugi
-layout: post
 date: 2008-01-04
 url: /play/1717/
 ---

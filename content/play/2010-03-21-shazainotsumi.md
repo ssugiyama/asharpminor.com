@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルズパイルズ『謝罪の罪』
 author: sugi
-layout: post
 date: 2010-03-21
 url: /play/2167/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 大澤真幸『文明の内なる衝突 テロ後の世界を考える』
 author: sugi
-layout: post
 date: 2004-05-23
 url: /book/894/
 ---

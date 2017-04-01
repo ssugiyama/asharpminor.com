@@ -2,7 +2,6 @@
 type: post
 title: 思想地図β Vol.1
 author: sugi
-layout: post
 date: 2010-01-23
 url: /book/2328/
 ---

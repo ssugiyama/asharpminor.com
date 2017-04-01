@@ -2,7 +2,6 @@
 type: post
 title: 佐々木敦『未知との遭遇 — 無限のセカイと有限のワタシ』
 author: sugi
-layout: post
 date: 2012-01-07
 url: /book/2895/
 ---

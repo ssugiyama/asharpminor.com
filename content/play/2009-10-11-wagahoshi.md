@@ -2,7 +2,6 @@
 type: post
 title: 青年団リンク ままごと『わが星』
 author: sugi
-layout: post
 date: 2009-10-11
 url: /play/2082/
 ---

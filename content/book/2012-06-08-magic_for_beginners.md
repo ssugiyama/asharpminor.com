@@ -2,7 +2,6 @@
 type: post
 title: ケリー・リンク（柴田元幸訳）『マジック・フォー・ビギナーズ』
 author: sugi
-layout: post
 date: 2012-06-08
 url: /book/3375/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ポール・オースター（柴田元幸訳）『孤独の発明』
 author: sugi
-layout: post
 date: 2004-02-22
 url: /book/819/
 ---

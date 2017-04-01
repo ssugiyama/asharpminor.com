@@ -2,7 +2,6 @@
 type: post
 title: パウロ・バチカルビ（田中一江、金子浩訳）『ねじまき少女』
 author: sugi
-layout: post
 date: 2012-03-21
 url: /book/3116/
 suf_magazine_headline:

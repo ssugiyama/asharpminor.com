@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『色彩を持たない多崎つくると、彼の巡礼の年』
 author: sugi
-layout: post
 date: 2013-04-22
 url: /book/4090/
 ---

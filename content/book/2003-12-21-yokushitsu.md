@@ -2,7 +2,6 @@
 type: post
 title: ジャン=フィリップ・トゥーサン（野崎歓訳）『浴室』
 author: sugi
-layout: post
 date: 2003-12-21
 url: /book/767/
 ---

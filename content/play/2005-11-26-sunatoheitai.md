@@ -2,7 +2,6 @@
 type: post
 title: 青年団『砂と兵隊』
 author: sugi
-layout: post
 date: 2005-11-26
 url: /play/1270/
 ---

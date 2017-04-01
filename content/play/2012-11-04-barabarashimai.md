@@ -2,7 +2,6 @@
 type: post
 title: 水素74%『バラバラ姉妹に憐れみを』
 author: sugi
-layout: post
 date: 2012-11-03
 url: /play/3800/
 ---

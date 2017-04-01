@@ -2,7 +2,6 @@
 type: post
 title: 阿佐ヶ谷スパイダース『少女とガソリン』
 author: sugi
-layout: post
 date: 2007-06-10
 url: /play/1578/
 ---

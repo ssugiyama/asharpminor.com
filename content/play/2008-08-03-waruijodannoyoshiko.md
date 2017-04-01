@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『悪い冗談のよし子』
 author: sugi
-layout: post
 date: 2008-08-03
 url: /play/1839/
 ---

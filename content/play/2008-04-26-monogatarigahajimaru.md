@@ -2,7 +2,6 @@
 type: post
 title: 月影番外地『物語が、始まる』
 author: sugi
-layout: post
 date: 2008-04-26
 url: /play/1779/
 ---

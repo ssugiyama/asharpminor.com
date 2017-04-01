@@ -2,7 +2,6 @@
 type: post
 title: チェルフィッチュ『三月の5日間』
 author: sugi
-layout: post
 date: 2011-12-18
 url: /play/2829/
 ---

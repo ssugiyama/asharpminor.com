@@ -2,7 +2,6 @@
 type: post
 title: 北田暁大『嗤う日本の「ナショナリズム」』
 author: sugi
-layout: post
 date: 2005-03-05
 url: /book/1108/
 ---

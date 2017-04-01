@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『海辺のカフカ』
 author: sugi
-layout: post
 date: 2005-02-20
 url: /book/1101/
 ---

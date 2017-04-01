@@ -2,7 +2,6 @@
 type: post
 title: 単純未来
 author: sugi
-layout: post
 date: 2001-02-21
 url: /francais/272/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『生きてるものか』
 author: sugi
-layout: post
 date: 2009-10-24
 url: /play/2088/
 ---

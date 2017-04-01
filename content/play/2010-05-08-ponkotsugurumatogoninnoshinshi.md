@@ -2,7 +2,6 @@
 type: post
 title: 日本語を読むその3『ポンコツ車と五人の紳士』
 author: sugi
-layout: post
 date: 2010-05-08
 url: /play/2193/
 ---

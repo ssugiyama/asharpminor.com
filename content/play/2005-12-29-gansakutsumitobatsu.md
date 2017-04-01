@@ -2,7 +2,6 @@
 type: post
 title: 野田地図『贋作・罪と罰』
 author: sugi
-layout: post
 date: 2005-12-29
 url: /play/1285/
 ---

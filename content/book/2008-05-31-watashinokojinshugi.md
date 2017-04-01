@@ -2,7 +2,6 @@
 type: post
 title: 夏目漱石『私の個人主義』
 author: sugi
-layout: post
 date: 2008-05-31
 url: /book/1801/
 ---

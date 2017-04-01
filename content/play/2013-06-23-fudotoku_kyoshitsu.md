@@ -2,7 +2,6 @@
 type: post
 title: 'M&Oplaysプロデュース『不道徳教室』'
 author: sugi
-layout: post
 date: 2013-06-23
 url: /play/4323/
 ---

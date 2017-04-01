@@ -2,7 +2,6 @@
 type: post
 title: 『ザ・ダイバー』日本バージョン
 author: sugi
-layout: post
 date: 2009-08-22
 url: /play/2058/
 ---

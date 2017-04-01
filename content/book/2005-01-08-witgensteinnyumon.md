@@ -2,7 +2,6 @@
 type: post
 title: 永井均『ウィトゲンシュタイン入門』
 author: sugi
-layout: post
 date: 2005-01-08
 url: /book/1072/
 ---

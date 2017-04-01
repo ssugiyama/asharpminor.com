@@ -2,7 +2,6 @@
 type: post
 title: innerchild『アメノクニ／フルコトフミ～八雲立つユーレンシア～』
 author: sugi
-layout: post
 date: 2007-01-13
 url: /play/1496/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: その他の時制
 author: sugi
-layout: post
 date: 2002-01-03
 url: /francais/421/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 阿部和重『アメリカの夜』
 author: sugi
-layout: post
 date: 2003-12-29
 url: /book/776/
 ---

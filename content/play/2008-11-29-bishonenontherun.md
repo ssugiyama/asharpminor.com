@@ -2,7 +2,6 @@
 type: post
 title: 表現・さわやか『美少年オンザラン』
 author: sugi
-layout: post
 date: 2008-11-29
 url: /play/1911/
 ---

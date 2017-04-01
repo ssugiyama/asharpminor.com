@@ -2,7 +2,6 @@
 type: post
 title: 『恋する妊婦』
 author: sugi
-layout: post
 date: 2008-02-16
 url: /play/1740/
 ---

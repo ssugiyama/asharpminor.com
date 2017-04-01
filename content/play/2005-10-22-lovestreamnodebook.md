@@ -2,7 +2,6 @@
 type: post
 title: オールツーステップスクール『ラブストリーム・ノートブック』
 author: sugi
-layout: post
 date: 2005-10-22
 url: /play/1252/
 ---

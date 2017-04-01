@@ -2,7 +2,6 @@
 type: post
 title: 青年団リンク水素74%『謎の球体X』
 author: sugi
-layout: post
 date: 2011-09-11
 url: /play/2451/
 ---

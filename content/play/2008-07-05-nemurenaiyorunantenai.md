@@ -2,7 +2,6 @@
 type: post
 title: 青年団『眠れない夜なんてない』
 author: sugi
-layout: post
 date: 2008-07-05
 url: /play/1821/
 ---

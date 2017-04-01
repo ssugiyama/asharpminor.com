@@ -1,7 +1,6 @@
 ---
 title: ジャネット・ウィンターソン（岸本佐知子訳）『オレンジだけが果物じゃない』
 author: sugi
-layout: post
 date: 2011-12-26
 url: /book/2859/
 ---

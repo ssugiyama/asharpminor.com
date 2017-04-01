@@ -2,7 +2,6 @@
 type: post
 title: 『友達』
 author: sugi
-layout: post
 date: 2008-11-22
 url: /play/1904/
 ---

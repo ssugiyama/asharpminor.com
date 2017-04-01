@@ -2,7 +2,6 @@
 type: post
 title: グレッグ・イーガン（山岸真訳）『宇宙消失』
 author: sugi
-layout: post
 date: 2004-11-21
 url: /book/1038/
 ---

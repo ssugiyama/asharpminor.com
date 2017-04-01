@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『シャープさんフラットさん』（ホワイトチーム）
 author: sugi
-layout: post
 date: 2008-10-19
 url: /play/1879/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ハイバイ『ポンポンお前の自意識に小刻みに振りたくなるんだポンポン』
 author: sugi
-layout: post
 date: 2012-07-21
 url: /play/3513/
 ---

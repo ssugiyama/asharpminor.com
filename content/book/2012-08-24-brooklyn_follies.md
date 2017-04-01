@@ -2,7 +2,6 @@
 type: post
 title: ポール・オースター（柴田元幸訳）『ブルックリン・フォリーズ』
 author: sugi
-layout: post
 date: 2012-08-24
 url: /book/3578/
 ---

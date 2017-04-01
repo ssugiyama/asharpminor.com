@@ -2,7 +2,6 @@
 type: post
 title: 比較の表現
 author: sugi
-layout: post
 date: 2000-12-13
 url: /francais/237/
 ---

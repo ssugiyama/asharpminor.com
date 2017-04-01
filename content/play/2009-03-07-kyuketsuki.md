@@ -2,7 +2,6 @@
 type: post
 title: グリング『吸血鬼』
 author: sugi
-layout: post
 date: 2009-03-07
 url: /play/1968/
 ---

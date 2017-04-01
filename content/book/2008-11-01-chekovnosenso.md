@@ -2,7 +2,6 @@
 type: post
 title: 宮沢章夫『チェーホフの戦争』
 author: sugi
-layout: post
 date: 2008-11-01
 url: /book/1887/
 ---

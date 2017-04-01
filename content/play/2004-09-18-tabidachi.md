@@ -2,7 +2,6 @@
 type: post
 title: 演劇弁当猫ニャー『たびだち』
 author: sugi
-layout: post
 date: 2004-09-18
 url: /play/990/
 ---

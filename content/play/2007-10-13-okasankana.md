@@ -2,7 +2,6 @@
 type: post
 title: 『犯さん哉』
 author: sugi
-layout: post
 date: 2007-10-13
 url: /play/1663/
 ---

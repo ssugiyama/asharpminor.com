@@ -2,7 +2,6 @@
 type: post
 title: 表現・さわやか『そこそこ黒の男』
 author: sugi
-layout: post
 date: 2006-11-25
 url: /play/1465/
 ---

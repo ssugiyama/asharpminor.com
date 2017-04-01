@@ -2,7 +2,6 @@
 type: post
 title: 松本圭二『アストロノート』
 author: sugi
-layout: post
 date: 2006-10-13
 url: /book/1441/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルパイルズ『道子の調査』
 author: sugi
-layout: post
 date: 2006-08-26
 url: /play/1418/
 ---

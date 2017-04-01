@@ -2,7 +2,6 @@
 type: post
 title: カズオ・イシグロ（土屋政雄訳）『日の名残り』
 author: sugi
-layout: post
 date: 2009-08-18
 url: /book/2056/
 ---

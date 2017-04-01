@@ -2,7 +2,6 @@
 type: post
 title: 城山羊の会『スキラギノエリの小さな事件』
 author: sugi
-layout: post
 date: 2012-06-16
 url: /play/3396/
 ---

@@ -1,7 +1,6 @@
 ---
 title: 小澤征爾×村上春樹『小澤征爾さんと、音楽について話をする』
 author: sugi
-layout: post
 date: 2011-12-16
 url: /book/2814/
 ---

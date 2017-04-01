@@ -2,7 +2,6 @@
 type: post
 title: 青年団『革命日記』
 author: sugi
-layout: post
 date: 2010-05-02
 url: /play/2187/
 ---

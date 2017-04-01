@@ -2,7 +2,6 @@
 type: post
 title: 『華麗なる招待 - The Long Christmas Dinner -』（Tree version）
 author: sugi
-layout: post
 date: 2010-07-31
 url: /play/2237/
 ---

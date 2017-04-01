@@ -2,7 +2,6 @@
 type: post
 title: 城山羊の会『あの山の稜線が崩れてゆく』
 author: sugi
-layout: post
 date: 2012-12-02
 url: /play/3789/
 ---

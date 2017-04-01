@@ -2,7 +2,6 @@
 type: post
 title: ブラックウッド『秘書綺譚 ブラックウッド幻想怪奇傑作集』
 author: sugi
-layout: post
 date: 2012-02-11
 url: /book/3027/
 ---

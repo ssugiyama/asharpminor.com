@@ -2,7 +2,6 @@
 type: post
 title: チェルフィッチュ『わたしたちは無傷な別人であるのか？』
 author: sugi
-layout: post
 date: 2010-02-20
 url: /play/2152/
 ---

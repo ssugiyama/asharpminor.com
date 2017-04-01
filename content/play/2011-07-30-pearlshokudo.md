@@ -2,7 +2,6 @@
 type: post
 title: 青☆組『パール食堂のマリア』
 author: sugi
-layout: post
 date: 2011-07-30
 url: /play/2427/
 ---

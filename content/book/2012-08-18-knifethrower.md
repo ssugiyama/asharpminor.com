@@ -2,7 +2,6 @@
 type: post
 title: スティーヴン・ミルハウザー（柴田元幸訳）『ナイフ投げ師』
 author: sugi
-layout: post
 date: 2012-08-17
 url: /book/3562/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 水素74%『半透明のオアシス』
 author: sugi
-layout: post
 date: 2013-04-20
 url: /play/4082/
 ---

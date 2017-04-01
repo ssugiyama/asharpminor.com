@@ -2,7 +2,6 @@
 type: post
 title: カズオ・イシグロ（土屋政雄訳）『わたしを離さないで』
 author: sugi
-layout: post
 date: 2012-04-02
 url: /book/3155/
 ---

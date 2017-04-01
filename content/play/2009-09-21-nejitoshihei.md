@@ -2,7 +2,6 @@
 type: post
 title: 『ネジと紙幣』
 author: sugi
-layout: post
 date: 2009-09-21
 url: /play/2070/
 ---

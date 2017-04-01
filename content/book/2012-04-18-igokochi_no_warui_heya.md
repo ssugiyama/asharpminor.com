@@ -2,7 +2,6 @@
 type: post
 title: 岸本佐知子編訳『居心地の悪い部屋』
 author: sugi
-layout: post
 date: 2012-04-17
 url: /book/3212/
 ---

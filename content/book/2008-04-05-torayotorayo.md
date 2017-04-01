@@ -2,7 +2,6 @@
 type: post
 title: アルフレッド・ベスター（中田耕治訳）『虎よ、虎よ！』
 author: sugi
-layout: post
 date: 2008-04-05
 url: /book/1767/
 ---

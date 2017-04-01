@@ -2,7 +2,6 @@
 type: post
 title: チェルフィッチュ『現在地』
 author: sugi
-layout: post
 date: 2012-04-21
 url: /play/3218/
 ---

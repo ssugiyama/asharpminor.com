@@ -2,7 +2,6 @@
 type: post
 title: 受動態
 author: sugi
-layout: post
 date: 2001-01-27
 url: /francais/261/
 ---

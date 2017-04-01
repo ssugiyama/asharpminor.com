@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『百年の秘密』
 author: sugi
-layout: post
 date: 2012-04-28
 url: /play/3236/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 『出会いと別れ』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2012-07-19
 url: /translation/3509/
 ---

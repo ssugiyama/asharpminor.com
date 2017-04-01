@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『世田谷カフカ』
 author: sugi
-layout: post
 date: 2009-10-10
 url: /play/2079/
 ---

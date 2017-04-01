@@ -2,7 +2,6 @@
 type: post
 title: 日付と時刻
 author: sugi
-layout: post
 date: 2000-06-25
 url: /francais/142/
 ---

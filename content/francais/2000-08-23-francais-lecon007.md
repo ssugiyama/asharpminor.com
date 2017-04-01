@@ -2,7 +2,6 @@
 type: post
 title: あいさつと敬称
 author: sugi
-layout: post
 date: 2000-08-23
 url: /francais/169/
 ---

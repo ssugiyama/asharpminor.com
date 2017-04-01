@@ -2,7 +2,6 @@
 type: post
 title: '『昨日』 by  ルイーズ・ララン'
 author: sugi
-layout: post
 date: 2012-05-20
 url: /translation/3341/
 ---

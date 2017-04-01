@@ -2,7 +2,6 @@
 type: post
 title: サンプル『ゲヘナにて』
 author: sugi
-layout: post
 date: 2011-07-02
 url: /play/2412/
 ---

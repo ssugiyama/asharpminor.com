@@ -2,7 +2,6 @@
 type: post
 title: 『ヴィラ・グランデ青山 〜返り討ちの日曜日〜』
 author: sugi
-layout: post
 date: 2011-11-12
 url: /play/2598/
 ---

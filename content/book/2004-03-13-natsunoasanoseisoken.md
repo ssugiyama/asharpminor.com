@@ -2,7 +2,6 @@
 type: post
 title: 池澤夏樹『夏の朝の成層圏』
 author: sugi
-layout: post
 date: 2004-03-13
 url: /book/833/
 ---

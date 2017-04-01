@@ -2,7 +2,6 @@
 type: post
 title: 冠詞
 author: sugi
-layout: post
 date: 2000-08-30T01:00:00+09:00
 url: /francais/176/
 ---

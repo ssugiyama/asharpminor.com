@@ -2,7 +2,6 @@
 type: post
 title: あうるすぽっとプロデュース『家電のように解り合えない』
 author: sugi
-layout: post
 date: 2011-09-24
 url: /play/2460/
 ---

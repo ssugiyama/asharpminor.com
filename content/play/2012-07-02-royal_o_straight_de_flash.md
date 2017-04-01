@@ -2,7 +2,6 @@
 type: post
 title: 表現・さわやか『ロイヤルをストレートでフラッシュ！！』
 author: sugi
-layout: post
 date: 2012-07-01
 url: /play/3461/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 青山円劇カウンシル♯6 ～breath～『いやむしろわすれて草』
 author: sugi
-layout: post
 date: 2013-05-17
 url: /play/4132/
 ---

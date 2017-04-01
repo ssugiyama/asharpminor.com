@@ -2,7 +2,6 @@
 type: post
 title: 青年団『暗愚小傳』
 author: sugi
-layout: post
 date: 2004-07-03
 url: /play/921/
 ---

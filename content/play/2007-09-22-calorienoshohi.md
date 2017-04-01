@@ -2,7 +2,6 @@
 type: post
 title: サンプル『カロリーの消費』
 author: sugi
-layout: post
 date: 2007-09-22
 url: /play/1648/
 ---

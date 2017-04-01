@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『スプートニクの恋人』
 author: sugi
-layout: post
 date: 2005-02-26
 url: /book/1105/
 ---

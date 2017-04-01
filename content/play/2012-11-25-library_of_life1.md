@@ -2,7 +2,6 @@
 type: post
 title: イキウメ『The Library of Life まとめ＊図書館的人生 ㊤』
 author: sugi
-layout: post
 date: 2012-11-24
 url: /play/3779/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 前置詞
 author: sugi
-layout: post
 date: 2000-09-19T00:00:00+09:00
 url: /francais/194/
 ---

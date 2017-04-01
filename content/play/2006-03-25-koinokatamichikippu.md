@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『恋の片道切符』
 author: sugi
-layout: post
 date: 2006-03-25
 url: /play/1332/
 ---

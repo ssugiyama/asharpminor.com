@@ -2,7 +2,6 @@
 type: post
 title: 怪奇探偵小説名作選〈8〉日影丈吉集―かむなぎうた
 author: sugi
-layout: post
 date: 2004-01-04
 url: /book/784/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: シティボーイズミックス『モーゴの人々』
 author: sugi
-layout: post
 date: 2007-04-29
 url: /play/1554/
 ---

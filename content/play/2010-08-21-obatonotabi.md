@@ -2,7 +2,6 @@
 type: post
 title: 『叔母との旅』
 author: sugi
-layout: post
 date: 2010-08-21
 url: /play/2246/
 ---

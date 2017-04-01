@@ -2,7 +2,6 @@
 type: post
 title: チャイナ・ミエヴィル（日暮雅通訳）『ペルディード・ストリート・ステーション』
 author: sugi
-layout: post
 date: 2012-07-28
 url: /book/3526/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 加藤典洋『日本の無思想』
 author: sugi
-layout: post
 date: 2004-07-11
 url: /book/930/
 ---

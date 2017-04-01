@@ -2,7 +2,6 @@
 type: post
 title: ウィリアム・ギブソン&ブルース・スターリング（黒丸尚訳）『ディファレンス・エンジン』
 author: sugi
-layout: post
 date: 2008-12-13
 url: /book/1916/
 ---

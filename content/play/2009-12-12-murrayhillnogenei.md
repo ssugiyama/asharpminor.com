@@ -2,7 +2,6 @@
 type: post
 title: 『マレーヒルの幻影』
 author: sugi
-layout: post
 date: 2009-12-12
 url: /play/2113/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: パルコ・プロデュース『欲望という名の電車』
 author: sugi
-layout: post
 date: 2011-04-16
 url: /play/2369/
 ---

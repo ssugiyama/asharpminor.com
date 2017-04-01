@@ -2,7 +2,6 @@
 type: post
 title: 『南部高速道路』
 author: sugi
-layout: post
 date: 2012-06-09
 url: /play/3379/
 ---

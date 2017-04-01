@@ -2,7 +2,6 @@
 type: post
 title: 戸山田和久『科学哲学の冒険 サイエンスの目的と方法論を探る』
 author: sugi
-layout: post
 date: 2005-03-12
 url: /book/1111/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 大塚英志『木島日記 乞丐相』
 author: sugi
-layout: post
 date: 2004-04-03
 url: /book/851/
 ---

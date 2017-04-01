@@ -2,7 +2,6 @@
 type: post
 title: 『ユリは薔薇をもっている』 by e.e. カミングス
 author: sugi
-layout: post
 date: 2012-01-26
 url: /translation/2952/
 ---

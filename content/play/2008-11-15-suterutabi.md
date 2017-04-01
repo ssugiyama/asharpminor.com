@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『すてるたび』
 author: sugi
-layout: post
 date: 2008-11-15
 url: /play/1899/
 ---

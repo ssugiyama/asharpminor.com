@@ -2,7 +2,6 @@
 type: post
 title: ナイロビ＋三鷹市芸術文化センタープロデュース『気ままにミッドナイト・タイフーン』
 author: sugi
-layout: post
 date: 2005-03-19
 url: /play/1115/
 ---

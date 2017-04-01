@@ -2,7 +2,6 @@
 type: post
 title: 阿部和重『シンセミア』
 author: sugi
-layout: post
 date: 2007-07-07
 url: /book/1594/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 希望は羽のあるいきもの by エミリー・ディキンソン
 author: sugi
-layout: post
 date: 2012-07-15
 url: /translation/3505/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 過去分詞
 author: sugi
-layout: post
 date: 2000-12-21T01:00:00+09:00
 url: /francais/243/
 ---

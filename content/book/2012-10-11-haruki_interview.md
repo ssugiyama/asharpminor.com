@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『夢を見るために毎朝僕は目覚めるのです 村上春樹インタビュー集1997-2011』
 author: sugi
-layout: post
 date: 2012-10-10
 url: /book/3678/
 ---

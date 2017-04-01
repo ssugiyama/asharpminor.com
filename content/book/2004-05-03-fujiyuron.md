@@ -2,7 +2,6 @@
 type: post
 title: 仲正昌樹『「不自由」論―「何でも自己決定」の限界』
 author: sugi
-layout: post
 date: 2004-05-03
 url: /book/876/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『ヤバ口さんちのツトム君』
 author: sugi
-layout: post
 date: 2007-08-04
 url: /play/1615/
 ---

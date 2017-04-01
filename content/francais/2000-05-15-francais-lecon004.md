@@ -2,7 +2,6 @@
 type: post
 title: 子音の発音
 author: sugi
-layout: post
 date: 2000-05-15T03:00:00+09:00
 url: /francais/116/
 ---

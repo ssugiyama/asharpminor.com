@@ -2,7 +2,6 @@
 type: post
 title: 快快『SHIBAHAMA』
 author: sugi
-layout: post
 date: 2010-06-05
 url: /play/2208/
 ---

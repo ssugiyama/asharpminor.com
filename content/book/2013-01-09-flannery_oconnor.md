@@ -2,7 +2,6 @@
 type: post
 title: 『フラナリー・オコナー全短編（上・下）』（横山貞子訳）
 author: sugi
-layout: post
 date: 2013-01-08
 url: /book/3872/
 ---

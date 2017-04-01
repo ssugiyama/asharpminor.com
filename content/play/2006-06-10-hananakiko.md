@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『華なき子』
 author: sugi
-layout: post
 date: 2006-06-10
 url: /play/1377/
 ---

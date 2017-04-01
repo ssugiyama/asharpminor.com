@@ -2,7 +2,6 @@
 type: post
 title: 福永信『コップとコッペパンとペン』
 author: sugi
-layout: post
 date: 2007-06-23
 url: /book/1585/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 不規則動詞の活用(2)
 author: sugi
-layout: post
 date: 2000-12-10T01:00:00+09:00
 url: /francais/236/
 ---

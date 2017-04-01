@@ -2,7 +2,6 @@
 type: post
 title: イキウメ『獣の柱 まとめ＊図書館的人生㊦』
 author: sugi
-layout: post
 date: 2013-05-25
 url: /play/4271/
 ---

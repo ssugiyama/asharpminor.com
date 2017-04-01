@@ -2,7 +2,6 @@
 type: post
 title: 柴田元幸『翻訳教室』
 author: sugi
-layout: post
 date: 2013-05-21
 url: /book/4265/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 円城塔『オブ・ザ・ベースボール』
 author: sugi
-layout: post
 date: 2012-04-25
 url: /book/3229/
 ---

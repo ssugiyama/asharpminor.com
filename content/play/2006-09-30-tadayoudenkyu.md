@@ -2,7 +2,6 @@
 type: post
 title: オリガト・プラスティコ『漂う電球』
 author: sugi
-layout: post
 date: 2006-09-30
 url: /play/1432/
 ---

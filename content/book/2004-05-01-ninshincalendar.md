@@ -2,7 +2,6 @@
 type: post
 title: 小川洋子『妊娠カレンダー』
 author: sugi
-layout: post
 date: 2004-05-01
 url: /book/873/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 代名動詞
 author: sugi
-layout: post
 date: 2000-12-15
 url: /francais/238/
 ---

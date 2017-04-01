@@ -2,7 +2,6 @@
 type: post
 title: 上野修『スピノザの世界 神あるいは自然』
 author: sugi
-layout: post
 date: 2005-05-04
 url: /book/1149/
 ---

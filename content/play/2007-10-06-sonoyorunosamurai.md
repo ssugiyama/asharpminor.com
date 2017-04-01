@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『その夜の侍』
 author: sugi
-layout: post
 date: 2007-10-06
 url: /play/1658/
 ---

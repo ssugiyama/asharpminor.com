@@ -2,7 +2,6 @@
 type: post
 title: 『誰もいない場所』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2011-11-05
 url: /translation/2576/
 ---

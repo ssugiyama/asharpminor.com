@@ -2,7 +2,6 @@
 type: post
 title: 『カリフォルニアのスーパーマーケット』 by アレン・ギンズバーグ
 author: sugi
-layout: post
 date: 2011-12-04
 url: /translation/2794/
 ---

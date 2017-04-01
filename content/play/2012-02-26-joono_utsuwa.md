@@ -2,7 +2,6 @@
 type: post
 title: サンプル『女王の器』
 author: sugi
-layout: post
 date: 2012-02-25
 url: /play/3065/
 ---

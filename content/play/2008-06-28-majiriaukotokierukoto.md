@@ -2,7 +2,6 @@
 type: post
 title: 『混じりあうこと、消えること』
 author: sugi
-layout: post
 date: 2008-06-28
 url: /play/1816/
 ---

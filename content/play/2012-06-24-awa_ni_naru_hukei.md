@@ -2,7 +2,6 @@
 type: post
 title: マームとジプシー『ドコカ遠クノ、ソレヨリ向コウ　或いは、泡ニナル、風景』
 author: sugi
-layout: post
 date: 2012-06-23
 url: /play/3417/
 ---

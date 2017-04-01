@@ -1,7 +1,6 @@
 ---
 title: 速水健朗『ラーメンと愛国』
 author: sugi
-layout: post
 date: 2011-11-08
 url: /book/2590/
 ---

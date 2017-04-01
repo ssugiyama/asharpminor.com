@@ -2,7 +2,6 @@
 type: post
 title: 浅羽通明『ナショナリズム——名著でたどる日本思想入門』
 author: sugi
-layout: post
 date: 2013-07-01
 url: /book/4333/
 ---

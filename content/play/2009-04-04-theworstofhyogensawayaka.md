@@ -2,7 +2,6 @@
 type: post
 title: 表現・さわやか+B-amiru『ザ ワースト オブ 表現・さわやか』
 author: sugi
-layout: post
 date: 2009-04-04
 url: /play/1983/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: êtreとavoir
 author: sugi
-layout: post
 date: 2000-09-27
 url: /francais/199/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 現在分詞
 author: sugi
-layout: post
 date: 2000-12-21T00:00:00+09:00
 url: /francais/242/
 ---

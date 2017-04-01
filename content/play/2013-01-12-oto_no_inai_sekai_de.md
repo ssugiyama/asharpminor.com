@@ -2,7 +2,6 @@
 type: post
 title: 『音のいない世界で』
 author: sugi
-layout: post
 date: 2013-01-11
 url: /play/3878/
 ---

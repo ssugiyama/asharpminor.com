@@ -2,7 +2,6 @@
 type: post
 title: 城山羊の会『微笑の壁』
 author: sugi
-layout: post
 date: 2010-10-30
 url: /play/2284/
 ---

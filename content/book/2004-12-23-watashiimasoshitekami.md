@@ -2,7 +2,6 @@
 type: post
 title: 永井均『私・今・そして神』
 author: sugi
-layout: post
 date: 2004-12-23
 url: /book/1058/
 ---

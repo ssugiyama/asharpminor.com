@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『迷子になるわ』
 author: sugi
-layout: post
 date: 2010-11-06
 url: /play/2289/
 ---

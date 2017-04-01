@@ -2,7 +2,6 @@
 type: post
 title: 数
 author: sugi
-layout: post
 date: 2000-05-21
 url: /francais/120/
 ---

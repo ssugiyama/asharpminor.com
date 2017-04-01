@@ -2,7 +2,6 @@
 type: post
 title: クリオネプロデュース『パリアッチ』
 author: sugi
-layout: post
 date: 2005-07-16
 url: /play/1192/
 ---

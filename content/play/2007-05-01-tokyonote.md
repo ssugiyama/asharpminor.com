@@ -2,7 +2,6 @@
 type: post
 title: 青年団『東京ノート』
 author: sugi
-layout: post
 date: 2007-05-01
 url: /play/1558/
 ---

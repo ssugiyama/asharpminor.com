@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『俺の宇宙船、』
 author: sugi
-layout: post
 date: 2009-02-07
 url: /play/1952/
 ---

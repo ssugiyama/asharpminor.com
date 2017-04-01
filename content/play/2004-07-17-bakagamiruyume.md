@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『バカが見る夢すごい夢』
 author: sugi
-layout: post
 date: 2004-07-17
 url: /play/934/
 ---

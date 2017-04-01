@@ -2,7 +2,6 @@
 type: post
 title: 地点『あたしちゃん、行く先を言って -- 太田省吾全テクストより --』
 author: sugi
-layout: post
 date: 2010-01-23
 url: /play/2139/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ハイバイ『投げられやすい石』
 author: sugi
-layout: post
 date: 2011-01-29
 url: /play/2333/
 ---

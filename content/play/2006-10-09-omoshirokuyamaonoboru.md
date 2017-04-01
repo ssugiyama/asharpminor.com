@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『面白く山をのぼる』
 author: sugi
-layout: post
 date: 2006-10-09
 url: /play/1439/
 ---

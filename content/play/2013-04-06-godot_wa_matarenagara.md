@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『ゴドーは待たれながら』（プレビュー公演）
 author: sugi
-layout: post
 date: 2013-04-06
 url: /play/4066/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: FUKAIPRODUCE羽衣『Still on a roll』
 author: sugi
-layout: post
 date: 2013-07-20
 url: /play/4401/
 attitude_sidebarlayout:

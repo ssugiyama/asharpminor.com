@@ -2,7 +2,6 @@
 type: post
 title: 永井均『これがニーチェだ』
 author: sugi
-layout: post
 date: 2005-01-02
 url: /book/1067/
 ---

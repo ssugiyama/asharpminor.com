@@ -2,7 +2,6 @@
 type: post
 title: シリーウォークプロデュース『フリドニア～フリドニア日記#1～』
 author: sugi
-layout: post
 date: 2004-03-27
 url: /play/845/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: リチャード・ブローティガン（青木日出夫訳）『愛のゆくえ』
 author: sugi
-layout: post
 date: 2005-01-22
 url: /book/1085/
 ---

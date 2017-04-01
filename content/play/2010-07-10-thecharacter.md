@@ -2,7 +2,6 @@
 type: post
 title: 野田地図『ザ・キャラクター』
 author: sugi
-layout: post
 date: 2010-07-10
 url: /play/2225/
 ---

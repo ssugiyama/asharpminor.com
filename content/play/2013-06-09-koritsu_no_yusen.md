@@ -2,7 +2,6 @@
 type: post
 title: 城山羊の会『効率の優先』
 author: sugi
-layout: post
 date: 2013-06-09
 url: /play/4305/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: チャイナ・ミエヴィル『都市と都市』
 author: sugi
-layout: post
 date: 2012-01-28
 url: /book/2957/
 ---

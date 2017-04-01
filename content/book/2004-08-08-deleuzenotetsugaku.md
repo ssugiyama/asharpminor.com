@@ -2,7 +2,6 @@
 type: post
 title: 小泉義之『ドゥルーズの哲学 生命・自然・未来のために』
 author: sugi
-layout: post
 date: 2004-08-08
 url: /book/958/
 ---

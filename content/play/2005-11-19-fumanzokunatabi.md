@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルパイルズ『不満足な旅』
 author: sugi
-layout: post
 date: 2005-11-19
 url: /play/1265/
 ---

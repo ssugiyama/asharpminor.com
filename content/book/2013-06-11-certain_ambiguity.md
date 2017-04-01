@@ -2,7 +2,6 @@
 type: post
 title: ガウラヴ・スリ＆ハートシュ・シン・バル（東江一紀訳）『数学小説 確固たる曖昧さ』
 author: sugi
-layout: post
 date: 2013-06-11
 url: /book/4312/
 ---

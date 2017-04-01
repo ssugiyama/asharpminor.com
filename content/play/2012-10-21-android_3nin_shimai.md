@@ -2,7 +2,6 @@
 type: post
 title: 青年団『アンドロイド版 三人姉妹』
 author: sugi
-layout: post
 date: 2012-10-20
 url: /play/3697/
 ---

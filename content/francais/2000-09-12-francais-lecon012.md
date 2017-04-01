@@ -2,7 +2,6 @@
 type: post
 title: コラム：フランス語における男女平等
 author: sugi
-layout: post
 date: 2000-09-12
 url: /francais/190/
 ---

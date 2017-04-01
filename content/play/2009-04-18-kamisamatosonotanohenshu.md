@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『神様とその他の変種』
 author: sugi
-layout: post
 date: 2009-04-18
 url: /play/1991/
 ---

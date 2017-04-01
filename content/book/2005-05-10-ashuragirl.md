@@ -2,7 +2,6 @@
 type: post
 title: 舞城王太郎『阿修羅ガール』
 author: sugi
-layout: post
 date: 2005-05-10
 url: /book/1153/
 ---

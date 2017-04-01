@@ -2,7 +2,6 @@
 type: post
 title: 『ここまできたのははじめてだ』 by e.e. カミングス
 author: sugi
-layout: post
 date: 2013-05-05
 url: /translation/4116/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 齋藤慎一『中世から道を読む』
 author: sugi
-layout: post
 date: 2013-03-02
 url: /book/3982/
 ---

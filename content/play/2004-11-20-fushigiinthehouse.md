@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『不思議インザハウス』
 author: sugi
-layout: post
 date: 2004-11-20
 url: /play/1036/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: サンプル+青年団『地下室』
 author: sugi
-layout: post
 date: 2013-01-26
 url: /play/3925/
 ---

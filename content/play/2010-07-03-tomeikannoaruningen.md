@@ -2,7 +2,6 @@
 type: post
 title: 『透明感のある人間』
 author: sugi
-layout: post
 date: 2010-07-03
 url: /play/2221/
 ---

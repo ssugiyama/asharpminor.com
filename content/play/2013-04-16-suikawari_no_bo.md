@@ -2,7 +2,6 @@
 type: post
 title: シティボーイズミックス PRESENTS 『西瓜割の棒、あなたたちの春に、桜の下ではじめる準備を』
 author: sugi
-layout: post
 date: 2013-04-15
 url: /play/4075/
 ---

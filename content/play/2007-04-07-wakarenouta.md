@@ -2,7 +2,6 @@
 type: post
 title: 青年団国際演劇交流プロジェクト2007『別れの唄』
 author: sugi
-layout: post
 date: 2007-04-07
 url: /play/1539/
 ---

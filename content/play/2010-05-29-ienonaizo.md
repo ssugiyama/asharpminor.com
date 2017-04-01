@@ -2,7 +2,6 @@
 type: post
 title: アル☆カンパニー『家の内臓』
 author: sugi
-layout: post
 date: 2010-05-29
 url: /play/2205/
 ---

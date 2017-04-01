@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルパイルズ『ベルが鳴る前に』
 author: sugi
-layout: post
 date: 2012-02-19
 url: /play/3047/
 ---

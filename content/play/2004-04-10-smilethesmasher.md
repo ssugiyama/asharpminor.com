@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルパイルズ『スマイル・ザ・スマッシャー』
 author: sugi
-layout: post
 date: 2004-04-10
 url: /play/856/
 ---

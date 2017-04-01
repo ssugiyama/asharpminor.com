@@ -1,7 +1,6 @@
 ---
 title: バルザック（宮下志朗訳）『グランド・ブルテーシュ奇譚』
 author: sugi
-layout: post
 date: 2011-11-16
 url: /book/2622/
 ---

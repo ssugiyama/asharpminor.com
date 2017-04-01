@@ -2,7 +2,6 @@
 type: post
 title: 地点『桜の園』
 author: sugi
-layout: post
 date: 2008-10-18
 url: /play/1877/
 ---

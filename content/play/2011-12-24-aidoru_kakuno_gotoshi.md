@@ -2,7 +2,6 @@
 type: post
 title: 'M&O Playsプロデュース『アイドル、かくの如し』'
 author: sugi
-layout: post
 date: 2011-12-23
 url: /play/2842/
 ---

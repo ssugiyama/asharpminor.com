@@ -2,7 +2,6 @@
 type: post
 title: 半過去
 author: sugi
-layout: post
 date: 2001-02-09
 url: /francais/266/
 ---

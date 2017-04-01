@@ -2,7 +2,6 @@
 type: post
 title: 『ぼくは想うだろう 人生なんて』 by e.e. カミングス
 author: sugi
-layout: post
 date: 2011-11-09
 url: /translation/2594/
 ---

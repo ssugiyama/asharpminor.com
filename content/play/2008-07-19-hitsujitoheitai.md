@@ -2,7 +2,6 @@
 type: post
 title: 『羊と兵隊』
 author: sugi
-layout: post
 date: 2008-07-19
 url: /play/1829/
 ---

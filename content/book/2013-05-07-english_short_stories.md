@@ -2,7 +2,6 @@
 type: post
 title: 西崎憲編訳『短編小説日和 英国異色傑作選』
 author: sugi
-layout: post
 date: 2013-05-06
 url: /book/4118/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 拙者ムニエル『グッド・アイデアマンズ・ユニーク・アドベンチャー』
 author: sugi
-layout: post
 date: 2003-06-21
 url: /play/657/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『宮本武蔵』
 author: sugi
-layout: post
 date: 2012-06-10
 url: /play/3393/
 ---

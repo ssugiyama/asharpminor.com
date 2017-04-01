@@ -2,7 +2,6 @@
 type: post
 title: 五反田団+ASTROV『アンダスタンダブル?』
 author: sugi
-layout: post
 date: 2012-09-29
 url: /play/3659/
 ---

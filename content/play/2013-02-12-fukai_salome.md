@@ -2,7 +2,6 @@
 type: post
 title: FUKAIPRODUCE羽衣『サロメ vs ヨカナーン』
 author: sugi
-layout: post
 date: 2013-02-11
 url: /play/3970/
 ---

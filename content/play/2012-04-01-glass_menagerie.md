@@ -2,7 +2,6 @@
 type: post
 title: 『ガラスの動物園』
 author: sugi
-layout: post
 date: 2012-03-31
 url: /play/3136/
 ---

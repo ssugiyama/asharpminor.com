@@ -2,7 +2,6 @@
 type: post
 title: 『シェイクスピア・ソナタ』
 author: sugi
-layout: post
 date: 2007-09-01
 url: /play/1633/
 ---

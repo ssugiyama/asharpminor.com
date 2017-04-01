@@ -2,7 +2,6 @@
 type: post
 title: 『東京月光魔曲』
 author: sugi
-layout: post
 date: 2009-12-29
 url: /play/2124/
 ---

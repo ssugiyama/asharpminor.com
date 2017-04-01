@@ -2,7 +2,6 @@
 type: post
 title: 動物電気『わんぱくカルシウム』
 author: sugi
-layout: post
 date: 2004-07-10
 url: /play/928/
 ---

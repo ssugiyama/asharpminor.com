@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『肉屋の息子』
 author: sugi
-layout: post
 date: 2004-06-19
 url: /play/913/
 ---

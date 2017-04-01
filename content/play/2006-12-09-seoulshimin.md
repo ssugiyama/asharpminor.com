@@ -2,7 +2,6 @@
 type: post
 title: 青年団『ソウル市民 昭和望郷編』
 author: sugi
-layout: post
 date: 2006-12-09
 url: /play/1474/
 ---

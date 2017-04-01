@@ -2,7 +2,6 @@
 type: post
 title: 小島寛之『確率的発想法 数学を日常に生かす』
 author: sugi
-layout: post
 date: 2004-06-04
 url: /book/902/
 ---

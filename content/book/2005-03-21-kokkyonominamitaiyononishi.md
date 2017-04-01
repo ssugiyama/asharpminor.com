@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『国境の南、太陽の西』
 author: sugi
-layout: post
 date: 2005-03-21
 url: /book/1120/
 ---

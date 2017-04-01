@@ -1,7 +1,6 @@
 ---
 title: ドストエフスキー（安岡治子訳）『地下室の手記』
 author: sugi
-layout: post
 date: 2007-09-22
 url: /book/1647/
 attitude_sidebarlayout:

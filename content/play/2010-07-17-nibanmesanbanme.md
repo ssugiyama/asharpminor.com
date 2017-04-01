@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『2番目、或いは3番目』
 author: sugi
-layout: post
 date: 2010-07-17
 url: /play/2228/
 ---

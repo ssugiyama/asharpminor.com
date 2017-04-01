@@ -2,7 +2,6 @@
 type: post
 title: 『夜のことなら』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2011-11-04
 url: /translation/2565/
 ---

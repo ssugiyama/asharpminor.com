@@ -2,7 +2,6 @@
 type: post
 title: 乞局『汚い月』
 author: sugi
-layout: post
 date: 2009-11-07
 url: /play/2097/
 ---

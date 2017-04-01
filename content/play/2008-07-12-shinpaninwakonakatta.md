@@ -2,7 +2,6 @@
 type: post
 title: ペンギンプルペイルパイルズ『審判員は来なかった』
 author: sugi
-layout: post
 date: 2008-07-12
 url: /play/1825/
 ---

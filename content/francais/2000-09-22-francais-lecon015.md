@@ -2,7 +2,6 @@
 type: post
 title: 人称代名詞
 author: sugi
-layout: post
 date: 2000-09-22
 url: /francais/197/
 ---

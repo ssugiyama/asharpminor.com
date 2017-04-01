@@ -2,7 +2,6 @@
 type: post
 title: 阿部謹也『「世間」とは何か』
 author: sugi
-layout: post
 date: 2007-01-13
 url: /book/1495/
 ---

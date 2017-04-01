@@ -2,7 +2,6 @@
 type: post
 title: 『ポリグラフ 嘘発見器』
 author: sugi
-layout: post
 date: 2012-12-22
 url: /play/3819/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: E-Pin企画10周年記念公演+城山羊の会『イーピン光線』
 author: sugi
-layout: post
 date: 2010-02-13
 url: /play/2148/
 ---

@@ -1,9 +1,9 @@
 ---
 title: グレッグ・イーガン（山岸真編・訳）『プランク・ダイヴ』
 author: sugi
-layout: post
 date: 2011-11-01
 url: /book/2543/
+tags: ["gregegan"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118264/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51F52rdNM9L._SL160_.jpg?w=660" alt="プランク・ダイヴ (ハヤカワ文庫SF)" class="alignleft" data-recalc-dims="1" /></a>
 

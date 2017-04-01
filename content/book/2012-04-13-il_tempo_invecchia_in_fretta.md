@@ -2,7 +2,6 @@
 type: post
 title: アントニオ・タブッキ（和田忠彦訳）『時は老いをいそぐ』
 author: sugi
-layout: post
 date: 2012-04-13
 url: /book/3192/
 ---

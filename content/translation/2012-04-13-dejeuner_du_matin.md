@@ -2,7 +2,6 @@
 type: post
 title: 『その朝の朝食』 by ジャック・プレヴェール
 author: sugi
-layout: post
 date: 2012-04-12
 url: /translation/3174/
 ---

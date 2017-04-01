@@ -2,7 +2,6 @@
 type: post
 title: innerchild『アメノクニ／ヤマトブミ～Children Of the Sun～』
 author: sugi
-layout: post
 date: 2007-09-08
 url: /play/1638/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ナイロン100℃『犬は鎖につなぐべからず～岸田國士一幕劇コレクション～』
 author: sugi
-layout: post
 date: 2007-05-21
 url: /play/1564/
 ---

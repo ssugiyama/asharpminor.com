@@ -2,7 +2,6 @@
 type: post
 title: こどもとおとなのためのお芝居『暗いところからやってくる』
 author: sugi
-layout: post
 date: 2012-08-04
 url: /play/3535/
 ---

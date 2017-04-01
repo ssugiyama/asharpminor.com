@@ -2,7 +2,6 @@
 type: post
 title: 『マテリアル・ママ』
 author: sugi
-layout: post
 date: 2006-05-02
 url: /play/1352/
 ---

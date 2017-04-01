@@ -2,7 +2,6 @@
 type: post
 title: 指示代名詞と指示形容詞
 author: sugi
-layout: post
 date: 2000-09-19T01:00:00+09:00
 url: /francais/195/
 ---

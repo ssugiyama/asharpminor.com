@@ -2,7 +2,6 @@
 type: post
 title: 三浦俊彦『可能世界の哲学 「存在」と「自己」を考える』
 author: sugi
-layout: post
 date: 2004-06-15
 url: /book/911/
 ---

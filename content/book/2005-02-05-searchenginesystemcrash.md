@@ -2,7 +2,6 @@
 type: post
 title: 宮沢章夫『サーチエンジン・システムクラッシュ』
 author: sugi
-layout: post
 date: 2005-02-05
 url: /book/1091/
 ---

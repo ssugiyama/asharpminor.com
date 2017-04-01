@@ -2,7 +2,6 @@
 type: post
 title: サンプル『自慢の息子』
 author: sugi
-layout: post
 date: 2010-09-20
 url: /play/2262/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 規則動詞
 author: sugi
-layout: post
 date: 2000-10-04
 url: /francais/204/
 ---

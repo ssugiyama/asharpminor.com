@@ -2,7 +2,6 @@
 type: post
 title: 形容詞
 author: sugi
-layout: post
 date: 2000-09-08T00:00:00+09:00
 url: /francais/182/
 ---

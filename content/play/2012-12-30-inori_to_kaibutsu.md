@@ -2,7 +2,6 @@
 type: post
 title: 『祈りと怪物　～ウィルヴィルの三姉妹～』
 author: sugi
-layout: post
 date: 2012-12-29
 url: /play/3832/
 ---

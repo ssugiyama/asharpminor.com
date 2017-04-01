@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『緑色のスカート』
 author: sugi
-layout: post
 date: 2003-09-27
 url: /play/708/
 ---

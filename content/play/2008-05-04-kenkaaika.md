@@ -2,7 +2,6 @@
 type: post
 title: 猫のホテル『けんか哀歌』
 author: sugi
-layout: post
 date: 2008-05-04
 url: /play/1787/
 ---

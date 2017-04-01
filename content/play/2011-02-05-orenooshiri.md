@@ -2,7 +2,6 @@
 type: post
 title: 五反田団『俺のお尻から優しい音楽』
 author: sugi
-layout: post
 date: 2011-02-05
 url: /play/2336/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ウィリアム・サローヤン（関汀子訳）『ヒューマン・コメディ』
 author: sugi
-layout: post
 date: 2005-03-13
 url: /book/1113/
 ---

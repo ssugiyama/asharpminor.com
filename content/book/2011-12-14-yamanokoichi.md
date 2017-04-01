@@ -1,7 +1,6 @@
 ---
 title: 山野浩一『鳥はいまどこを飛ぶか』、『殺人者の空』
 author: sugi
-layout: post
 date: 2011-12-13
 url: /book/2804/
 ---

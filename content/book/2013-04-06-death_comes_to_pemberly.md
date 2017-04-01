@@ -2,7 +2,6 @@
 type: post
 title: P・D・ジェイムズ（羽田詩津子訳）『高慢と偏見、そして殺人』
 author: sugi
-layout: post
 date: 2013-04-05
 url: /book/4063/
 ---

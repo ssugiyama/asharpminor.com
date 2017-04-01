@@ -2,7 +2,6 @@
 type: post
 title: 村上春樹『世界の終わりとハードボイルドワンダーランド』
 author: sugi
-layout: post
 date: 2006-08-26
 url: /book/1417/
 ---

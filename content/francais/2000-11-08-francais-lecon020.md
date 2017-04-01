@@ -2,7 +2,6 @@
 type: post
 title: 不定法と命令法
 author: sugi
-layout: post
 date: 2000-11-08
 url: /francais/217/
 ---

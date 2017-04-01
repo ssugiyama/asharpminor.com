@@ -2,7 +2,6 @@
 type: post
 title: ジョン・スコルジー（内田昌之訳）『アンドロイドの夢の羊』
 author: sugi
-layout: post
 date: 2012-11-08
 url: /book/3753/
 ---

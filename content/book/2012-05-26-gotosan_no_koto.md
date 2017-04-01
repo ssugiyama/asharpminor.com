@@ -2,7 +2,6 @@
 type: post
 title: 円城塔『後藤さんのこと』
 author: sugi
-layout: post
 date: 2012-05-26
 url: /book/3352/
 ---

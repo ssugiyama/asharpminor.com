@@ -2,7 +2,6 @@
 type: post
 title: enとy
 author: sugi
-layout: post
 date: 2000-10-18
 url: /francais/209/
 ---

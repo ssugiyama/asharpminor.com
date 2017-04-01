@@ -2,7 +2,6 @@
 type: post
 title: 演劇集団円『未だ定まらず』
 author: sugi
-layout: post
 date: 2011-06-25
 url: /play/2409/
 ---

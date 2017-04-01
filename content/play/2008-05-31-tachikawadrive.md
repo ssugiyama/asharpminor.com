@@ -2,7 +2,6 @@
 type: post
 title: THE SHAMPOO HAT『立川ドライブ』
 author: sugi
-layout: post
 date: 2008-05-31
 url: /play/1802/
 ---

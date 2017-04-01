@@ -2,7 +2,6 @@
 type: post
 title: 遊園地再生事業団『トータル・リビング 1986-2011』
 author: sugi
-layout: post
 date: 2011-10-15
 url: /play/2471/
 ---

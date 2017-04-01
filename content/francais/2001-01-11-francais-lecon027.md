@@ -2,7 +2,6 @@
 type: post
 title: 近接過去と近接未来
 author: sugi
-layout: post
 date: 2001-01-11
 url: /francais/256/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: ポール・オースター編（柴田元幸他訳）『ナショナル・ストーリー・プロジェクト』
 author: sugi
-layout: post
 date: 2009-01-21
 url: /book/1944/
 ---

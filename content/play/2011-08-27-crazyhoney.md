@@ -2,7 +2,6 @@
 type: post
 title: パルコ・プロデュース『クレイジーハニー』
 author: sugi
-layout: post
 date: 2011-08-27
 url: /play/2443/
 ---

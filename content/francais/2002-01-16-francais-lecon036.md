@@ -2,7 +2,6 @@
 type: post
 title: 接続法
 author: sugi
-layout: post
 date: 2002-01-16
 url: /francais/431/
 ---

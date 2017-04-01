@@ -2,7 +2,6 @@
 type: post
 title: 『雪の粉』 by ロバート・フロスト
 author: sugi
-layout: post
 date: 2013-01-14
 url: /translation/3887/
 ---

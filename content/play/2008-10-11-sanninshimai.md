@@ -2,7 +2,6 @@
 type: post
 title: 地点『三人姉妹』
 author: sugi
-layout: post
 date: 2008-10-11
 url: /play/1872/
 ---

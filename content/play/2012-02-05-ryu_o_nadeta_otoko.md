@@ -2,7 +2,6 @@
 type: post
 title: オリガト・プラスティコ『龍を撫でた男』
 author: sugi
-layout: post
 date: 2012-02-04
 url: /play/2973/
 ---

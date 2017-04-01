@@ -2,7 +2,6 @@
 type: post
 title: 小林頼子『フェルメールの世界 17世紀オランダ風俗画家の軌跡』
 author: sugi
-layout: post
 date: 2004-07-19
 url: /book/938/
 ---

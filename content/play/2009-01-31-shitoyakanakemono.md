@@ -2,7 +2,6 @@
 type: post
 title: オリガト・プラスティコ『しとやかな獣』
 author: sugi
-layout: post
 date: 2009-01-31
 url: /play/1948/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: テッド・チャン（浅倉久志訳）『あなたの人生の物語』
 author: sugi
-layout: post
 date: 2004-12-29
 url: /book/1062/
 ---

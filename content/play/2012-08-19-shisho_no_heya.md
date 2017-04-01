@@ -2,7 +2,6 @@
 type: post
 title: 中井美穂×シアターグリーン企画 水素74%『師匠の部屋』
 author: sugi
-layout: post
 date: 2012-08-18
 url: /play/3566/
 ---

@@ -2,7 +2,6 @@
 type: post
 title: 保坂和志『明け方の夢』
 author: sugi
-layout: post
 date: 2005-03-19
 url: /book/1116/
 ---

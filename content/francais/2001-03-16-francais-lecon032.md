@@ -2,7 +2,6 @@
 type: post
 title: 間接話法
 author: sugi
-layout: post
 date: 2001-03-16
 url: /francais/281/
 ---

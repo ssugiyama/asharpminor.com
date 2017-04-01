@@ -2,7 +2,6 @@
 type: post
 title: 古川日出男『LOVE』
 author: sugi
-layout: post
 date: 2012-07-06
 url: /book/3486/
 ---

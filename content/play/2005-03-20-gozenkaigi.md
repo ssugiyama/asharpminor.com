@@ -2,7 +2,6 @@
 type: post
 title: 青年団『御前会議』
 author: sugi
-layout: post
 date: 2005-03-20
 url: /play/1118/
 ---

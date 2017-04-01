@@ -2,7 +2,6 @@
 type: post
 title: 永井荷風『すみだ川・新橋夜話』
 author: sugi
-layout: post
 date: 2009-03-07
 url: /book/1963/
 ---

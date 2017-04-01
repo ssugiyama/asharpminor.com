@@ -2,7 +2,6 @@
 type: post
 title: 三浦俊彦『論理学入門 推論のセンスとテクニックのために』
 author: sugi
-layout: post
 date: 2005-01-30
 url: /book/1089/
 ---

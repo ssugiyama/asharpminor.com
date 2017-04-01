@@ -2,7 +2,6 @@
 type: post
 title: チェルフィッチュ『目的地』
 author: sugi
-layout: post
 date: 2005-11-03
 url: /play/1257/
 ---

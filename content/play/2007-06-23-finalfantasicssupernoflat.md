@@ -2,7 +2,6 @@
 type: post
 title: 劇団、本谷有希子『ファイナルファンタジックスーパーノーフラット』
 author: sugi
-layout: post
 date: 2007-06-23
 url: /play/1586/
 ---

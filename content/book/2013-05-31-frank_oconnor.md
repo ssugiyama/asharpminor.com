@@ -2,7 +2,6 @@
 type: post
 title: フランク・オコナー短編集
 author: sugi
-layout: post
 date: 2013-05-30
 url: /book/4284/
 ---

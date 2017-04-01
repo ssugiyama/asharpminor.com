@@ -2,7 +2,6 @@
 type: post
 title: Kera・Map『ヤング・マーブル・ジャイアンツ』
 author: sugi
-layout: post
 date: 2005-06-30
 url: /play/1183/
 ---
