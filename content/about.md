@@ -1,7 +1,6 @@
 ---
 title: このブログについて
 author: sugi
-layout: page
 date: 2015-12-06
 type: page
 weight: 100

@@ -2,7 +2,6 @@
 type: page
 title: よりぬきツイート
 author: sugi
-layout: page
 date: 2015-05-11
 url: /favorite_tweets
 weight: 200

@@ -1,6 +1,6 @@
-{{ $currentNode := . }}
-{{ range .Site.Menus.sections }}
-{{if or ($currentNode.IsMenuCurrent "sections" .) ($currentNode.HasMenuCurrent "sections" .) }}
-{{ .Name }}
-{{end}}
-{{end}}
+{{- $currentNode := . -}}
+{{- range .Site.Menus.sections -}}
+{{- if or ($currentNode.IsMenuCurrent "sections" .) ($currentNode.HasMenuCurrent "sections" .) -}}
+{{- .Name -}}
+{{- end -}}
+{{- end -}}
