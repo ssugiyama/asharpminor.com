@@ -4,6 +4,7 @@ title: 村上春樹『色彩を持たない多崎つくると、彼の巡礼の�
 author: sugi
 date: 2013-04-22
 url: /book/4090/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4163821104/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4163821104/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/41NAeswPUWL._SL160_.jpg?w=660" alt="色彩を持たない多崎つくると、彼の巡礼の年" class="alignleft"  data-recalc-dims="1" /></a>
 

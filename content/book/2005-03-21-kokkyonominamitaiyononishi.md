@@ -4,6 +4,7 @@ title: 村上春樹『国境の南、太陽の西』
 author: sugi
 date: 2005-03-21
 url: /book/1120/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062630869/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41pdBnCDnaL.jpg" alt="国境の南、太陽の西 (講談社文庫)" style="border: none;" class="alignleft"/></a>
 

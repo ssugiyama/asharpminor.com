@@ -4,6 +4,7 @@ type = "post"
 date = "2017-03-20T00:24:44+09:00"
 title = "村上春樹『騎士団長殺し』"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51p7tKk0O8L.jpg"
+tags = ["murakamiharuki"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/410353432X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51p7tKk0O8L._SL160_.jpg" alt="騎士団長殺し :第1部 顕れるイデア編" class="alignleft"  /></a>
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4103534338/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51X38mFslPL._SL160_.jpg" alt="騎士団長殺し :第2部 遷ろうメタファー編" class="alignleft"  /></a>

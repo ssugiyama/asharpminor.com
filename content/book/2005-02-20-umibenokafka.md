@@ -4,6 +4,7 @@ title: 村上春樹『海辺のカフカ』
 author: sugi
 date: 2005-02-20
 url: /book/1101/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0049B3OPE/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41XbcJnLe8L.jpg" alt="海辺のカフカ 全2巻 完結セット (新潮文庫)" style="border: none;" class="alignleft"/></a>
 

@@ -4,6 +4,7 @@ title: 村上春樹『夢を見るために毎朝僕は目覚めるのです 村
 author: sugi
 date: 2012-10-10
 url: /book/3678/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4167502127/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4167502127/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/51M3VCmRC6L._SL160_.jpg?w=660" alt="夢を見るために毎朝僕は目覚めるのです 村上春樹インタビュー集1997-2011 (文春文庫)" class="alignleft"  data-recalc-dims="1" /></a>
 

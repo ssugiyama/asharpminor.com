@@ -4,6 +4,7 @@ title: ポール・オースター（柴田元幸訳）『孤独の発明』
 author: sugi
 date: 2004-02-22
 url: /book/819/
+tags: ["palauster"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/410245103X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61ENAFQSKHL.jpg" alt="孤独の発明 (新潮文庫)" class="alignleft" /></a>
 

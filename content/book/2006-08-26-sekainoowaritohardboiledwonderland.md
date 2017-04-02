@@ -4,6 +4,7 @@ title: 村上春樹『世界の終わりとハードボイルドワンダーラ�
 author: sugi
 date: 2006-08-26
 url: /book/1417/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101001340/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" src="http://ec2.images-amazon.com/images/I/511WD5D924L.SL160.jpg" alt="世界の終りとハードボイルド・ワンダーランド〈上〉" /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101001359/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" src="http://ec2.images-amazon.com/images/I/51RHJ4HTC1L.SL160.jpg" alt="世界の終りとハードボイルド・ワンダーランド〈下〉" /></a>
 

@@ -4,6 +4,7 @@ title: ポール・オースター（柴田元幸訳）『ブルックリン・�
 author: sugi
 date: 2012-08-24
 url: /book/3578/
+tags: ["palauster"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4105217151/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4105217151/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/514bx1LJIwL._SL160_.jpg?w=660" alt="ブルックリン・フォリーズ" class="alignleft" data-recalc-dims="1" /></a>
 

@@ -4,6 +4,7 @@ title: 村上春樹『スプートニクの恋人』
 author: sugi
 date: 2005-02-26
 url: /book/1105/
+tags: ["murakamiharuki"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062731290/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/412MWA2EPHL.jpg" alt="スプートニクの恋人 (講談社文庫)" style="border: none;" class="alignleft"/></a>
 
