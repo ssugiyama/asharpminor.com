@@ -4,6 +4,7 @@ title: グレッグ・イーガン（山岸真訳）『宇宙消失』
 author: sugi
 date: 2004-11-21
 url: /book/1038/
+tags: ["gregegan"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488711014/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51JFAFSJC7L.jpg" alt="宇宙消失 (創元SF文庫)" style="border: none;" class="alignleft" /></a>
 

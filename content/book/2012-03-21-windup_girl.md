@@ -4,8 +4,7 @@ title: パウロ・バチカルビ（田中一江、金子浩訳）『ねじま�
 author: sugi
 date: 2012-03-21
 url: /book/3116/
-suf_magazine_headline:
-  - on
+tags: ["dystopia"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118094/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4150118094/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/516pHWa4RNL._SL160_.jpg?w=660" alt="ねじまき少女 上 (ハヤカワ文庫SF)" class="alignleft"  data-recalc-dims="1" /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150118108/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4150118108/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/517B2riMrKL._SL160_.jpg?w=660" alt="ねじまき少女 下 (ハヤカワ文庫SF)" class="alignleft"  data-recalc-dims="1" /></a>
 
