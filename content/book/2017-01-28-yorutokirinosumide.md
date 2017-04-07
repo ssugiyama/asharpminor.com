@@ -5,6 +5,7 @@ author = "sugi"
 date = "2017-01-28T21:56:02+09:00"
 image= "https://images-fe.ssl-images-amazon.com/images/I/51NWQbfrkaL.jpg"
 ebook = 1
+tags = ["kitamorio"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101131015/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51NWQbfrkaL.jpg" alt="夜と霧の隅で (新潮文庫)" class="alignleft"  /></a>
 

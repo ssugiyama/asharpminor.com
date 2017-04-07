@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/41973Kib%2BqL.jpg" 
+tags = ["kitamorio"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4101131031/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41973Kib%2BqL.jpg" alt="どくとるマンボウ航海記 (新潮文庫)" class="alignleft"  /></a>
 
