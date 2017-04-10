@@ -4,7 +4,7 @@
   "description": "",
   "main": "hugo",
   "scripts": {
-    "postinstall": "cp -a node_modules/social-share-kit/dist/{js,css,fonts} static"
+    "postinstall": "cp -a node_modules/social-share-kit/dist/* static"
   },
   "repository": {
     "type": "git",
