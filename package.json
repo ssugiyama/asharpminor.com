@@ -1,0 +1,22 @@
+{
+  "name": "asharpminor.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hugo",
+  "scripts": {
+    "postinstall": "cp -a node_modules/social-share-kit/dist/{js,css,fonts} static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssugiyama/asharpminor.com.git"
+  },
+  "author": "Shinichi SUGIYAMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssugiyama/asharpminor.com/issues"
+  },
+  "homepage": "https://github.com/ssugiyama/asharpminor.com#readme",
+  "dependencies": {
+    "social-share-kit": "git+https://github.com/darklow/social-share-kit.git"
+  }
+}
