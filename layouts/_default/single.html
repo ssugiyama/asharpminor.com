@@ -31,23 +31,7 @@
                     </li>
                     {{ end }}
                 </ul>
-
-                {{ if and .Site.Params.ShowRelatedPost .Params.tags }}
-                <!-- Related post. -->
-                <h3>Related Post</h3>
-                <ul class="post-rels">
-                    {{ $page_link := .Permalink }}
-                    {{ $tags := .Params.tags }}
-                    {{ range .Site.Pages }}
-                    {{ $page := . }}
-                    {{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
-                    {{ if and $has_common_tags (ne $page_link $page.Permalink) }}
-                    <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
-                    {{ end }}
-                    {{ end }}
-                </ul>
             </aside>
-            {{ end }}
             <!-- Pagination. -->
             <footer>
 

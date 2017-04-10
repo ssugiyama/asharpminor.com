@@ -12,37 +12,56 @@
 </script>
 
 <aside>
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-12">
-			<div class="panel panel-default">
-				<gcse:search></gcse:search>
-			</div>
-		</div>		
-		<div class="col-xs-12 col-sm-4 col-md-12">
-			<div class="panel panel-default">
-				<Div class="panel-heading">
-					<h2 class="panel-title">Sections</h2>
-				</div>
-				<div class="list-group">
-					{{ $currentNode := . }}
-					{{ range .Site.Menus.sections }}
-					<a class="{{if or ($currentNode.IsMenuCurrent "sections" .) ($currentNode.HasMenuCurrent "sections" .) }} active{{end}} list-group-item" href="{{.URL}}">{{ .Name }}</a>
-					{{ end }}
-				</div>
-			</div>
-		</div>
-		<div class="col-xs-12 col-sm-4 col-md-12">
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h2 class="panel-title">Recent Posts</h2>
-				</div>
-				<div class="list-group">
-					{{range first 10 (where .Site.Pages "Section" "!=" "") }}
-					<a href="{{.RelPermalink}}" class="list-group-item">{{ .Title }}</a>
-					{{ end }}
-				</div>
-			</div>
-		</div>
-
+    <div class="row">
+	<div class="col-xs-12 col-sm-4 col-md-12">
+	    <div class="panel panel-default">
+		<gcse:search></gcse:search>
+	    </div>
 	</div>
+        {{ if and .Site.Params.ShowRelatedPost .Params.tags .IsPage }}        
+	<div class="col-xs-12 col-sm-4 col-md-12">
+	    <div class="panel panel-default">
+		<Div class="panel-heading">
+		    <h2 class="panel-title">Related Posts</h2>
+		</div>
+		<div class="list-group">
+                    {{ $page_link := .Permalink }}
+                    {{ $tags := .Params.tags }}
+                    {{ range .Site.Pages }}
+                    {{ $page := . }}
+                    {{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
+                    {{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+                    <a class="list-group-item" href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+                    {{ end }}
+                    {{ end }}
+		</div>
+	    </div>
+	</div>
+        {{ end }}
+	<div class="col-xs-12 col-sm-4 col-md-12">
+	    <div class="panel panel-default">
+		<Div class="panel-heading">
+		    <h2 class="panel-title">Sections</h2>
+		</div>
+		<div class="list-group">
+		    {{ $currentNode := . }}
+		    {{ range .Site.Menus.sections }}
+		    <a class="{{if or ($currentNode.IsMenuCurrent "sections" .) ($currentNode.HasMenuCurrent "sections" .) }} active{{end}} list-group-item" href="{{.URL}}">{{ .Name }}</a>
+		    {{ end }}
+		</div>
+	    </div>
+	</div>
+	<div class="col-xs-12 col-sm-4 col-md-12">
+	    <div class="panel panel-default">
+		<div class="panel-heading">
+		    <h2 class="panel-title">Recent Posts</h2>
+		</div>
+		<div class="list-group">
+		    {{range first 10 (where .Site.Pages "Section" "!=" "") }}
+		    <a href="{{.RelPermalink}}" class="list-group-item">{{ .Title }}</a>
+		    {{ end }}
+		</div>
+	    </div>
+	</div>
+    </div>
 </aside>
