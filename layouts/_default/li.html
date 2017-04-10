@@ -1,23 +1,17 @@
-
-<article class="post">
-    <header>
-        <div class="post-date">
-            <span class="glyphicon glyphicon-calendar"></span>
-            <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
-                {{ .Date.Format .Site.Params.DateForm }}
-            </time>
+    <div style="width: 100%;">
+        <div class="thumbnail">
+            {{ if .Params.image }}
+            <div class="image" style="background: url('{{ .Params.image }}') center / cover;"  ></div>
+            {{ end }}
+            <div class="caption">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Summary }}...</p>
+                <div class="date">
+                    <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
+                        {{ .Date.Format .Site.Params.DateForm }}
+                    </time>
+                </div>
+                <p><a href="{{ .Permalink }}" class="btn btn-primary" role="button">読む</a></p>
+            </div>
         </div>
-        <h2 class="post-title h3">
-	    <a href="{{ .Permalink }}">{{ .Title }}{{ if .Params.ebook }}<img src="/images/ebook.png" alt="ebook" />{{ end }}</a>
-        </h2>
-    </header>
-    <div class="post-content">
-        {{ .Summary }}...
     </div>
-    <footer class="readon">
-        <a href="{{ .Permalink }}" class="btn btn-default">
-            読む
-        </a>
-    </footer>
-</article>
-<hr>
