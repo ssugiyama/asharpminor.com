@@ -1,9 +1,8 @@
 {{ partial "default_head.html" . }}
 <div class="row">
     <div class="col-md-8">
-        <article class="post">
-
-            <header>
+        <article class="post panel panel-default">
+            <header class="panel-heading">
                 <div class="post-date">
                     <span class="glyphicon glyphicon-calendar"></span>
                     <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
@@ -15,26 +14,25 @@
                 </h1>
             </header>
 
-            <div class="post-content">
-                {{ .Content }}
+            <div class="post-content panel-body">
+              {{ .Content }}
             </div>
+            <aside class="panel-footer">
+	      {{ $baseurl := .Site.BaseURL }}
+	      <ul class="list-inline post-tags">
+                {{ range .Params.tags }}
+                <li>
+                  <a href="{{ $baseurl }}/tags/{{ . | urlize }}">
+                    <i class="fa fa-tags"></i>
+                    {{ . }}
+                  </a>
+                </li>
+                {{ end }}
+	      </ul>
+	    </aside>
 
-            <aside>
-                {{ $baseurl := .Site.BaseURL }}
-                <ul class="list-inline post-tags">
-                    {{ range .Params.tags }}
-                    <li>
-                        <a href="{{ $baseurl }}/tags/{{ . | urlize }}">
-                            <i class="fa fa-tags"></i>
-                            {{ . }}
-                        </a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </aside>
             <!-- Pagination. -->
-            <footer>
-
+            <footer class="panel-footer">	      
                 <nav>
                     <ul class="pager">
 

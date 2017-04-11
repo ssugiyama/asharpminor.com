@@ -1,17 +1,16 @@
-    <div style="width: 100%;">
-        <div class="thumbnail">
-            {{ if .Params.image }}
-            <div class="image" style="background: url('{{ .Params.image }}') center / cover;"  ></div>
-            {{ end }}
-            <div class="caption">
-                <h3>{{ .Title }}</h3>
-                <p>{{ .Summary }}...</p>
-                <div class="date">
-                    <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
-                        {{ .Date.Format .Site.Params.DateForm }}
-                    </time>
-                </div>
-                <p><a href="{{ .Permalink }}" class="btn btn-primary" role="button">読む</a></p>
-            </div>
-        </div>
+<div class="thumbnail">
+  {{ if .Params.image }}
+  <div class="image" style="background: url('{{ .Params.image }}') center / cover;"  ></div>
+  {{ end }}
+  <div class="caption">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary }}...</p>
+    <div class="footer">
+      <a href="{{ .Permalink }}" class="btn btn-primary" role="button">読む</a>
+      <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
+	{{ .Date.Format .Site.Params.DateForm }}
+      </time>
     </div>
+  </div>
+</div>
+

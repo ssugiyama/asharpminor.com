@@ -2,11 +2,13 @@
 
 <div class="row">
     <div class="col-md-8">
-        <div class="posts">
+      <div class="posts panel panel-default">
+	<div class="panel-body">
             {{ range first 10 (where .Data.Pages "Type" "post") }}
             {{ .Render "li" }}
             {{ end }}
         </div>
+      </div>
     </div>
     <div class="col-md-4">
         {{ partial "sidebar.html" . }}

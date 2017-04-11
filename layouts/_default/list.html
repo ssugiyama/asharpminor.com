@@ -2,23 +2,24 @@
 
 <div class="row">
   <div class="col-md-8">
-    <header>
-      <h1 class="post-title h2">
-    {{ if eq .Kind "taxonomy" }}
-    Tag : &quot;{{ .Title }}&quot;
-    {{ else if eq .Kind "section" }}
-    {{ partial "section_name.html" . }}
-    {{ end }}
-      </h1>
-   </header>
-   <hr>      
-    
-	<div class="posts">
-	    {{ range .Paginator.Pages }}	    
-	    {{ .Render "li" }}
-	    {{ end }}
-	    {{ template "_internal/pagination.html" . }}
-	</div>
+    <div class="panel panel-default">
+      <header class="panel-heading">
+	<h1 class="post-title h2">
+	  {{ if eq .Kind "taxonomy" }}
+	  Tag : &quot;{{ .Title }}&quot;
+	  {{ else if eq .Kind "section" }}
+	  {{ partial "section_name.html" . }}
+	  {{ end }}
+	</h1>
+      </header>
+      <div class="posts panel-body">
+	{{ range .Paginator.Pages }}	    
+	{{ .Render "li" }}
+	{{ end }}
+      </div>
+      <footer class="panel-footer">
+	{{ template "_internal/pagination.html" . }}
+      </footer>
     </div>
     <div class="col-md-4">
 	{{ partial "sidebar.html" . }}
