@@ -20,10 +20,12 @@
                     <ul class="nav navbar-nav">
                       {{ range where .Site.Pages "Section" ""  }}
 		      {{ if eq .Kind "page" }}
-                            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                       {{ end }}
 		      {{ end }}
-                            <li><a href="http://walk.asharpminor.com">walklog</a></li>		
+		      {{ range .Site.Params.Links }}
+                      <li><a href="{{ .url }}">{{ .title }}</a></li>
+		      {{ end }}
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">

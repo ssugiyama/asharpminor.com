@@ -15,6 +15,10 @@ Twitter = "chez_sugi"
 Github = "ssugiyama"
 ShowRelatedPost = 1
 
+[[params.Links]]
+	url = "https://walks.asharpminor.com"
+	title = "walklog"
+
  [[menu.sections]]
         name = "演劇ノート"
         weight = 0
