@@ -15,37 +15,51 @@ Twitter = "chez_sugi"
 Github = "ssugiyama"
 ShowRelatedPost = 1
 
-[[params.Links]]
+[[menu.header]]
+	name = "このサイトについて"
+	weight = -100
+	identifier = "about"
+	url = "/about"
+
+[[menu.header]]
+	name = "よりぬきツイート"
+	weight = -90
+	identifier = "favorite_tweets"
+	url = "/favorite_tweets"
+
+[[menu.header]]
+	name = "walklog"
+	weight = -80
+	identifier = "walklog"
 	url = "https://walks.asharpminor.com"
-	title = "walklog"
 
  [[menu.sections]]
         name = "演劇ノート"
-        weight = 0
+        weight = -100
         identifier = "play"
         url = "/play/"
  [[menu.sections]]
         name = "読書ノート"
-        weight = 10
+        weight = -90
         identifier = "book"
         url = "/book/"
  [[menu.sections]]
         name = "翻訳ラボ"
-        weight = 20
+        weight = -80
         identifier = "translation"
         url = "/translation/"
  [[menu.sections]]
         name = "SAQ"
-        weight = 30
+        weight = -70
         identifier = "saq"
         url = "/saq/"
  [[menu.sections]]
         name = "ふらんせ入門"
-        weight = 40
+        weight = -60
         identifier = "francais"
         url = "/francais/"
  [[menu.sections]]
         name = "lost+found"
-        weight = 50
+        weight = -50
         identifier = "lost+found"
         url = "/lost+found/"
