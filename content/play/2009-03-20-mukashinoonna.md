@@ -4,6 +4,7 @@ title: シリーズ・同時代【海外編】『昔の女』
 author: sugi
 date: 2009-03-20
 url: /play/1977/
+tags: ["kaigaidrama"]
 ---
 <img src="/images/play/20090320.jpg" alt="シリーズ・同時代【海外編】『昔の女』" class="alignleft" />
 

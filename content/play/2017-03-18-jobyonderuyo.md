@@ -4,6 +4,7 @@ title = "鳥公園『ヨブ呼んでるよ』"
 author = "sugi"
 type = "post"
 image = "https://asharpminor.com/images/play/2017/jobyonderuyo.jpg"
+tags = ["torikoen"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/jobyonderuyo.jpg" alt="ヨブ呼んでるよ" style="width: 300px !important;"></figure>
 

@@ -4,6 +4,7 @@ title: サンプル『自慢の息子』
 author: sugi
 date: 2010-09-20
 url: /play/2262/
+tags: ["sample"]
 ---
 <img src="/images/play/20100920.jpg" alt="サンプル『自慢の息子』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: サンプル『家族の肖像』
 author: sugi
 date: 2008-08-23
 url: /play/1848/
+tags: ["sample"]
 ---
 <img src="/images/play/20080823.jpg" alt="サンプル『家族の肖像』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: サンプル『カロリーの消費』
 author: sugi
 date: 2007-09-22
 url: /play/1648/
+tags: ["sample"]
 ---
 <img src="/images/play/20070922.jpg" alt="サンプル『カロリーの消費』" class="alignleft" />
 

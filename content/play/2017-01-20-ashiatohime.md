@@ -3,7 +3,8 @@ author = "sugi"
 type = "post"
 date = "2017-01-21T02:04:19+09:00"
 title = "野田地図『足跡姫 時代錯誤冬幽霊』"
-image = "https://asharpminor.com/images/play/2016/ashiatohime.jpg"
+image = "https://asharpminor.com/images/play/2017/ashiatohime.jpg"
+tags = ["nodamap"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/ashiatohime.jpg" alt="足跡姫" style="width: 300px !important;"></figure>
 

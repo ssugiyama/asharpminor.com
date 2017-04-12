@@ -4,6 +4,7 @@ title: サンプル『女王の器』
 author: sugi
 date: 2012-02-25
 url: /play/3065/
+tags: ["sample"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2012/02/ustuwa.jpg?resize=170%2C240" alt="女王の器" title="女王の器" class="alignleft size-full wp-image-3066" data-recalc-dims="1" />
 

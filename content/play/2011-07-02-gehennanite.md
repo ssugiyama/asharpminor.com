@@ -4,6 +4,7 @@ title: サンプル『ゲヘナにて』
 author: sugi
 date: 2011-07-02
 url: /play/2412/
+tags: ["sample"]
 ---
 <img src="/images/play/20110702.jpg" alt="サンプル『ゲヘナにて』" class="alignleft" />
 

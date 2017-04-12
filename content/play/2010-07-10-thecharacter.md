@@ -4,6 +4,7 @@ title: 野田地図『ザ・キャラクター』
 author: sugi
 date: 2010-07-10
 url: /play/2225/
+tags: ["nodamap"]
 ---
 <img src="/images/play/20100710.jpg" alt="野田地図『ザ・キャラクター』" class="alignleft" />
 

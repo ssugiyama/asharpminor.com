@@ -4,6 +4,7 @@ title: サンプル+青年団『地下室』
 author: sugi
 date: 2013-01-26
 url: /play/3925/
+tags: ["sample"]
 ---
 <a href="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/01/chikashitsu.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/01/chikashitsu.jpg?resize=240%2C170', '']);" ><img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/01/chikashitsu.jpg?resize=240%2C170" alt="地下室" class="alignleft wp-image-3926" data-recalc-dims="1" /></a>
 

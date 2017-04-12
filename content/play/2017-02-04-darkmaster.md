@@ -4,6 +4,7 @@ author = "sugi"
 type = "post"
 date = "2017-02-07T00:57:02+09:00"
 image = "https://asharpminor.com/images/play/2017/darkmaster.jpg"
+tags = ["penino"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/darkmaster.jpg" alt="" style="width: 300px !important;"></figure>
 
