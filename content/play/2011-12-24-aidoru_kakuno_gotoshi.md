@@ -4,6 +4,7 @@ title: 'M&O Playsプロデュース『アイドル、かくの如し』'
 author: sugi
 date: 2011-12-23
 url: /play/2842/
+tags: ["iwamatsuryo"]
 ---
 <a href="http://asharpminor.com/play-aidoru_kakuno_gotoshi/chirashi_omote_a" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://asharpminor.com/play-aidoru_kakuno_gotoshi/chirashi_omote_a', '']);" rel="attachment wp-att-2844"><img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2011/12/aidoru_kakuno_gotoshi.jpg?resize=170%2C240" alt="アイドル、かくの如し" title="アイドル、かくの如し" class="alignleft size-full wp-image-2844" data-recalc-dims="1" /></a>
 

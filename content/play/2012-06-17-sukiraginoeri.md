@@ -4,6 +4,7 @@ title: 城山羊の会『スキラギノエリの小さな事件』
 author: sugi
 date: 2012-06-16
 url: /play/3396/
+tags: ["shiroyagi"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/06/sukiraginoeri.jpg?resize=208%2C240" alt="スキラギノエリの小さな事件" title="スキラギノエリの小さな事件" class="alignleft size-full wp-image-3397" data-recalc-dims="1" />
 

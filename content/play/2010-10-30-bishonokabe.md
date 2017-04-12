@@ -4,6 +4,7 @@ title: 城山羊の会『微笑の壁』
 author: sugi
 date: 2010-10-30
 url: /play/2284/
+tags: ["shiroyagi"]
 ---
 <img src="/images/play/20101030.jpg" alt="城山羊の会『微笑の壁』" class="alignleft" />
 

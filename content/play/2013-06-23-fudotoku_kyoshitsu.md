@@ -4,6 +4,7 @@ title: 'M&Oplaysプロデュース『不道徳教室』'
 author: sugi
 date: 2013-06-23
 url: /play/4323/
+tags: ["iwamatsuryo"]
 ---
 <a href="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/fly_130608_fudoutoku_new_m_pm_img_2.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/fly_130608_fudoutoku_new_m_pm_img_2.jpg?resize=200%2C285', '']);" ><img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/fly_130608_fudoutoku_new_m_pm_img_2.jpg?resize=200%2C285" alt="fly_130608_fudoutoku_new_m_pm_img_2" class="alignleft size-full wp-image-4324" data-recalc-dims="1" /></a>
 

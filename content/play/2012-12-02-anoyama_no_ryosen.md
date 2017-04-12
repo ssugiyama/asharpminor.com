@@ -4,6 +4,7 @@ title: 城山羊の会『あの山の稜線が崩れてゆく』
 author: sugi
 date: 2012-12-02
 url: /play/3789/
+tags: ["shiroyagi"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2012/12/anoyama_no_ryosen.gif?resize=170%2C240" alt="" title="anoyama_no_ryosen" class="alignleft wp-image-3790" data-recalc-dims="1" />
 

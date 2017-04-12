@@ -4,6 +4,7 @@ title: 城山羊の会『効率の優先』
 author: sugi
 date: 2013-06-09
 url: /play/4305/
+tags: ["shiroyagi"]
 ---
 <a href="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/koritsu245.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/koritsu245.jpg?resize=245%2C350', '']);" ><img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/06/koritsu245.jpg?resize=245%2C350" alt="効率の優先" class="alignleft size-full wp-image-4306" data-recalc-dims="1" /></a>
 

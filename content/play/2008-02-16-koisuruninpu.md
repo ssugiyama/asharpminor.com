@@ -4,6 +4,7 @@ title: 『恋する妊婦』
 author: sugi
 date: 2008-02-16
 url: /play/1740/
+tags: ["iwamatsuryo"]
 ---
 <img src="/images/play/20080216.jpg" alt="" class="alignleft" />
 

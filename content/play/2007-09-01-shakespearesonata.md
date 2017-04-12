@@ -4,6 +4,7 @@ title: 『シェイクスピア・ソナタ』
 author: sugi
 date: 2007-09-01
 url: /play/1633/
+tags: ["iwamatsuryo"]
 ---
 <img src="/images/play/20070901.jpg" alt="『シェイクスピア・ソナタ』" class="alignleft" />
 

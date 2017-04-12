@@ -4,6 +4,7 @@ title: 『マレーヒルの幻影』
 author: sugi
 date: 2009-12-12
 url: /play/2113/
+tags: ["iwamatsuryo"]
 ---
 <img src="/images/play/20091212.jpg" alt="『マレーヒルの幻影』" class="alignleft" />
 

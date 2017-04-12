@@ -4,6 +4,7 @@ title: 城山羊の会『メガネ夫妻のイスタンブール旅行記』
 author: sugi
 date: 2011-05-21
 url: /play/2391/
+tags: ["shiroyagi"]
 ---
 <img src="/images/play/20110521.jpg" alt="城山羊の会『メガネ夫妻のイスタンブール旅行記』" class="alignleft" />
 

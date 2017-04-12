@@ -2,6 +2,7 @@
 date = "2015-12-05"
 title = "城山羊の会『水仙の花』"
 type = "post"
+tags = ["shiroyagi"]
 +++
 {{% figure src="/images/play/2015/suisen.gif" class="alignleft" alt="水仙の花"   %}}
 

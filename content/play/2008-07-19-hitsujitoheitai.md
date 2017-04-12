@@ -4,6 +4,7 @@ title: 『羊と兵隊』
 author: sugi
 date: 2008-07-19
 url: /play/1829/
+tags: ["iwamatsuryo"]
 ---
 <img src="/images/play/20080719.jpg" alt="『羊と兵隊』" class="alignleft" />
 

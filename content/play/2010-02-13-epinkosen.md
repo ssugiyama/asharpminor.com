@@ -4,6 +4,7 @@ title: E-Pin企画10周年記念公演+城山羊の会『イーピン光線』
 author: sugi
 date: 2010-02-13
 url: /play/2148/
+tags: ["shiroyagi"]
 ---
 <img src="/images/play/20100213.jpg" alt="E-Pin企画10周年記念公演+城山羊の会『イーピン光線』" class="alignleft" />
 

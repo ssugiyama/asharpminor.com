@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-06-18T23:46:22+09:00"
 title = "ウンベルト・エーコ（河島英昭訳）『薔薇の名前』"
 type = "post"
-image = "http://www.amazon.co.jp/exec/obidos/ASIN/4488013511/chezsugi-22/ref=nosim/"
+image = "http://ecx.images-amazon.com/images/I/515XTBC9ESL._SL160_.jpg"
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488013511/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/515XTBC9ESL._SL160_.jpg" alt="薔薇の名前〈上〉" class="alignleft"  /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/448801352X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/6164BD8S7GL._SL160_.jpg" alt="薔薇の名前〈下〉" class="alignleft"  /></a>
 
