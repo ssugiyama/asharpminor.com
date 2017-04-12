@@ -17,6 +17,7 @@
             <div class="post-content panel-body">
               {{ .Content }}
             </div>
+	    {{ if .Params.tags }}
             <aside class="panel-footer">
 	      {{ $baseurl := .Site.BaseURL }}
 	      <ul class="list-inline post-tags">
@@ -30,7 +31,7 @@
                 {{ end }}
 	      </ul>
 	    </aside>
-
+	    {{ end }}
             <!-- Pagination. -->
             <footer class="panel-footer">	      
                 <nav>
