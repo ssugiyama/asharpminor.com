@@ -30,7 +30,8 @@
                     {{ range .Site.Pages }}
                     {{ $page := . }}
                     {{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
-                    {{ if and $has_common_tags (ne $page_link $page.Permalink) }}
+                    {{ if and $has_common_tags (ne $page_link $page.Permalink) (lt ($.Scratch.Get "$c") 10) }}
+                    {{ $.Scratch.Add "$c" 1 }}
                     <a class="list-group-item" href="{{ $page.Permalink }}">{{ $page.Title }}</a>
                     {{ end }}
                     {{ end }}
