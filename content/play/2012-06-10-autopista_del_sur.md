@@ -4,6 +4,7 @@ title: 『南部高速道路』
 author: sugi
 date: 2012-06-09
 url: /play/3379/
+tags: ["nagatsukakeishi"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2012/06/fly_t_120604_nanbukousokudouro_omoteura_pm_img_2.jpg?resize=170%2C240" alt="" title="南部高速鉄道" class="alignleft size-full wp-image-3380" data-recalc-dims="1" />
 

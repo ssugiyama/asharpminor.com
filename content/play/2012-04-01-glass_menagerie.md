@@ -4,6 +4,7 @@ title: 『ガラスの動物園』
 author: sugi
 date: 2012-03-31
 url: /play/3136/
+tags: ["nagatsukakeishi"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2012/04/pic_glass.jpg?resize=160%2C230" alt="" title="the glass menagerie" class="alignleft size-full wp-image-3137" data-recalc-dims="1" />
 

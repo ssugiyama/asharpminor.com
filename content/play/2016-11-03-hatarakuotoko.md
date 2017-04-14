@@ -4,6 +4,7 @@ title = "阿佐ヶ谷スパイダース『はたらくおとこ』"
 type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2016/hatarakuotoko.jpg"
+tags = ["nagatsukakeishi"]
 +++
 <figure class="alignleft"><img src="/images/play/2016/hatarakuotoko.jpg" alt="はたらくおとこ" style="width: 300px !important;"></figure>
 

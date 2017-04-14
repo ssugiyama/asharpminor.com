@@ -4,6 +4,7 @@ title: 阿佐ヶ谷スパイダース『少女とガソリン』
 author: sugi
 date: 2007-06-10
 url: /play/1578/
+tags: ["nagatsukakeishi"]
 ---
 <img src="/images/play/20070610.jpg" alt="阿佐ヶ谷スパイダース『少女とガソリン』" class="alignleft" />
 

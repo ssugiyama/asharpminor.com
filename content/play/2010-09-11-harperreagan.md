@@ -4,7 +4,7 @@ title: 『ハーパー・リーガン』
 author: sugi
 date: 2010-09-11
 url: /play/2256/
-tags: ["kaigaidrama"]
+tags: ["kaigaidrama", "nagatsukakeishi"]
 ---
 <img src="/images/play/20100911.jpg" alt="『ハーパー・リーガン』" class="alignleft" />
 

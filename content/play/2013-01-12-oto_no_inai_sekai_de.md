@@ -4,6 +4,7 @@ title: 『音のいない世界で』
 author: sugi
 date: 2013-01-11
 url: /play/3878/
+tags: ["nagatsukakeishi"]
 ---
 <img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/01/20000597.png?resize=170%2C240" alt="音のいない世界で" class="alignleft wp-image-3879" data-recalc-dims="1" />
 
