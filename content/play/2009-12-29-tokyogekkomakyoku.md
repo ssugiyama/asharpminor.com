@@ -4,6 +4,7 @@ title: 『東京月光魔曲』
 author: sugi
 date: 2009-12-29
 url: /play/2124/
+tags: ["kera"]
 ---
 <img src="/images/play/20091229.jpg" alt="『東京月光魔曲』" class="alignleft" />
 

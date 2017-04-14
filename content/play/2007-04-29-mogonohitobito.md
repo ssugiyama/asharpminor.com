@@ -4,6 +4,7 @@ title: シティボーイズミックス『モーゴの人々』
 author: sugi
 date: 2007-04-29
 url: /play/1554/
+tags: ["cityboys"]
 ---
 <img src="/images/play/20070429.jpg" alt="シティボーイズミックス『モーゴの人々』" class="alignleft" />
 

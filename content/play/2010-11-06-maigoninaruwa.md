@@ -4,6 +4,7 @@ title: 五反田団『迷子になるわ』
 author: sugi
 date: 2010-11-06
 url: /play/2289/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20101106.jpg" alt="五反田団『迷子になるわ』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: 『犯さん哉』
 author: sugi
 date: 2007-10-13
 url: /play/1663/
+tags: ["kera"]
 ---
 <img src="/images/play/20071013.jpg" alt="" class="alignleft" />
 

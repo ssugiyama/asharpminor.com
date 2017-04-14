@@ -4,6 +4,7 @@ title: 『祈りと怪物　～ウィルヴィルの三姉妹～』
 author: sugi
 date: 2012-12-29
 url: /play/3832/
+tags: ["kera"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/12/inori_to_kaibutsu.jpg?resize=168%2C240" alt="祈りと怪物" class="alignleft wp-image-3833" data-recalc-dims="1" />
 

@@ -4,6 +4,7 @@ title: 遊園地再生事業団『トータル・リビング 1986-2011』
 author: sugi
 date: 2011-10-15
 url: /play/2471/
+tags: ["miyawazaakio"]
 ---
 <img src="/images/play/20111015.jpg" alt="遊園地再生事業団『トータル・リビング 1986-2011』" class="alignleft" />
 

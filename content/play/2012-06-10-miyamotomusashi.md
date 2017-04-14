@@ -4,6 +4,7 @@ title: 五反田団『宮本武蔵』
 author: sugi
 date: 2012-06-10
 url: /play/3393/
+tags: ["gotandadan"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/06/miyamotomusashi.png?resize=171%2C240" alt="宮本武蔵" title="宮本武蔵" class="alignleft size-full wp-image-3394" data-recalc-dims="1" />
 

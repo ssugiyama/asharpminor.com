@@ -4,6 +4,7 @@ title: 五反田団+演劇計画2007『生きてるものはいないのか』
 author: sugi
 date: 2007-11-03
 url: /play/1675/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20071103.jpg" alt="五反田団+演劇計画2007『生きてるものはいないのか』" class="alignleft" />
 

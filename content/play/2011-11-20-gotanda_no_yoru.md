@@ -4,6 +4,7 @@ title: 五反田団『五反田の夜』
 author: sugi
 date: 2011-11-20
 url: /play/2713/
+tags: ["gotandadan"]
 ---
 <a href="http://asharpminor.com/play-gotanda_no_yoru/gotanda_no_yoru" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://asharpminor.com/play-gotanda_no_yoru/gotanda_no_yoru', '']);" rel="attachment wp-att-2714"><img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2011/11/gotanda_no_yoru.jpg?resize=240%2C154" alt="五反田の夜" title="五反田の夜" class="alignleft size-full wp-image-2714" data-recalc-dims="1" /></a>
 

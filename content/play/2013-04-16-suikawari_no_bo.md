@@ -4,6 +4,7 @@ title: シティボーイズミックス PRESENTS 『西瓜割の棒、あなた
 author: sugi
 date: 2013-04-15
 url: /play/4075/
+tags: ["miyawazaakio", "cityboys"]
 ---
 <a href="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/suikawari.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/suikawari.jpg?resize=161%2C240', '']);" ><img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/suikawari.jpg?resize=161%2C240" alt="suikawari" class="alignleft wp-image-4076" data-recalc-dims="1" /></a>
 

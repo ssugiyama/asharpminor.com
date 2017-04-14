@@ -4,6 +4,7 @@ title: 演劇集団円『未だ定まらず』
 author: sugi
 date: 2011-06-25
 url: /play/2409/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20110625.jpg" alt="演劇集団円『未だ定まらず』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: 五反田団『俺の宇宙船、』
 author: sugi
 date: 2009-02-07
 url: /play/1952/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20090207.jpg" alt="五反田団『俺の宇宙船、』" class="alignleft" />
 

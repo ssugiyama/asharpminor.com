@@ -4,6 +4,7 @@ title: ハイバイ『投げられやすい石』
 author: sugi
 date: 2011-01-29
 url: /play/2333/
+tags: ["hibye"]
 ---
 <img src="/images/play/20110129.jpg" alt="ハイバイ『投げられやすい石』" class="alignleft" />
 

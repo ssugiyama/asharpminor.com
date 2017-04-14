@@ -4,6 +4,7 @@ title: ナイロン100℃『世田谷カフカ』
 author: sugi
 date: 2009-10-10
 url: /play/2079/
+tags: ["kera"]
 ---
 <img src="/images/play/20091010.jpg" alt="ナイロン100℃『世田谷カフカ』" class="alignleft" />
 

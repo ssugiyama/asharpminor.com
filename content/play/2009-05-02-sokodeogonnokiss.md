@@ -4,6 +4,7 @@ title: シティボーイズミックス『そこで黄金のキッス』
 author: sugi
 date: 2009-05-02
 url: /play/1999/
+tags: ["cityboys"]
 ---
 <img src="/images/play/20090502.jpg" alt="シティボーイズミックス『そこで黄金のキッス』" class="alignleft" />
 

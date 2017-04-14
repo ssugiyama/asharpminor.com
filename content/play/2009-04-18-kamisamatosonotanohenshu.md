@@ -4,6 +4,7 @@ title: ナイロン100℃『神様とその他の変種』
 author: sugi
 date: 2009-04-18
 url: /play/1991/
+tags: ["kera"]
 ---
 <img src="/images/play/20090418.jpg" alt="ナイロン100℃『神様とその他の変種』" class="alignleft" />
 

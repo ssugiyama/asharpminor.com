@@ -3,6 +3,7 @@ author = "sugi"
 date = "2016-03-27T22:48:36+09:00"
 title = "ミクニヤナイハラプロジェクト『東京ノート』"
 type = "post"
+tags = ["mikuniyanaihara"]
 +++
 
 {{% figure src="/images/play/2016/tokyonote.jpg" alt="東京ノート" class="alignleft" %}}

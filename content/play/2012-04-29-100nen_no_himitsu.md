@@ -4,6 +4,7 @@ title: ナイロン100℃『百年の秘密』
 author: sugi
 date: 2012-04-28
 url: /play/3236/
+tags: ["kera"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/04/senzai_120127.jpg?resize=240%2C194" alt="百年の秘密" title="百年の秘密" class="alignleft size-full wp-image-3237" data-recalc-dims="1" />
 

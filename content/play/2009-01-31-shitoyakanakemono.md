@@ -4,6 +4,7 @@ title: オリガト・プラスティコ『しとやかな獣』
 author: sugi
 date: 2009-01-31
 url: /play/1948/
+tags: ["kera"]
 ---
 <img src="/images/play/20090131.jpg" alt="オリガト・プラスティコ『しとやかな獣』" class="alignleft" />
 

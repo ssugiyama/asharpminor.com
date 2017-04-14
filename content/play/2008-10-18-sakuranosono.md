@@ -4,6 +4,7 @@ title: 地点『桜の園』
 author: sugi
 date: 2008-10-18
 url: /play/1877/
+tags: ["chiten", "chekhov"]
 ---
 <img src="/images/play/20081018.jpg" alt="地点『桜の園』" class="alignleft" />
 

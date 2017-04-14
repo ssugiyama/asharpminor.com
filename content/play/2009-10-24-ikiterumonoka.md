@@ -4,6 +4,7 @@ title: 五反田団『生きてるものか』
 author: sugi
 date: 2009-10-24
 url: /play/2088/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20091024.jpg" alt="五反田団『生きてるものか』" class="alignleft" />
 

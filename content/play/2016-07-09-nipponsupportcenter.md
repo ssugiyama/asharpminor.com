@@ -4,6 +4,7 @@ date = "2016-07-10T01:34:44+09:00"
 title = "青年団『ニッポン・サポート・センター』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/nipponsupportcenter.jpg"
+tags = ["oriza"]
 +++
 {{% figure src="/images/play/2016/nipponsupportcenter.jpg" alt="ニッポン・サポート・センター" class="alignleft" %}}
 

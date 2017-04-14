@@ -4,6 +4,7 @@ title: ハイバイ『ポンポンお前の自意識に小刻みに振りたく�
 author: sugi
 date: 2012-07-21
 url: /play/3513/
+tags: ["hibye"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/titlePonpon.jpg?resize=217%2C240" alt="ポンポンお前の自意識に小刻みに振りたくなるんだポンポン" title="ポンポンお前の自意識に小刻みに振りたくなるんだポンポン" class="alignleft wp-image-3514" data-recalc-dims="1" />
 

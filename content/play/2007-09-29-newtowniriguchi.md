@@ -4,6 +4,7 @@ title: 遊園地再生事業団『ニュータウン入口』
 author: sugi
 date: 2007-09-29
 url: /play/1654/
+tags: ["miyawazaakio"]
 ---
 <img src="/images/play/20070929.jpg" alt="遊園地再生事業団『ニュータウン入口』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: ナイロン100℃『ゴドーは待たれながら』（プレビュー�
 author: sugi
 date: 2013-04-06
 url: /play/4066/
+tags: ["kera"]
 ---
 <a href="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/godo.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/godo.jpg?resize=180%2C240', '']);" ><img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2013/04/godo.jpg?resize=180%2C240" alt="godo" class="alignleft wp-image-4078" data-recalc-dims="1" /></a>
 

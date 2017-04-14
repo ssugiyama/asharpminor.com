@@ -4,6 +4,7 @@ title: オリガト・プラスティコ『龍を撫でた男』
 author: sugi
 date: 2012-02-04
 url: /play/2973/
+tags: ["kera"]
 ---
 <img src="http://i2.wp.com/asharpminor.com/wp-content/uploads/2012/02/ryu_o_nadeta_otoko.jpg?resize=240%2C170" alt="龍を撫でた男" title="龍を撫でた男" class="alignleft size-full wp-image-2975" data-recalc-dims="1" />
 

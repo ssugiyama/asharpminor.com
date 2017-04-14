@@ -4,6 +4,7 @@ title: 青年団国際演劇交流プロジェクト2007『別れの唄』
 author: sugi
 date: 2007-04-07
 url: /play/1539/
+tags: ["oriza"]
 ---
 <img src="/images/play/20070407.jpg" alt="青年団国際演劇交流プロジェクト2007『別れの唄』" class="alignleft" />
 

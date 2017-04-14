@@ -4,6 +4,7 @@ title: 青山円劇カウンシル♯6 ～breath～『いやむしろわすれ�
 author: sugi
 date: 2013-05-17
 url: /play/4132/
+tags: ["gotandadan"]
 ---
 <a href="http://i0.wp.com/asharpminor.com/wp-content/uploads/2013/05/wasuretekusa.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i0.wp.com/asharpminor.com/wp-content/uploads/2013/05/wasuretekusa.jpg?resize=169%2C240', '']);" ><img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2013/05/wasuretekusa.jpg?resize=169%2C240" alt="wasuretekusa" class="alignleft wp-image-4248" data-recalc-dims="1" /></a>
 

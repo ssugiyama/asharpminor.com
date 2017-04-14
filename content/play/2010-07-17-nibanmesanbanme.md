@@ -4,6 +4,7 @@ title: ナイロン100℃『2番目、或いは3番目』
 author: sugi
 date: 2010-07-17
 url: /play/2228/
+tags: ["kera"]
 ---
 <img src="/images/play/20100717.jpg" alt="ナイロン100℃『2番目、或いは3番目』" class="alignleft" />
 

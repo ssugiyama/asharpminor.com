@@ -3,7 +3,7 @@ author = "sugi"
 date = "2015-12-27T22:48:02+09:00"
 title = "ナイロン100℃『消失』"
 type = "post"
-
+tags = ["kera"]
 +++
 {{% figure src="/images/play/2015/shoshitsu.jpg" alt="消失" class="alignleft" %}}
 

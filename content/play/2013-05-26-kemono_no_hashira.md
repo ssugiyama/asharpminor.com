@@ -4,6 +4,7 @@ title: イキウメ『獣の柱 まとめ＊図書館的人生㊦』
 author: sugi
 date: 2013-05-25
 url: /play/4271/
+tags: ["ikiume"]
 ---
 <a href="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/05/kemono_no_hashira.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/05/kemono_no_hashira.jpg?resize=169%2C240', '']);" ><img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/05/kemono_no_hashira.jpg?resize=169%2C240" alt="kemono_no_hashira" class="alignleft wp-image-4273" data-recalc-dims="1" /></a>
 

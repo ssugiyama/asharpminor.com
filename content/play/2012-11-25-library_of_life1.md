@@ -4,6 +4,7 @@ title: イキウメ『The Library of Life まとめ＊図書館的人生 ㊤』
 author: sugi
 date: 2012-11-24
 url: /play/3779/
+tags: ["ikiume"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/11/the_library_of_life_b.jpg?resize=170%2C240" alt="" title="KAAT_omote_DARKPINK0613" class="alignleft wp-image-3780" data-recalc-dims="1" />
 

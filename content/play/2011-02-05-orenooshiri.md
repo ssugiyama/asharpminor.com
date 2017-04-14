@@ -4,6 +4,7 @@ title: 五反田団『俺のお尻から優しい音楽』
 author: sugi
 date: 2011-02-05
 url: /play/2336/
+tags: ["gotandadan"]
 ---
 <img src="/images/play/20110205.jpg" alt="五反田団『俺のお尻から優しい音楽』" class="alignleft" />
 

@@ -4,6 +4,7 @@ title: 地点『あたしちゃん、行く先を言って -- 太田省吾全テ
 author: sugi
 date: 2010-01-23
 url: /play/2139/
+tags: ["chiten"]
 ---
 <img src="/images/play/20100123.jpg" alt="地点『あたしちゃん、行く先を言って -- 太田省吾全テクストより --』" class="alignleft" />
 
