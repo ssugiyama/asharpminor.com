@@ -7,7 +7,7 @@ image = "https://images-fe.ssl-images-amazon.com/images/I/514r7ZpNSsL.jpg"
 tags = ["kisho"]
 ebook = 1
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009IY1W5Q/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514r7ZpNSsL.jpg" alt="黒死館殺人事件" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009IY1W5Q/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514r7ZpNSsL.jpg" alt="黒死館殺人事件" class="alignleft"  /></a>
 
 はるか昔、半月ばかり入院していたとき読書だけが楽しみで、本があれば何もいらないとまで思ったが、そのとき唯一読めなくて断念したのが本書だ。
 
