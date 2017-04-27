@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-03-06T01:33:28+09:00"
 title = "テアトル・ド・アナール『従軍中の若き哲学者ルートヴィヒ・ウィトゲンシュタインがブルシーロフ構成の夜に弾丸の雨降り注ぐ哨戒塔の上で辿り着いた最後の一行“――およそ語り得ることについては明晰に語られ得る／しかし語りえぬことについて人は沈黙せねばならない”という言葉により何を殺し何を生きようと祈ったのか？という語りえずただ示されるのみの事実にまつわる物語』"
 type = "post"
-
+image = "https://asharpminor.com/images/play/2016/wittgenstein.jpg"
 +++
 
 {{% figure src="/images/play/2016/wittgenstein.jpg" alt="従軍中のウィトゲンシュタイン" class="alignleft" %}}

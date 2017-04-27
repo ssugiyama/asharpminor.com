@@ -3,6 +3,7 @@ author = "sugi"
 date = "2016-03-20T01:46:16+09:00"
 title = "M&Oplays プロデュース『家庭内失踪』"
 tags = ["iwamatsuryo"]
+image = "https://asharpminor.com/images/play/2016/kateinaishisso.jpg"
 +++
 {{% figure src="/images/play/2016/kateinaishisso.jpg" alt="家庭内失踪" class="alignleft" %}}
 
