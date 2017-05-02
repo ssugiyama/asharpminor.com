@@ -13,7 +13,8 @@ TwitterのことはTwitterの中で。ということですべてTwitterのコ�
 {{< tweet 808054027 >}}
 
 * 2017年
-  * [2017年のよりぬきツイート-1](https://twitter.com/chez_sugi/timelines/836760575564636160)  
+  * [2017年のよりぬきツイート#2](https://twitter.com/chez_sugi/timelines/859447680833003521)  
+  * [2017年のよりぬきツイート#1](https://twitter.com/chez_sugi/timelines/836760575564636160)  
 * 2016年
   * [2016年11, 12月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/815201732271575040)
   * [2016年9, 10月のよりぬきツイート](https://twitter.com/chez_sugi/timelines/793044175444815872)
