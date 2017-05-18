@@ -3,6 +3,7 @@ author = "sugi"
 date = "2015-12-24T00:40:03+09:00"
 title = "虚数をめぐる政治的な寓話"
 type = "post"
+tags =  ["math"]
 +++
 ### Q
 
