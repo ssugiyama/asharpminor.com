@@ -4,6 +4,7 @@ date = "2017-06-15T00:22:59+09:00"
 title = "シティボーイズ『仕事の前にシンナーを吸うな、』"
 type = "post"
 image = "https://asharpminor.com/images/play/2017/cityboys.jpg"
+tags = ["cityboys"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/cityboys.jpg" alt="仕事の前にシンナーを吸うな、" style="width: 300px !important;"></figure>
 
