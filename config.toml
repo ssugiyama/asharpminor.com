@@ -31,7 +31,7 @@ ShowRelatedPost = 1
 	name = "walklog"
 	weight = -80
 	identifier = "walklog"
-	url = "https://walks.asharpminor.com"
+	url = "https://walk.asharpminor.com"
 
  [[menu.sections]]
         name = "演劇ノート"
