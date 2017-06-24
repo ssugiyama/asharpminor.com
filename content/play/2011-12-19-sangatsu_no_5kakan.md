@@ -4,6 +4,7 @@ title: チェルフィッチュ『三月の5日間』
 author: sugi
 date: 2011-12-18
 url: /play/2829/
+tags: ["chelfitch"]
 ---
 <a href="http://asharpminor.com/play-sangatsu_no_5kakan/3gatsu_no_5kakan" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://asharpminor.com/play-sangatsu_no_5kakan/3gatsu_no_5kakan', '']);" rel="attachment wp-att-2830"><img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2011/12/3gatsu_no_5kakan.jpeg?resize=169%2C240" alt="三月の5日間" title="3gatsu_no_5kakan" class="alignleft size-full wp-image-2830" data-recalc-dims="1" /></a>
 
