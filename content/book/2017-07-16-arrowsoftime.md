@@ -9,7 +9,7 @@ tags = ["orthogonal", "gregegan"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4153350311/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/517hYganBsL.jpg" alt="アロウズ・オブ・タイム (新☆ハヤカワ・SF・シリーズ)" class="alignleft"  /></a>
 
-直交三部作もいよいよ完結編。母星への帰還の時期が舞台かと思っていたが、そうではなく《孤絶》搭乗者の第6世代、前のUターン前後の時期がメインだった。
+直交三部作もいよいよ完結編。母星への帰還の時期が舞台かと思っていたが、そうではなく《孤絶》搭乗者の第6世代、Uターン前後の時期がメインだった。
 
 辞書を引くまでもなくタイトルは『時の矢』。本巻の探求のターゲットは時間だ。これまでの巻でこの直交世界では時間を逆行できることが示唆されていたが、本巻でそのことがさまざまな問題やパラドクスを発生させる。
 
