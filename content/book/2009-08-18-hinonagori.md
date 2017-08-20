@@ -4,6 +4,7 @@ title: カズオ・イシグロ（土屋政雄訳）『日の名残り』
 author: sugi
 date: 2009-08-18
 url: /book/2056/
+tags: ["kazuoishiguro"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4151200037/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51XAP48A79L._SL160_.jpg" alt="日の名残り (ハヤカワepi文庫)" class="alignleft" style="float: left; margin: 0 20px 20px 0;" /></a>
 

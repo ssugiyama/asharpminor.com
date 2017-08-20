@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-02-14T20:27:40+09:00"
 title = "J. R. R. Tolkien \"The Hobbit\""
 type = "post"
-
+tags = ["english"]
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002RI9ZY0/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/519V0IlKZpL.jpg" alt="The Hobbit" class="alignleft"  /></a>

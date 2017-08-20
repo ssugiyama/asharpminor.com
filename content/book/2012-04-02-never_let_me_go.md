@@ -4,6 +4,7 @@ title: カズオ・イシグロ（土屋政雄訳）『わたしを離さない�
 author: sugi
 date: 2012-04-02
 url: /book/3155/
+tags: ["kazuoishiguro"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4151200517/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4151200517/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/41H0RqxVxyL._SL160_.jpg?w=660" alt="わたしを離さないで (ハヤカワepi文庫)" class="alignleft"  data-recalc-dims="1" /></a>
 

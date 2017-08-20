@@ -4,6 +4,7 @@ title: Arthur Miller "Death of a Salesman"
 author: sugi
 date: 2010-12-19
 url: /book/2305/
+tags: ["english"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/0140481346/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" style="float: left; margin: 0 20px 20px 0;" src="http://ecx.images-amazon.com/images/I/51B3ZQ4KSTL._SL160_.jpg" alt="Death of a Salesman (Plays, Penguin)" /></a>
 
