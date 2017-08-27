@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-01-01T23:50:23+09:00"
 title = "青年団リンク ホエイ『珈琲法要』"
 type = "post"
-
+tags = ["whey"]
 +++
 {{% figure src="/images/play/2016/coffee.jpg" alt="珈琲法要" class="alignleft" %}}
 
