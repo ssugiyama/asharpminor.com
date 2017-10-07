@@ -4,6 +4,7 @@ title: 青年団リンク ままごと『わが星』
 author: sugi
 date: 2009-10-11
 url: /play/2082/
+tags: ["mamagoto"]
 ---
 <img src="/images/play/20091011.jpg" alt="青年団リンク ままごと『わが星』" class="alignleft" />
 

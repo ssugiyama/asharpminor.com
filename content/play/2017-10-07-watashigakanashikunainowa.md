@@ -4,6 +4,7 @@ date = 2017-10-07T23:37:29+09:00
 type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2017/watashigakanashikunainowa.jpg"
+tags = ["mamagoto"]
 +++
 
 <figure class="alignleft"><img src="/images/play/2017/watashigakanashikunainowa.jpg" alt="『わたしが悲しくないのはあなたが遠いから』" style="width: 300px !important;"></figure>
