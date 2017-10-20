@@ -4,6 +4,7 @@ title: 若桑みどり『絵画を読む～イコノロジー入門』
 author: sugi
 date: 2004-08-12
 url: /book/960/
+tags: ["art"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/414001668X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41oypI%2ByyvL.jpg" alt="絵画を読む―イコノロジー入門 (NHKブックス)" style="border: none;" class="alignleft" /></a>
 
