@@ -1,16 +1,16 @@
-<div class="thumbnail">
+<div class="card mb-4">
   {{ if .Params.image }}
-  <div class="image" style="background: url('{{ .Params.image }}') center / cover;"  ></div>
+  <div class="card-img-top" style="background: url('{{ .Params.image }}') center / cover;"  ></div>
   {{ end }}
-  <div class="caption">
-    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <div class="card-body">
+    <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <p>{{ .Summary }}...</p>
-    <div class="footer">
+  </div>
+  <div class="card-footer">
       <a href="{{ .Permalink }}" class="btn btn-primary" role="button">読む</a>
       <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
 	{{ .Date.Format .Site.Params.DateForm }}
       </time>
-    </div>
   </div>
 </div>
 

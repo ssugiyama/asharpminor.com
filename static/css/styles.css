@@ -53,7 +53,7 @@ p {
     width: 100%;
 }
 
-.thumbnail .image {
+.card-img-top {
     width: 100%;
     height: 150px;
 }
@@ -62,7 +62,7 @@ p {
 
 }
 
-.thumbnail .footer time {
+.card .card-footer time {
     display: block;
     float: right;
 }

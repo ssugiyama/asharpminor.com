@@ -1,28 +1,28 @@
 {{ partial "default_head.html" . }}
 <div class="row">
     <div class="col-md-8">
-        <article class="post panel panel-default">
-            <header class="panel-heading">
+        <article class="post card">
+            <header class="card-header">
                 <div class="post-date">
                     <span class="glyphicon glyphicon-calendar"></span>
                     <time datetime="{{ .Date.Format .Site.Params.DateForm }}">
                         {{ .Date.Format .Site.Params.DateForm }}
                     </time>
                 </div>
-                <h1 class="post-title h2">
+                <h1 class="card-title h2">
                     <a href="{{ .Permalink }}">{{ .Title }}{{ if .Params.ebook }}<img src="/images/ebook.png" alt="ebook" />{{ end }}</a>
                 </h1>
             </header>
 
-            <div class="post-content panel-body">
+            <div class="card-body">
               {{ .Content }}
             </div>
 	    {{ if .Params.tags }}
-            <aside class="panel-footer">
+            <aside class="card-footer">
 	      {{ $baseurl := .Site.BaseURL }}
 	      <ul class="list-inline post-tags">
                 {{ range .Params.tags }}
-                <li>
+                <li class="list-inline-item">
                   <a href="{{ $baseurl }}/tags/{{ . | urlize }}">
                     <i class="fa fa-tags"></i>
                     {{ . }}
@@ -33,22 +33,22 @@
 	    </aside>
 	    {{ end }}
             <!-- Pagination. -->
-            <footer class="panel-footer">	      
+            <footer class="card-footer">	      
                 <nav>
-                    <ul class="pager">
+                    <ul class="row list-inline">
 
                         {{ if .PrevInSection }}
-                        <li class="previous"><a href="{{ .PrevInSection.Permalink }}"><span aria-hidden="true">&larr;</span> Older</a></li>
+                        <li class="col-4 previous"><a href="{{ .PrevInSection.Permalink }}"><span aria-hidden="true">&larr;</span> Older</a></li>
                         {{ else }}
-                        <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+                        <li class="col-4 previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
                         {{ end }}
 			{{ if .Section }}
-			<li><a href="/{{ .Section }}/">{{ partial  "section_name.html" . }}</a></li>
+			<li class="col-4 text-center"><a href="/{{ .Section }}/">{{ partial  "section_name.html" . }}</a></li>
 			{{ end }}
                         {{ if .NextInSection }}
-                        <li class="next"><a href="{{ .NextInSection.Permalink }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                        <li class="col-4 text-right"><a href="{{ .NextInSection.Permalink }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
                         {{ else }}
-                        <li class="next disabled"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                        <li class="col-4 disabled text-right"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
                         {{ end }}
 
                     </ul>
