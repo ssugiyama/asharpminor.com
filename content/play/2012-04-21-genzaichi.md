@@ -4,7 +4,7 @@ title: チェルフィッチュ『現在地』
 author: sugi
 date: 2012-04-21
 url: /play/3218/
-tags: ["chelfitch"]
+tags: ["chelfitsch"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/04/470548_355292451177965_355292014511342_1086772_1976998246_o.jpg?resize=240%2C170" alt="" title="470548_355292451177965_355292014511342_1086772_1976998246_o" class="alignleft size-full wp-image-3219" data-recalc-dims="1" />
 

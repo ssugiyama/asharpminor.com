@@ -4,7 +4,7 @@ title: チェルフィッチュ『わたしたちは無傷な別人であるの�
 author: sugi
 date: 2010-02-20
 url: /play/2152/
-tags: ["chelfitch"]
+tags: ["chelfitsch"]
 ---
 <img src="/images/play/20100220.jpg" alt="チェルフィッチュ『わたしたちは無傷な別人であるのか？』" class="alignleft" />
 
