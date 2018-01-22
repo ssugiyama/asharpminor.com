@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/512p%2BM-SVQL.jpg"
 tags = ["proust"]
+ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4334752683/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/512p%2BM-SVQL.jpg" alt="失われた時を求めて〈3〉第二篇・花咲く乙女たちのかげに〈1〉 (光文社古典新訳文庫)" class="alignleft"   /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01GR89G1M/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51Mk3Dhpd0L.jpg" alt="失われた時を求めて　４～第二篇「花咲く乙女たちのかげにII」～ (光文社古典新訳文庫)" class="alignleft" /></a>
 
