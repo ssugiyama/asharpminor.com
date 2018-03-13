@@ -4,6 +4,7 @@ title: 青年団『革命日記』
 author: sugi
 date: 2010-05-02
 url: /play/2187/
+tags: ["seinendan"]
 ---
 <img src="/images/play/20100502.png" alt="青年団『革命日記』" class="alignleft" />
 
