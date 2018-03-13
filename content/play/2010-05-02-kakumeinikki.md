@@ -5,7 +5,7 @@ author: sugi
 date: 2010-05-02
 url: /play/2187/
 ---
-<img src="/images/play/20100502.jpg" alt="青年団『革命日記』" class="alignleft" />
+<img src="/images/play/20100502.png" alt="青年団『革命日記』" class="alignleft" />
 
 **作・演出：平田オリザ／こまばアゴラ劇場／自由席3500円／2010-05-02 19:00／★★★**
 
