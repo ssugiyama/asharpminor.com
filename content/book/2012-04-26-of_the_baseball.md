@@ -4,6 +4,7 @@ title: 円城塔『オブ・ザ・ベースボール』
 author: sugi
 date: 2012-04-25
 url: /book/3229/
+tags: ["enjoto"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4167834014/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4167834014/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/51cwcSbLjYL._SL160_.jpg?w=660" alt="オブ・ザ・ベースボール (文春文庫)" class="alignleft"  data-recalc-dims="1" /></a>
 

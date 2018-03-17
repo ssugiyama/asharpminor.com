@@ -4,6 +4,7 @@ title: 円城塔『後藤さんのこと』
 author: sugi
 date: 2012-05-26
 url: /book/3352/
+tags: ["enjoto"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150310629/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4150310629/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/51bj20ekJLL._SL160_.jpg?w=660" alt="後藤さんのこと (ハヤカワ文庫JA)" class="alignleft"  data-recalc-dims="1" /></a>
 
