@@ -4,6 +4,7 @@ date = "2016-08-07T00:25:32+09:00"
 title = "ベン・H・ウィンタース（上野元美訳）『地上最後の刑事』"
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51nLEAmiTUL._SX334_BO1,204,203,200_.jpg"
+tags = ["benhwinters"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4151819517/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51nLEAmiTUL.jpg" alt="地上最後の刑事 (ハヤカワ・ミステリ文庫)" class="alignleft"  /></a>
