@@ -1,6 +1,6 @@
 +++
 title = "青年団リンク キュイ『きれいごと、なきごと、ねごと、』"
-date = 2018-04-08T00:46:06+09:00
+date = 2018-04-07T23:46:06+09:00
 type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2018/kireigoto.jpg"
