@@ -4,6 +4,7 @@ title: 町田康『宿屋めぐり』
 author: sugi
 date: 2012-08-06
 url: /book/3542/
+tags: ["machidako"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062773074/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4062773074/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i1.wp.com/ecx.images-amazon.com/images/I/51PWQjG5OlL._SL160_.jpg?w=660" alt="宿屋めぐり (講談社文庫)" class="alignleft"  data-recalc-dims="1" /></a>
 
