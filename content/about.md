@@ -16,7 +16,7 @@ attitude_sidebarlayout:
 
 このブログについて問い合わせをしたい場合、Twitter で連絡してください。Facebookはほぼ見てません。
 
-- [Twitter](https://twitter/chez_sugi)
+- [@chez_sugi](https://twitter/chez_sugi)
 
 **著作権**
 
