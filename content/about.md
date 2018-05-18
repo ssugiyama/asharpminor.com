@@ -14,9 +14,10 @@ attitude_sidebarlayout:
 
 **連絡先**
 
-このブログについて問い合わせをしたい場合、Twitter で連絡してください。Facebookは、万が一連絡をくださっても、みてない可能性が高いので、返答がなくても気を悪くしないでください。
+このブログについて問い合わせをする場合、Twitter で連絡していただくか、あるいは github に issue または pull request をお送りください。Facebookは、万が一連絡をくださっても、みてない可能性が高いので、返答がなくても気を悪くしないでください。
 
 - [@chez_sugi](https://twitter/chez_sugi)
+- [github](https://github.com/ssugiyama/asharpminor.com)
 
 **著作権**
 
