@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ssugiyama/asharpminor.com#readme",
   "dependencies": {
     "bootstrap": "^4.1.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.3",
     "social-share-kit": "git+https://github.com/darklow/social-share-kit.git"
   }
 }
