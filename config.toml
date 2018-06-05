@@ -28,6 +28,12 @@ ShowRelatedPost = 1
 	url = "/favorite_tweets"
 
 [[menu.header]]
+	name = "プレイリスト"
+	weight = -80
+	identifier = "playlists"
+	url = "/playlists"
+
+[[menu.header]]
 	name = "walklog"
 	weight = -80
 	identifier = "walklog"
