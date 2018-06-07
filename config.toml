@@ -24,8 +24,8 @@ ShowRelatedPost = 1
 [[menu.header]]
 	name = "よりぬきツイート"
 	weight = -90
-	identifier = "favorite_tweets"
-	url = "/favorite_tweets"
+	identifier = "tweets"
+	url = "/tweets"
 
 [[menu.header]]
 	name = "プレイリスト"
@@ -35,7 +35,7 @@ ShowRelatedPost = 1
 
 [[menu.header]]
 	name = "walklog"
-	weight = -80
+	weight = -70
 	identifier = "walklog"
 	url = "https://walk.asharpminor.com"
 
