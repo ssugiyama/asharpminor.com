@@ -13,7 +13,7 @@ const page_count = Math.ceil(TweetIds.length / limit);
 
 const Tweets = () => 
       TweetIds.slice(offset, offset+limit).map(tweetId => (
-        <Tweet tweetId={tweetId} key={tweetId} />
+        <Tweet tweetId={tweetId} key={tweetId} options={{ align: 'center' }} />
       ));
 
 const Pagination = () => (
