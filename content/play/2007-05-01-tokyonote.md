@@ -4,7 +4,7 @@ title: 青年団『東京ノート』
 author: sugi
 date: 2007-05-01
 url: /play/1558/
-tags: ["oriza"]
+tags: ["seinendan"]
 ---
 <img src="/images/play/20070501.jpg" alt="青年団『東京ノート』" class="alignleft" />
 

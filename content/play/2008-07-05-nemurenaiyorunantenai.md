@@ -4,6 +4,7 @@ title: 青年団『眠れない夜なんてない』
 author: sugi
 date: 2008-07-05
 url: /play/1821/
+tags: ["seinendan"]
 ---
 <img src="/images/play/20080705.jpg" alt="青年団『眠れない夜なんてない』" class="alignleft" />
 

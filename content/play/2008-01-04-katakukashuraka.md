@@ -4,6 +4,7 @@ title: 青年団『火宅か修羅か』
 author: sugi
 date: 2008-01-04
 url: /play/1717/
+tags: ["seinendan"]
 ---
 <img src="/images/play/20080104.jpg" alt="青年団『火宅か修羅か』" class="alignleft" />
 

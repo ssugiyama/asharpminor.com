@@ -3,10 +3,10 @@ title = "青年団『日本文学盛衰史』"
 date = 2018-06-23T23:00:22+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/nihonbungakuseisuish.jpg"
+image = "https://asharpminor.com/images/play/2018/nihonbungakuseisuishi.jpg"
 tags = ["seinendan"]
 +++
-<figure class="alignleft"><img src="/images/play/2018/nihonbungakueisuishi.jpg" alt="" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2018/nihonbungakuseisuishi.jpg" alt="" style="width: 300px !important;"></figure>
 
 青年団2年ぶりの新作とのこと。原作は未読なので（近日中に読むつもり）、以下の感想には今回の脚色と上演に対するものと、原作に対するものがシームレスに入り交じっているはず。
 

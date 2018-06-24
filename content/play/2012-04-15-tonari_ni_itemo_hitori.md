@@ -4,7 +4,7 @@ title: 青年団『平田オリザ演劇展 vol.2 隣にいても一人 関西�
 author: sugi
 date: 2012-04-14
 url: /play/3197/
-tags: ["oriza"]
+tags: ["seinendan"]
 ---
 <img src="http://i0.wp.com/asharpminor.com/wp-content/uploads/2012/04/engekitenvol2.png?resize=240%2C95" alt="" title="engekitenvol2" class="alignleft size-full wp-image-3198" data-recalc-dims="1" />
 

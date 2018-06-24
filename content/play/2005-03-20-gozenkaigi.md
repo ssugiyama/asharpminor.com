@@ -4,7 +4,7 @@ title: 青年団『御前会議』
 author: sugi
 date: 2005-03-20
 url: /play/1118/
-tags: ["oriza"]
+tags: ["seinendan"]
 ---
 **作・演出：平田オリザ／駒場アゴラ劇場／自3500円／2005-03-20 19:30／★★★**
 
