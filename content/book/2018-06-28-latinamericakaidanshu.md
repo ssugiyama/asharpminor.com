@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/617f77LnB2L.jpg"
 tags = ["latin_america"]
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4309464521/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/617f77LnB2L.jpg" alt="ラテンアメリカ怪談集 (河出文庫)"  /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4309464521/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/617f77LnB2L.jpg" alt="ラテンアメリカ怪談集 (河出文庫)" class="alignleft" /></a>
 
 収録作は以下の通り。過半数がアルゼンチンの作家の作品だ。
 
