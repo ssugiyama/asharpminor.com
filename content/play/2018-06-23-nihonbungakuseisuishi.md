@@ -4,7 +4,7 @@ date = 2018-06-23T23:00:22+09:00
 type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2018/nihonbungakuseisuishi.jpg"
-tags = ["seinendan"]
+tags = ["seinendan", "nihonbungakuseisuishi"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/nihonbungakuseisuishi.jpg" alt="" style="width: 300px !important;"></figure>
 
