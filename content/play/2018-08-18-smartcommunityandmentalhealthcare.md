@@ -5,7 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://asharpminor.com/images/play/2018/smartcommunityandmentalhealthcare.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2018/smartcommunityandmetalhealthcare.jpg" alt="スマートコミュニティアンドメンタルヘルスケア" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2018/smartcommunityandmentalhealthcare.jpg" alt="スマートコミュニティアンドメンタルヘルスケア" style="width: 300px !important;"></figure>
 
 青年団リンクがとれて独立した最初の公演。2014年の再演らしい。
 
