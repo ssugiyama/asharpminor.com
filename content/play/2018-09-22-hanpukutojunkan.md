@@ -4,9 +4,9 @@ date = 2018-09-22T23:31:34+09:00
 type = "post"
 author = "sugi"
 tags = ["momeraths"]
-image = "https://asharpminor.com/images/play/2018/hanpkutojunkan.jpg"
+image = "https://asharpminor.com/images/play/2018/hanpukutojunkan.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2018/hanpkutojunkan.jpg" alt="反復と循環に付随するぼんやりの冒険" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2018/hanpukutojunkan.jpg" alt="反復と循環に付随するぼんやりの冒険" style="width: 300px !important;"></figure>
 
 お金がテーマということで、路上で1000人の人に「あなたにとって、お金とはなんですか？」とインタビューしたそうだ。そのときの映像が舞台にも投影されて使われていた。
 
