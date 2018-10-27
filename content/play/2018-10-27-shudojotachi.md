@@ -3,9 +3,9 @@ title = "KERA・MAP『修道女たち』"
 date = 2018-10-27T23:40:41+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/shydojitachi.jpg" 
+image = "https://asharpminor.com/images/play/2018/shudojitachi.jpg" 
 +++
-<figure class="alignleft"><img src="/images/play/2018/shydojitachi.jpg" alt="修道女たち" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2018/shudojitachi.jpg" alt="修道女たち" style="width: 300px !important;"></figure>
 
 前回のナイロン本公演はいつもの本多劇場ではなく芸劇だったが、今回のKERA・MAPが本多。劇団員が3人でているし、むしろこっちが本公演のような気がしてくる。
 
