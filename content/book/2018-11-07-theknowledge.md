@@ -1,5 +1,5 @@
 +++
-title = "Lewis Dartnel “The Knowlegde - How To Rebuild Our World From Scratch“"
+title = "Lewis Dartnel “The Knowlegde - How To Rebuild Our World From Scratch”"
 date = 2018-11-07T23:45:30+09:00
 type = "post"
 author = "sugi"
