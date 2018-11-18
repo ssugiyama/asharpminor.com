@@ -1,6 +1,7 @@
 +++
 title = "プルースト（高遠弘美訳）『失われた時を求めて 第三篇 ゲルマントの方へ』第一部"
 date = 2018-11-17T21:24:44+09:00
+type = "post"
 author = "sugi"
 ebook = 1
 tags = ["proust"]
