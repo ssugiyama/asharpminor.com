@@ -1,4 +1,4 @@
-{{ partial "default_head.html" . }}
+{{ define "main" }}
 <div class="row">
     <div class="col-md-8">
         <article class="post card">
@@ -91,4 +91,4 @@ var disqus_shortname = '{{ .Site.Params.Disqus }}'; // required: replace example
      }
  });
 </script>
-{{ partial "default_foot.html" . }}
+{{ end }}
