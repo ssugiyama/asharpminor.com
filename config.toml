@@ -5,6 +5,7 @@ HasCJKLanguage = true
 SectionPagesMenu = "sections"
 Paginate = 20
 ignoreFiles = [ "\\*~$" ]
+summaryLength = 140
 
 [params]
 Description = "Every word is like an unnecessary stain on silence and nothingness"
