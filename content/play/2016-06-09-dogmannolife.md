@@ -4,6 +4,7 @@ date = "2016-06-10T01:33:54+09:00"
 title = "『ドッグマンノーライフ』"
 type = "post"
 image = "https://asharpminor.com/images/play/2016/dogmannolife.jpg"
+tags = ["yamagatataichi"]
 +++
 {{% figure src="/images/play/2016/dogmannolife.jpg" alt="ドッグマンノーライフ" class="alignleft" %}}
 
