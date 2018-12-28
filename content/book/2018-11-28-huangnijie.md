@@ -4,7 +4,7 @@ date = 2018-11-28T00:55:45+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41D2F3la7zL.jpg"
-tags = ["asia"]
+tags = ["china"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4560072191/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41D2F3la7zL.jpg" alt="黄泥街 (白水Uブックス)" class="alignleft" /></a>
 
