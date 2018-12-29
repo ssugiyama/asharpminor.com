@@ -4,6 +4,7 @@ title: 岸本佐知子編訳『居心地の悪い部屋』
 author: sugi
 date: 2012-04-17
 url: /book/3212/
+tags: ["anthology"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4041101271/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4041101271/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i0.wp.com/ecx.images-amazon.com/images/I/416p2n0fbOL._SL160_.jpg?w=660" alt="居心地の悪い部屋" class="alignleft"  data-recalc-dims="1" /></a>
 

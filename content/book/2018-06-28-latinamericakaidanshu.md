@@ -4,7 +4,7 @@ date = 2018-06-28T21:53:41+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/617f77LnB2L.jpg"
-tags = ["latin_america"]
+tags = ["latin_america", "anthology"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4309464521/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/617f77LnB2L.jpg" alt="ラテンアメリカ怪談集 (河出文庫)" class="alignleft" /></a>
 

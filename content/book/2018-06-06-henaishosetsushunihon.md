@@ -4,7 +4,7 @@ date = 2018-06-06T23:14:31+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51MdtSrO7gL.jpg"
-tags = ["henai"]
+tags = ["henai", "anthology"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062939142/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51MdtSrO7gL.jpg" alt="変愛小説集 日本作家編 (講談社文庫)" class="alignleft" /></a>

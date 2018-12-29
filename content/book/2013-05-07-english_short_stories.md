@@ -4,6 +4,7 @@ title: 西崎憲編訳『短編小説日和 英国異色傑作選』
 author: sugi
 date: 2013-05-06
 url: /book/4118/
+tags: ["anthology"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480430342/chezsugi-22/ref=nosim/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.co.jp/exec/obidos/ASIN/4480430342/chezsugi-22/ref=nosim/', '']);" name="amazletlink" target="_blank"><img src="http://i2.wp.com/ecx.images-amazon.com/images/I/51B%2BuWZKUeL._SL160_.jpg?w=660" alt="短篇小説日和: 英国異色傑作選 (ちくま文庫)" class="alignleft" data-recalc-dims="1" /></a>
 
