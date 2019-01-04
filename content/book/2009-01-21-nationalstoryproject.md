@@ -4,7 +4,7 @@ title: ポール・オースター編（柴田元幸他訳）『ナショナル�
 author: sugi
 date: 2009-01-21
 url: /book/1944/
-tags: ["palauster"]
+tags: ["paulauster"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4102451110/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41LnNGKut%2BL._SL160_.jpg" alt="ナショナル・ストーリー・プロジェクト〈1〉 (新潮文庫)" class="alignleft" style="float: left; margin: 0 20px 20px 0;" /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4102451129/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Y2cNHMqoL._SL160_.jpg" alt="ナショナル・ストーリー・プロジェクト〈2〉 (新潮文庫)" class="alignleft" style="float: left; margin: 0 20px 20px 0;" /></a>
 
