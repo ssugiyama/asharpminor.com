@@ -3,7 +3,7 @@ title = "カルヴィーノ（和田忠彦訳）『魔法の庭・空を見上�
 date = 2018-12-16T21:07:24+09:00
 type = "post"
 author = "sugi"
-tags = ["calvino"]
+tags = ["calvino", "italian_fantasy"]
 image = "https://images-fe.ssl-images-amazon.com/images/I/51a3ilhOvHL.jpg"
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4003270975/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51a3ilhOvHL.jpg" alt="魔法の庭・空を見上げる部族 他十四篇 (岩波文庫)" class="alignleft" /></a>
