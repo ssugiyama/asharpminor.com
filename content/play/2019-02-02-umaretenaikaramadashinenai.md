@@ -7,7 +7,7 @@ image = "https://asharpminor.com/images/play/2019/umaretenaikara.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/umaretenaikara.jpg" alt="うまれてないからまだしねない" style="width: 300px !important;"></figure>
 
-初の範疇遊泳。代表作の再演ということで満を持して観にいった。
+初の範宙遊泳。代表作の再演ということで満を持して観にいった。
 
 ダイアローグの途中で内心を表出するモノローグが入るのはどうも苦手なのと、テーマが人類の大量死なのは、前田司郎『生きてるものはいないのか』でやりつくした気もしていて、途中まで冷めた感じでみていた。
 
