@@ -5,6 +5,7 @@ title = "村田沙耶香『コンビニ人間』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/51%2Bpx9T8vNL.jpg"
 ebook = 1
+tags = ["muratasayaka"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4163906185/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51%2Bpx9T8vNL.jpg" alt="コンビニ人間" class="alignleft"  /></a>
 

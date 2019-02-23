@@ -3,7 +3,7 @@ type = "post"
 author = "sugi"
 date = "2016-10-15T20:53:28+09:00"
 title = "村田沙耶香『消滅世界』"
-tags = ["dystopia"]
+tags = ["dystopia", "muratasayaka"]
 image = "http://ecx.images-amazon.com/images/I/51CZyn%2BwXHL.jpg"
 ebook = 1
 +++
