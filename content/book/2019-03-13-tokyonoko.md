@@ -1,5 +1,5 @@
 +++
-title = "藤井太陽『東京の子』"
+title = "藤井太洋『東京の子』"
 date = 2019-03-13T23:01:23+09:00
 type = "post"
 author = "sugi"
