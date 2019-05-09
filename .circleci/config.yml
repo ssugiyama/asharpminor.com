@@ -17,7 +17,7 @@ jobs:
             ssh-keyscan ${HOST_NAME} >> ~/.ssh/known_hosts
       - run:
           name: Update enviroment
-          command: apk update && apk add nodejs rsync
+          command: apk update && apk add nodejs nodejs-npm rsync
       - run:
           name: Hugo version
           command: echo "$(hugo version)"
