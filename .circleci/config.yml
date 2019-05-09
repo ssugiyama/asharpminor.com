@@ -9,12 +9,12 @@ jobs:
     working_directory: ~/hugo
     steps:
       - add_ssh_keys:
-        fingerprints:
-          - "c7:19:f8:c6:5d:3c:57:b0:90:61:9c:08:6c:42:55:04"
+          fingerprints:
+            - "c7:19:f8:c6:5d:3c:57:b0:90:61:9c:08:6c:42:55:04"
       - run:
-        name: Start ssh-keyscan
-        command: |
-          ssh-keyscan ${HOST_NAME} >> ~/.ssh/known_hosts
+          name: Start ssh-keyscan
+          command: |
+            ssh-keyscan ${HOST_NAME} >> ~/.ssh/known_hosts
       - run:
           name: Update enviroment
           command: apk update && apk add nodejs rsync
@@ -23,16 +23,16 @@ jobs:
           command: echo "$(hugo version)"
       - checkout
       - run:
-        name: npm build
-        command: |
-          npm install
-          npm run build
+          name: npm build
+          command: |
+            npm install
+            npm run build
       - run:
           name: Building blog pages
           command: |
             HUGO_ENV=production hugo -v
       - deploy:
-        name: sync
-        command: |
-          rsync -av public/ ${USER_NAME}@${HOST_NAME}:k8s/volumes/blog/public/
+          name: sync
+          command: |
+            rsync -av public/ ${USER_NAME}@${HOST_NAME}:k8s/volumes/blog/public/
             
