@@ -1,0 +1,38 @@
+version: 2
+jobs:
+  build:
+    branches:
+      only:
+        - master
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    steps:
+      - add_ssh_keys:
+        fingerprints:
+          - "xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx"
+      - run:
+        name: Start ssh-keyscan
+        command: |
+          ssh-keyscan ${HOST_NAME} >> ~/.ssh/known_hosts
+      - run:
+          name: Update enviroment
+          command: apk update && apk add nodejs rsync
+      - run:
+          name: Hugo version
+          command: echo "$(hugo version)"
+      - checkout
+      - run:
+        name: npm build
+        command: |
+          npm install
+          npm run build
+      - run:
+          name: Building blog pages
+          command: |
+            HUGO_ENV=production hugo -v
+      - deploy:
+        name: sync
+        command: |
+          rsync -av public/ ${USER_NAME}@${HOST_NAME}:k8s/volumes/blog/public/
+            
