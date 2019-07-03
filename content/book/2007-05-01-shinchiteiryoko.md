@@ -4,6 +4,7 @@ title: 奥泉光『新・地底旅行』
 author: sugi
 date: 2007-05-01
 url: /book/1557/
+tags: ["okuizumihikaru"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4022643935/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" src="http://ecx.images-amazon.com/images/I/41sadNBkZ2L.SL160.jpg" alt="新・地底旅行" /></a>
 
