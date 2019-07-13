@@ -7,7 +7,7 @@ image  = "https://images-fe.ssl-images-amazon.com/images/I/41IzG4ipeaL.jpg"
 tags = ["satoaki"]
 ebook = 1
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01D4CN0DY/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41IzG4ipeaL.jpg" alt="バルタザールの遍歴" style="border: none;" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01D4CN0DY/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41IzG4ipeaL.jpg" alt="バルタザールの遍歴"  class="alignleft" /></a>
 
 ちょっと間があいてしまったが2冊目の佐藤亜紀。最新作から読み始めたが、いったん処女作に戻ることにした。他の作品を知らないので偶然と言っていいかどうかわからないが、『スウィングしなけりゃ意味がない』同様ナチが絡んでくる話だ。
 
