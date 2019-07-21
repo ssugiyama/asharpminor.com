@@ -4,7 +4,7 @@ date = 2019-07-21T00:18:17+09:00
 type = "post"
 author = "sugi"
 tags = ["iwamatsuryo"]
-image = "https://asharpminor.com/images/play/2019/nidomenonatsu.jpg"//
+image = "https://asharpminor.com/images/play/2019/nidomenonatsu.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/nidomenonatsu.jpg" alt="二度目の夏" style="width: 300px !important;"></figure>
 
