@@ -4,6 +4,7 @@ title: 小田中直樹『歴史学って何だ？』
 author: sugi
 date: 2005-01-15
 url: /book/1080/
+tags: ["history"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569632696/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/419HBRVDAPL.jpg" alt="歴史学ってなんだ? (PHP新書)" style="border: none;" class="alignleft"/></a>
 
