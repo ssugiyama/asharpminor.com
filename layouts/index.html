@@ -4,7 +4,7 @@
     <div class="col-md-8">
       <div class="posts card">
 	<div class="card-body">
-            {{ range first 10 (where .Data.Pages "Type" "post") }}
+            {{ range first 10 (where .Site.RegularPages "Type" "post") }}
             {{ .Render "li" }}
             {{ end }}
         </div>
