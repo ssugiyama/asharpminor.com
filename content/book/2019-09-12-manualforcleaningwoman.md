@@ -6,7 +6,7 @@ author = "sugi"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/4149gpQBgtL.jpg"
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4065119294/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/4149gpQBgtL.jpg" alt="掃除婦のための手引き書 ルシア・ベルリン作品集" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4065119294/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/4149gpQBgtL.jpg" alt="掃除婦のための手引き書 ルシア・ベルリン作品集" class="alignleft" /></a>
 
 この本を紹介する方法で、すぐに思いつくのは、作者はこういう人で、こういう人生を送って、それと作品にはこんな関係があるんですという、ライ麦畑のホーラン言うところの《デーヴィッド・カパーフィールド》式のやり方だ。この作者の場合、このやり方で書くべきことはとても多いし、たぶんそれだけ読んでも興味深いと思う。しかし、それだと彼女の作品の成り立ちは説明できるけど、魅力は伝わらない。そう、伝えたいのは魅力の方だ。ところが、その魅力は、生半可に説明してもだめで、実際読んでみないことにはわからないと思う。それも詩集の詩を読むみたいに一編一編時間をおいてじっくり読んだ方がいい。
 
