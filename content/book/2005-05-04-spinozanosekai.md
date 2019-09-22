@@ -4,6 +4,7 @@ title: 上野修『スピノザの世界 神あるいは自然』
 author: sugi
 date: 2005-05-04
 url: /book/1149/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061497839/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" src="http://ec2.images-amazon.com/images/I/41B2636WPVL.SL160.jpg" alt="スピノザの世界―神あるいは自然" /></a>
 

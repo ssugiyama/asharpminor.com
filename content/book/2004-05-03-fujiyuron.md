@@ -4,6 +4,7 @@ title: 仲正昌樹『「不自由」論―「何でも自己決定」の限界�
 author: sugi
 date: 2004-05-03
 url: /book/876/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480061320/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41F6ZANZENL.jpg" alt="「不自由」論―「何でも自己決定」の限界 (ちくま新書)" style="border: none;" class="alignleft" /></a>
 
@@ -22,5 +23,3 @@ url: /book/876/
 > 哲学・思想が「分かる」というのは、それまでの「自己」の在り方を見直すきっかけを見出した、ということである。それまで自分では気付いていなかった、自己を取り巻いている共同体的な諸文脈を意識化して、自己を再想像する契機が生まれてこなければ、「分かった」ことにはならない。
 
 ★★★
-
-

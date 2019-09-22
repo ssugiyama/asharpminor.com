@@ -4,7 +4,7 @@ date = "2017-05-05T23:49:36+09:00"
 title = "東浩紀『ゲンロン0 観光客の哲学』"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/514Sw39ugnL.jpg"
-tags = ["azumahiroki"]
+tags = ["azumahiroki", "philosophy"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/490718820X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514Sw39ugnL.jpg" alt="ゲンロン0 観光客の哲学" class="alignleft"  /></a>
 

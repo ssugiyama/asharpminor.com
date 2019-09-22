@@ -4,6 +4,7 @@ title: 小泉義之『ドゥルーズの哲学 生命・自然・未来のため
 author: sugi
 date: 2004-08-08
 url: /book/958/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061495046/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41G5QH22KPL.jpg" alt="ドゥルーズの哲学 (講談社現代新書)" style="border: none;" class="alignleft" /></a>
 
@@ -16,4 +17,3 @@ url: /book/958/
 ただ、もともとドゥルーズの思想がプロパガンダ的なので、それをそのままプロパガンダ的な文体で解説するのはあまり成功していないと思う。
 
 ★
-

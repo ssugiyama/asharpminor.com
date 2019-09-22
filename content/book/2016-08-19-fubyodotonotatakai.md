@@ -5,6 +5,7 @@ title = "稲葉振一郎『不平等との闘い ルソーからピケティま�
 type = "post"
 image = "https://images-na.ssl-images-amazon.com/images/I/51oL715oKSL._SX315_BO1,204,203,200_.jpg"
 ebook = 1
+tags = ["philosophy"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4166610783/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51oL715oKSL.jpg" alt="不平等との闘い ルソーからピケティまで ((文春新書))" class="alignleft"  /></a>
 

@@ -4,6 +4,7 @@ title: 永井均『私・今・そして神』
 author: sugi
 date: 2004-12-23
 url: /book/1058/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061497456/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31JP7FZ8MHL.jpg" alt="私・今・そして神 開闢の哲学 (講談社現代新書)" style="border: none;" class="alignleft" /></a>
 

@@ -4,6 +4,7 @@ title: 阿部謹也『「世間」とは何か』
 author: sugi
 date: 2007-01-13
 url: /book/1495/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061492624/chezsugi-22/ref=nosim/" target="_blank" name="amazletlink"><img class="alignleft" src="http://ecx.images-amazon.com/images/I/41WB5F2X9YL.SL160.jpg" alt="「世間」とは何か" /></a>
 

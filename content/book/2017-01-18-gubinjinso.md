@@ -4,6 +4,7 @@ type = "post"
 date = "2017-01-18T23:59:27+09:00"
 title = "夏目漱石『虞美人草』"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41wwgMRc-wL.jpg"
+tags = ["natsumesoseki"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009IXK5DM/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41wwgMRc-wL.jpg" alt="虞美人草" class="alignleft"  /></a>

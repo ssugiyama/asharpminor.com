@@ -4,6 +4,7 @@ title: G.ドゥルーズ（鈴木雅大訳）『スピノザ 実践の哲学』
 author: sugi
 date: 2004-05-15
 url: /book/887/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4582764401/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51TD20WT1WL.jpg" alt="スピノザ―実践の哲学 (平凡社ライブラリー (440))" style="border: none;" class="alignleft" /></a>
 
@@ -20,4 +21,3 @@ url: /book/887/
 スピノザは、受動的な認識からはじまって、よいものと出会うことを繰り返していき、ついにはすべての本質を理解する能動的な認識に達することが目標だというようなことをいっているのだけど、スピノザの思想そのものが、そのよいもののひとつの例になっているような気がする。なぜか、読んでいるととても気持ちがいいのだ。それがつまり「実践の哲学」ということなのだろう。
 
 ★★★
-

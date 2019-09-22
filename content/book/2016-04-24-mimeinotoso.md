@@ -5,6 +5,7 @@ title = "保坂和志『未明の闘争』"
 type = "post"
 image = "http://ecx.images-amazon.com/images/I/41JjnLpiHvL._SX356_BO1,204,203,200_.jpg"
 ebook = 1
+tags = ["hosakakazushi"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062933225/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41JjnLpiHvL._SL160_.jpg" alt="未明の闘争(上) (講談社文庫)" class="alignleft"  /></a><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4062933233/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/417lrxQ7N2L._SL160_.jpg" alt="未明の闘争(下) (講談社文庫)" class="alignleft"  /></a>
 

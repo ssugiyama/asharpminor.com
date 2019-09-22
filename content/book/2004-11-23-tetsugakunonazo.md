@@ -4,6 +4,7 @@ title: 野矢茂樹『哲学の謎』
 author: sugi
 date: 2003-11-23
 url: /book/1041/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061492861/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/419A2YFC2RL.jpg" alt="哲学の謎 (講談社現代新書)" style="border: none;" class="alignleft" /></a>
 

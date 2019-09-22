@@ -4,7 +4,7 @@ date = 2018-11-07T23:45:30+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51VRPiZppZL.jpg"
-tags = ["english"]
+tags = ["english", "science"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00H4EM594/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51VRPiZppZL.jpg" alt="The Knowledge: How to Rebuild our World from Scratch (English Edition)" class="alignleft" style="border: none;" /></a>

@@ -4,6 +4,7 @@ title: 戸山田和久『科学哲学の冒険 サイエンスの目的と方法
 author: sugi
 date: 2005-03-12
 url: /book/1111/
+tags: ["sciencce", "philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140910224/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51K7TVQHJAL.jpg" alt="科学哲学の冒険―サイエンスの目的と方法をさぐる (NHKブックス)" style="border: none;" class="alignleft"/></a>
 

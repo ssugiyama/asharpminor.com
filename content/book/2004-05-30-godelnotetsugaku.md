@@ -4,6 +4,7 @@ title: 高橋昌一郎『ゲーデルの哲学 不完全性定理と神の存在
 author: sugi
 date: 2004-05-30
 url: /book/899/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/406149466X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41Z2HYZ8C0L.jpg" alt="ゲーデルの哲学 (講談社現代新書)" style="border: none;" class="alignleft" /></a>
 
@@ -23,4 +24,3 @@ url: /book/899/
 歳をとって宗教に走ったなどと考えるのは間違いで、純粋に知的な好奇心から、何度かの試行錯誤を経て、作り上げたものだと思う。本書の解説ではよくわからなかったので、ネットで検索してみつけた[Kurt Gödel's Ontological Argument](http://www.stats.uwaterloo.ca/~cgsmall/ontology.html)というページで、なんとなく理解できた。様相論理を使って哲学的な考察が可能だという一例になっていると思う。
 
 全体的につっこみが足りないので★★。
-

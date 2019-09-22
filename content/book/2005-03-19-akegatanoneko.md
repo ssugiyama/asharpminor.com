@@ -4,6 +4,7 @@ title: 保坂和志『明け方の夢』
 author: sugi
 date: 2005-03-19
 url: /book/1116/
+tags: ["hosakakazushi"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4122044855/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GCJZK6TZL.jpg" alt="明け方の猫 (中公文庫)" style="border: none;" class="alignleft"/></a>
 

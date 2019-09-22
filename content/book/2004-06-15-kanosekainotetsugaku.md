@@ -4,6 +4,7 @@ title: 三浦俊彦『可能世界の哲学 「存在」と「自己」を考え
 author: sugi
 date: 2004-06-15
 url: /book/911/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140017902/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41AM819T36L.jpg" alt="可能世界の哲学―「存在」と「自己」を考える (NHKブックス)" style="border: none;" class="alignleft" /></a>
 
@@ -14,4 +15,3 @@ url: /book/911/
 形而上学的でいささか難解だったが（ぼくはどちらかといえば様相論理の応用的な話を期待していた）、面白かったのは二点。ひとつは、なんでも可能ということが、逆にしばりになって「可能世界」の在り方を限定してしまう論理展開。もうひとつは、第六章で軽く触れられているだけだが、精神を各可能世界にまたがる非物質的な存在とするアイデアがユニークだと思った。
 
 ★★
-

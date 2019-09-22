@@ -4,6 +4,7 @@ title: 永井均『ウィトゲンシュタイン入門』
 author: sugi
 date: 2005-01-08
 url: /book/1072/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480056203/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41RR6XWYPBL.jpg" alt="ウィトゲンシュタイン入門 (ちくま新書)" style="border: none;" class="alignleft"/></a>
 

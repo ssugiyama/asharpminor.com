@@ -4,6 +4,7 @@ title: 永井均『これがニーチェだ』
 author: sugi
 date: 2005-01-02
 url: /book/1067/
+tags: ["philosophy"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4061494015/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41YKHBC8CGL.jpg" alt="これがニーチェだ (講談社現代新書)" style="border: none;" class="alignleft" /></a>
 
@@ -14,4 +15,3 @@ url: /book/1067/
 それと関連して「誠実」が下品な徳であるというのに妙に納得させられた。
 
 ★★★★
-
