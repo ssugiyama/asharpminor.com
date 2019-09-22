@@ -3,7 +3,7 @@ title = "カルロ・ロヴェッリ(冨永星訳)『時間は存在しない』
 date = 2019-09-22T00:58:38+09:00
 type = "post"
 author = "sugi"
-image ＝ ”https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg”
+image = ”https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg”
 ebook = 1
 tags = ["science",  "philosophy"]
 +++
