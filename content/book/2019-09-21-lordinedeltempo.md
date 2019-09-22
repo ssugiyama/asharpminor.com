@@ -3,11 +3,12 @@ title = "カルロ・ロヴェッリ(冨永星訳)『時間は存在しない』
 date = 2019-09-22T00:58:38+09:00
 type = "post"
 author = "sugi"
-image＝”https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg”
+image ＝ ”https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg”
 ebook = 1
-tags = ["science", "philosophy"]
+tags = ["science",  "philosophy"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140817909/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg" alt="時間は存在しない" class=""alignleft /></a>
+
 イタリア出身の理論物理学者による時間についての本。
 
 大きく三部構成。
