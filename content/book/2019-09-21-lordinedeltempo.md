@@ -7,7 +7,7 @@ image = "https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg"
 ebook = 1
 tags = ["science",  "philosophy"]
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140817909/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg" alt="時間は存在しない" class=""alignleft /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4140817909/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51aiLjUhVJL.jpg" alt="時間は存在しない" class="alignleft" /></a>
 
 イタリア出身の理論物理学者による時間についての本。
 
