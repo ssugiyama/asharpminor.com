@@ -3,10 +3,10 @@ title = "『アシアの女』"
 date = 2019-09-28T22:56:36+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019asianoonna.jpg"
+image = "https://asharpminor.com/images/play/2019/asianoonna.jpg"
 tags= ["nagatsukakeishi"]
 +++
-<figure class="alignleft"><img src="/images/play/2019asianoonna.jpg" alt="aアニアの音ぁ" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2019/asianoonna.jpg" alt="aアニアの音ぁ" style="width: 300px !important;"></figure>
 
 富田靖子主演、作の長塚圭史本人による円周による[初演](nagatsukakeishi)の舞台を2006年にみているが。すっかり内容を忘れていた。
 
