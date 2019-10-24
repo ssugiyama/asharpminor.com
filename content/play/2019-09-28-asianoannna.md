@@ -1,5 +1,5 @@
 +++
-title = "『アシアの女』"
+title = "『アジアの女』"
 date = 2019-09-28T22:56:36+09:00
 type = "post"
 author = "sugi"
