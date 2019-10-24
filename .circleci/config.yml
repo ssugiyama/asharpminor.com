@@ -5,7 +5,7 @@ jobs:
       only:
         - master
     docker:
-      - image: cibuilds/hugo:latest
+      - image: cibuilds/hugo:0.57
     working_directory: ~/hugo
     steps:
       - add_ssh_keys:
@@ -35,4 +35,3 @@ jobs:
           name: sync
           command: |
             rsync -av public/ ${USER_NAME}@${HOST_NAME}:/var/k8s/volumes/blog-public/
-            
