@@ -3,10 +3,10 @@ title = "『終わりのない』"
 date = 2019-11-03T23:34:26+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019owarinonai.jpg"
+image = "https://asharpminor.com/images/play/2019/owarinonai.jpg"
 tags = ["ikiume"]
 +++
-<figure class="alignleft"><img src="/images/play/2019owarinonai.jpg" alt="終わりのない" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2019/owarinonai.jpg" alt="終わりのない" style="width: 300px !important;"></figure>
 
 公演の主催は劇場だけど、作、演出は前川知大さんだし、メンバー総出演だし、実質イキウメの舞台だ。
 
