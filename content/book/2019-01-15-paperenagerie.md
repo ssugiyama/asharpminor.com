@@ -5,7 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41y5Vvd2p6L.jpg"
 ebook = 1
-tags = ["kenliu"]
+tags = ["kenliu", "imaginary_cities"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00YGIKMNW/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41y5Vvd2p6L.jpg" alt="紙の動物園 (新☆ハヤカワ・SF・シリーズ)" class="alignleft"  /></a>
 
