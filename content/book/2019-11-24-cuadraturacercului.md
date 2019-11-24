@@ -3,7 +3,7 @@ title = "ギョルゲ・ササルマン（住谷春也訳）『方形の円 偽�
 date = 2019-11-24T23:54:42+09:00
 type = "post"
 author = "sugi"
-tags = "imaginary_cities"
+tags = ["imaginary_cities"]
 image = "https://images-fe.ssl-images-amazon.com/images/I/514NHucCDDL.jpg"
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488016723/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514NHucCDDL.jpg" alt="方形の円 (偽説・都市生成論) (海外文学セレクション)" style="alignleft" /></a>
