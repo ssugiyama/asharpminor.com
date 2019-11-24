@@ -34,4 +34,4 @@ jobs:
       - deploy:
           name: sync
           command: |
-            /usr/bin/rsync -av public/ ${USER_NAME}@${HOST_NAME}:/var/k8s/volumes/blog-public/
+            /usr/bin/rsync -av public/ ${USER_NAME}@${HOST_NAME}:/var/lib/rancher/k3s/storage/pvc-1d6f35c7-537a-4b8d-bad1-291ff9f4d40e/blog-public
