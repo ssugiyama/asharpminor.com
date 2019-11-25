@@ -6,7 +6,7 @@ author = "sugi"
 tags = ["imaginarytrip"]
 image = "https://images-fe.ssl-images-amazon.com/images/I/514NHucCDDL.jpg"
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488016723/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514NHucCDDL.jpg" alt="方形の円 (偽説・都市生成論) (海外文学セレクション)" style="alignleft" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4488016723/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514NHucCDDL.jpg" alt="方形の円 (偽説・都市生成論) (海外文学セレクション)" class="alignleft" /></a>
 
 36の架空の都市を題材にした短編集。といえばイタロ・カルヴィーノ『見えない都市』が思い浮かぶ。これはルーマニア出身の作家によるもの。読み終わるまで新鋭作家が『見えない都市』を下敷きにして発展系として書いたものだとばかり思い込んでいた。それにしてはオーソドックスで、『見えない都市』のポストモダン的なシュールさがないと思ったりもしたが、そういう方向に発展させたのだと思っていた。
 
