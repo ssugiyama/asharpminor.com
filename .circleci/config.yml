@@ -34,4 +34,4 @@ jobs:
       - deploy:
           name: sync
           command: |
-            /usr/bin/rsync -av public/ "${SYNC_PATH)"
+            /usr/bin/rsync -av public/ $SYNC_PATH
