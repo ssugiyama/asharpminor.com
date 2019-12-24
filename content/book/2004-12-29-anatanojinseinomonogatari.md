@@ -4,6 +4,7 @@ title: テッド・チャン（浅倉久志訳）『あなたの人生の物語�
 author: sugi
 date: 2004-12-29
 url: /book/1062/
+tags: ["ted_chiang"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150114587/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51191C0153L.jpg" alt="あなたの人生の物語 (ハヤカワ文庫SF)" style="border: none;" class="alignleft" /></a>
 
