@@ -4,6 +4,7 @@ date = 2019-04-19T23:32:54+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51WjX24YlvL.jpg"
+tags = ["yamaoyuko"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480432221/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51WjX24YlvL.jpg" alt="増補 夢の遠近法: 初期作品選 (ちくま文庫)" class="alignleft" /></a>
 
