@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ssugiyama/asharpminor.com#readme",
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.3.1",
     "jquery": "^1.9.1",
     "parcel-bundler": "^1.8.1",
     "popper.js": "^1.14.3",
