@@ -24,7 +24,7 @@
     "parcel-bundler": "^1.8.1",
     "popper.js": "^1.14.3",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-twitter-widgets": "^1.7.1",
     "social-share-kit": "git+https://github.com/darklow/social-share-kit.git"
   }
