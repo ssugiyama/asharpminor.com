@@ -6,7 +6,7 @@ author = "sugi"
 tags = ["yamaoyuko"]
 image = "https://images-fe.ssl-images-amazon.com/images/I/51vQA%2BLoZeL.jpg"
 +++
-<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480429018/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51vQA%2BLoZeL.jpg" alt="ラピスラズリ (ちくま文庫)" class="align-left" /></a>
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4480429018/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51vQA%2BLoZeL.jpg" alt="ラピスラズリ (ちくま文庫)" class="alignleft" /></a>
 
 「冬眠者」という冬の間死んだように眠る人々を題材にした連作短編集。
 
