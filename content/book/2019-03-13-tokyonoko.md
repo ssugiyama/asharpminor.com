@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41vhHKOSDuL.jpg"
 ebook = 1
+tags = ["fujiitaiyo"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/404105267X/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41vhHKOSDuL.jpg" alt="東京の子" class="alignleft" /></a>
 
