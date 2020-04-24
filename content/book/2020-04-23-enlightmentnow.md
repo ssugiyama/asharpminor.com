@@ -7,7 +7,9 @@ tags = ["steven_pinker", "philosophy"]
 image = "https://m.media-amazon.com/images/I/41QF3x1LfIL._SL5-00_.jpg"
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/B082S7Q2GN/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41QF3x1LfIL._SL5-00_.jpg" alt="21世紀の啓蒙 上：理性、科学、ヒューマニズム、進歩" class="alignleft" /></a><a href="https://www.amazon.co.jp/dp/B082S64BCS/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41wnE-jWf2L._SL5-00_.jpg" alt="21世紀の啓蒙 下：理性、科学、ヒューマニズム、進歩" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/B082S7Q2GN/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41QF3x1LfIL._SL500_.jpg" alt="21世紀の啓蒙 上：理性、科学、ヒューマニズム、進歩" class="alignleft" /></a>
+
+<a href="https://www.amazon.co.jp/dp/B082S64BCS/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41wnE-jWf2L._SL500_.jpg" alt="21世紀の啓蒙 下：理性、科学、ヒューマニズム、進歩" class="alignleft" /></a>
 
 コロナで先の見通しがたたないなか前向きな本が読みたくなった。
 
@@ -17,7 +19,7 @@ ebook = 1
 
 第一部は「啓蒙主義とは何か」 - 啓蒙主義を構成する4つのパーツ、理性、科学、ヒューマニズム、そして進歩を紹介する。
 
-第二部は「進歩」。4つのパーツのうちのひとつだが、分量的に本書の大半を占める。データをベースにさまざまな側面から人類が着実に進歩していることを明らかにする。切り口と目的は異なるが、内容としては『FACTFULNESS』とかぶっているので、個人的にはけっこう退屈だった。ただ、第10章の「環境問題は解決できる問題だ」は、論争的でなかなかおもしろかった。そこでは条件付き楽観主義という立場が表明されている。「これまで問題解決へと導いてくれた、現代的な善の力を維持しつづけていれば、環境問題も解決できるという」立場だ。
+第二部は「進歩」。4つのパーツのうちのひとつだが、分量的に本書の大半を占める。データをベースにさまざまな側面から人類が着実に進歩していることを明らかにする。切り口と目的は異なるが、内容としては『[FACTFULNESS]({{< ref '/book/2019-03-15-factfulness.md'> }})』とかぶっているので、個人的にはけっこう退屈だった。ただ、第10章の「環境問題は解決できる問題だ」は、論争的でなかなかおもしろい。そこでは条件付き楽観主義という立場が表明されている。「これまで問題解決へと導いてくれた、現代的な善の力を維持しつづけていれば、環境問題も解決できるという」立場だ。
 
 第三部は残りの「理性 科学 ヒューマニズム」。分量的には多くないが、本書ならではの知見が書かれているパートだ。特に第23章「ヒューマニズムをあらためて擁護する」は本書で一番興味深かった。個人的にヒューマニズムを宗教を代替できるような倫理体系として考えたことがなかった。
 
