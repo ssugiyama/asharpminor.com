@@ -4,7 +4,7 @@ date = 2020-04-23T20:46:03+09:00
 type = "post"
 author = "sugi"
 tags = ["steven_pinker", "philosophy"]
-image = "https://m.media-amazon.com/images/I/41QF3x1LfIL._SL5-00_.jpg"
+image = "https://m.media-amazon.com/images/I/41QF3x1LfIL._SL500_.jpg"
 ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B082S7Q2GN/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41QF3x1LfIL._SL500_.jpg" alt="21世紀の啓蒙 上：理性、科学、ヒューマニズム、進歩" class="alignleft" /></a>
