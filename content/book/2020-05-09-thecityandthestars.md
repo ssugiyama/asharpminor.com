@@ -3,10 +3,10 @@ title = "アーサー・C・クラーク（酒井昭伸訳）『都市と星』"
 date = 2020-05-09T20:55:59+09:00
 type = "post"
 author = "sugi"
-image = "https://m.media-amazon.com/images/I/61ZKnR3zktL._SL5-00_.jpg"
+image = "https://m.media-amazon.com/images/I/61ZKnR3zktL._SL500_.jpg"
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/B00APBGB0W/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/61ZKnR3zktL._SL5-00_.jpg" alt="都市と星（新訳版）" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/B00APBGB0W/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/61ZKnR3zktL._SL500_.jpg" alt="都市と星（新訳版）" class="alignleft" /></a>
 
 一応SFファンのつもりなのにアーサー・C・クラークを読むのは数十年前の『幼年期の終わり』以来超久しぶり。考えてみるとこういう古典的なSFは今まであまり読んでこなかった。
 

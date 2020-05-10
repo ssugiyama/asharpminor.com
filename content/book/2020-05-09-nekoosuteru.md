@@ -1,12 +1,12 @@
 +++
-title = "村上春樹『猫を棄てる』"
+title = "村上春樹『猫を棄てる 父親について語るとき』"
 date = 2020-05-09T20:56:59+09:00
 type = "post"
 author = "sugi"
-image = "https://m.media-amazon.com/images/I/41piZ5JvcRL._SL5-00_.jpg"
+image = "https://m.media-amazon.com/images/I/41piZ5JvcRL._SL500_.jpg"
 tags = ["murakamiharuki"]
 +++
-<a href="https://www.amazon.co.jp/dp/4163911936/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41piZ5JvcRL._SL5-00_.jpg" alt="猫を棄てる 父親について語るとき" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/4163911936/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41piZ5JvcRL._SL500_.jpg" alt="猫を棄てる 父親について語るとき" class="alignleft" /></a>
 
 村上春樹が初めて自分の父について書いたエッセイ。中くらいの短編の長さだが、刊行にあたって他の作品と組み合わせるのが難しいということで台湾出身の高妍さんの挿絵をつけて単独で出版されている。
 
