@@ -4,7 +4,7 @@ date = 2018-12-28T20:09:28+09:00
 type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/41mUj8uyPXL.jpg"
-tags = ["china", "anthology", "kenliu", "imaginarytrip"]
+tags = ["chinesesf", "anthology", "kenliu", "imaginarytrip"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4153350362/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41mUj8uyPXL.jpg" alt="折りたたみ北京 現代中国SFアンソロジー (新☆ハヤカワ・SF・シリーズ 5036)" style="border: none;" class="alignleft" /></a>
