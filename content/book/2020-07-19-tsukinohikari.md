@@ -4,7 +4,7 @@ date = 2020-07-19T23:59:38+09:00
 type = "post"
 author = "sugi"
 ebook = 1
-image = ”https://m.media-amazon.com/images/I/41Lr+SjfZfL._SL500_.jpg"
+image = "https://m.media-amazon.com/images/I/41Lr+SjfZfL._SL500_.jpg"
 tags = ["chinesesf", "anthology"]
 +++
 <a href="https://www.amazon.co.jp/dp/B085T3H7P8/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41Lr+SjfZfL._SL500_.jpg" alt="月の光　現代中国ＳＦアンソロジー (新☆ハヤカワ・ＳＦ・シリーズ)" class="alignleft" /></a>
