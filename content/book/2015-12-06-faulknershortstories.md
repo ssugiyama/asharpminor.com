@@ -2,6 +2,7 @@
 date = "2015-12-06"
 title = "『フォークナー短編集』（龍口直太郎訳）"
 type = "post"
+tags = ["faulkner"]
 +++
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4102102035/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51dH9GThXML.jpg" alt="フォークナー短編集 (新潮文庫)" class="alignleft" /></a>
