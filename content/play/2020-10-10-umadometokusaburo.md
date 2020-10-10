@@ -4,7 +4,7 @@ date = 2020-10-10T23:28:21+09:00
 type = "post"
 author = "sugi"
 tags = ["seinendan"]
-iamge = "https://asharpminor.com/images/play/2020/umadometokusaburo.jpg"
+image = "https://asharpminor.com/images/play/2020/umadometokusaburo.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/umadometokusaburo.jpg" alt="馬留徳三郎の一日" style="width: 300px !important;"></figure>
 
