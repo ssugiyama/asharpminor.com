@@ -1,5 +1,5 @@
 +++
-title = "2020 10 18 Shirokitaoyakanamine"
+title = "北杜夫『白きたおやかな峰』"
 date = 2020-10-19T00:27:24+09:00
 type = "post"
 author = "sugi"
