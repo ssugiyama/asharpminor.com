@@ -3,7 +3,7 @@ title = "吉田徹『アフター・リベラル 怒りと憎悪の政治』"
 date = 2020-10-30T21:55:30+09:00
 type = "post"
 author = "sugi"
-image = "https://www.amazon.co.jp/dp/B08HM17HLF/?tag=chezsugi-22"
+image = "https://m.media-amazon.com/images/I/41tR44V9kzL._SL500_.jpg"
 ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B08HM17HLF/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41tR44V9kzL._SL500_.jpg" alt="アフター・リベラル　怒りと憎悪の政治 (講談社現代新書)" class="alignleft" /></a>
