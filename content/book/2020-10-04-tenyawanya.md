@@ -4,6 +4,7 @@ date = 2020-10-04T23:56:40+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/51DMHc5Jl5L._SL500_.jpg"
+ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B01JA1LLBQ/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51DMHc5Jl5L._SL500_.jpg" alt="てんやわんや (ちくま文庫)" class="alignleft" /></a>
 

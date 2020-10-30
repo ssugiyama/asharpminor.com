@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 tags = ["faulkner"]
 image = "https://m.media-amazon.com/images/I/41jGdfo5Q3L._SL500_.jpg"
+ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B07FNQ96XG/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41jGdfo5Q3L._SL500_.jpg" alt="八月の光 (光文社古典新訳文庫)" class="alignleft" /></a>
 

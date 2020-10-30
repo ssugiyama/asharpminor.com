@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/51vdX2usnCL._SL500_.jpg"
 tags = ["kitamorio"]
+ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B00EOLP7E0/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51vdX2usnCL._SL500_.jpg" alt="白きたおやかな峰" class="alignleft" /></a>
 
@@ -17,3 +18,5 @@ tags = ["kitamorio"]
 一方、カラコルム登山は個人技では不可能で、徹頭徹尾チームプレイが必要だ。登頂というのは、選ばれたメンバーが少人数でやり、他のメンバーは途中のキャンプの設営や運搬などに従事し、そしてそのキャンプワークの方がむしろ集団スポーツとしての登山の本質なのだ。
 
 ラストは不穏さの漂うオープンエンディング。山に登れたか登れなかったかはどうでもいいことで、山の巨大さの中で右往左往する人間たちのちっぽけさがテーマだということを示すような、不思議な後味を残す終わり方だ。電子書籍版では解説らしきものが収録されてなかったのでネットで調べたところ、この時の登山は、登頂はできなかったものの、一人の犠牲者も出さずに済んだそうだ。小説とは無関係なはずだが、それを知ってよかった。
+
+★★★
