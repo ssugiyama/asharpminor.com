@@ -4,9 +4,9 @@ date = 2020-12-13T23:45:06+09:00
 type = "post"
 author = "sugi"
 tags = ["paradoxteisu"]
-image = "https://asharpminor.com/images/play/2020/priavtejoke.jpg"
+image = "https://asharpminor.com/images/play/2020/privatejoke.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2020/priavtejoke.jpg" alt="プライベート・ジョーク" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2020/privatejoke.jpg" alt="プライベート・ジョーク" style="width: 300px !important;"></figure>
 
 とあるスペインの学生寮が舞台。そこに暮らす学生三人と講演のために訪れた高名な学者と画家。5人の人物はそれぞれ歴史的に名をなした人物をモデルにしているけど、その名前は劇中では明かされない。それぞれ歴史の流れの中で翻弄されながら、この学生寮の一室で人生が交錯する。
 
