@@ -4,6 +4,7 @@ date = 2021-02-05T23:37:47+09:00
 type = "post"
 author = "sugi"
 tags = ["mishimayukio"]
+image = "https://m.media-amazon.com/images/I/51V9XqhWNsL._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/4480030387/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51V9XqhWNsL._SL500_.jpg" alt="新恋愛講座―三島由紀夫のエッセイ〈2〉 (ちくま文庫)" class="alignleft" /></a>
 
