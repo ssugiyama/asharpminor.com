@@ -66,3 +66,10 @@ p {
     display: block;
     float: right;
 }
+
+blockquote {
+    margin: 0 1em;
+    border-left: 1px solid blue;
+    padding: 0 1em;
+    font-size: 90%;
+}
