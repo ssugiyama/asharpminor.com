@@ -4,7 +4,7 @@ date = 2021-06-12T21:32:21+09:00
 type = "post"
 author = "sugi"
 tags = ["ikiume"]
-image = "https://asharpminor.com/images/play/2021/sotonomichi.jpg "
+image = "https://asharpminor.com/images/play/2021/sotonomichi.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2021/sotonomichi.jpg" alt="外の道" style="width: 300px !important;"></figure>
 
