@@ -3,7 +3,7 @@ title = "プレイリスト"
 date = 2018-06-04T22:13:05+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/scorelogo.png"
+image = "https://blog.asharpminor.com/images/scorelogo.png"
 +++
 Apple MUSICのプレイリストをこのページで視聴できるようにしました。アカウントをもっていれば全曲聴くことも可能です。
 

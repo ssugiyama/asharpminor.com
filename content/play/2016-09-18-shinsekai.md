@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-09-18T20:41:35+09:00"
 title = "ヨーロッパ企画『来てけつかるべき新世界』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/shinsekai.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/shinsekai.jpg"
 tags = ["europekikaku"]
 +++
 <figure class="alignleft"><img src="/images/play/2016/shinsekai.jpg" alt="来てけつかるべき新世界" style="width: 300px !important"></figure>

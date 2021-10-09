@@ -3,7 +3,7 @@ title = "庭劇団ペニノ『笑顔の砦』RE-CREATION"
 date = 2019-09-22T00:54:36+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/egaonotoride.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/egaonotoride.jpg"
 tags = ["penino"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/egaonotoride.jpg" alt="笑顔の砦" style="width: 300px !important;"></figure>

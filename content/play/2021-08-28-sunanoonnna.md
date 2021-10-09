@@ -4,7 +4,7 @@ date = 2021-08-29T13:37:19+09:00
 type = "post"
 author = "sugi"
 tags = ["kera"]
-image = "https://asharpminor.com/images/play/2021/sunanoonnna.jpg"
+image = "https://blog.asharpminor.com/images/play/2021/sunanoonnna.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2021/sunanoonnna.jpg" alt="砂の女" style="width: 300px !important;"></figure>
 

@@ -3,7 +3,7 @@ title = "『わたしが悲しくないのはあなたが遠いから』"
 date = 2017-10-07T23:37:29+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/watashigakanashikunainowa.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/watashigakanashikunainowa.jpg"
 tags = ["mamagoto"]
 +++
 
@@ -20,4 +20,3 @@ tags = ["mamagoto"]
 **作・演出：柴幸男／東京芸術劇場シアターイースト／自由席4000円／2017-10-07 19:30／★★★**
 
 **出演：大石将弘、岡田智代、串尾一輝、椿真由美、野上絹代、端田新菜、藤谷理子、森岡光**
-

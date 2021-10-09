@@ -3,7 +3,7 @@ title = "城山羊の会『埋める女』"
 date = 2018-12-08T22:32:39+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/umeruonna.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/umeruonna.jpg"
 tags = ["shiroyagi"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/umeruonna.jpg" alt="埋める女" style="width: 300px !important;"></figure>

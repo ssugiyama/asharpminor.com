@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-08-14T00:22:19+09:00"
 title = "青年団リンク ホエイ『麦とクシャミ』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/mugitokushami.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/mugitokushami.jpg"
 tags = ["whey"]
 +++
 {{% figure src="/images/play/2016/mugitokushami.jpg" alt="麦とクシャミ" class="alignleft" %}}
@@ -21,4 +21,3 @@ tags = ["whey"]
 **作・演出：山田百次、プロデュース：河村竜也／こまばアゴラ劇場／自由席3000円／2016-08-13 19:00／★★★**
 
 **出演：中村真生、宮部純子、緑川史絵、朝比奈竜生、山田百次、伊東毅、河村竜也**
-

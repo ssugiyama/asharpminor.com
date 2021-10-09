@@ -3,7 +3,7 @@ title = "青年団リンク ホエイ 『郷愁の丘 ロマントピア』"
 date = 2018-01-13T23:26:41+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/romantopia.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/romantopia.jpg"
 tags = ["whey"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/romantopia.jpg" alt="郷愁の丘ロマントピア" style="width: 300px !important;"></figure>

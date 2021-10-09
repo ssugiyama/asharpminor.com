@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-07-10T01:34:44+09:00"
 title = "青年団『ニッポン・サポート・センター』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/nipponsupportcenter.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/nipponsupportcenter.jpg"
 tags = ["seinendan"]
 +++
 {{% figure src="/images/play/2016/nipponsupportcenter.jpg" alt="ニッポン・サポート・センター" class="alignleft" %}}
@@ -17,4 +17,3 @@ tags = ["seinendan"]
 **作・演出：平田オリザ／吉祥寺シアター／自由席4000円／2016-07-09 18:00／★★**
 
 **出演：山内健司、松田弘子、志賀廣太郎、永井秀樹、たむらみずほ、辻美奈子、小林智、兵藤公美、島田曜蔵、能島瑞穂、大塚洋、大竹直、村井まどか、河村竜也、堀夏子、海津忠、木引優子、井上みなみ、富田真喜、藤松祥子**
-

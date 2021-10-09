@@ -3,7 +3,7 @@ title = "シス・カンパニー『ワーニャ伯父さん』"
 date = 2017-09-24T00:24:42+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/unclevanya.png"
+image = "https://blog.asharpminor.com/images/play/2017/unclevanya.png"
 tags = ["chekhov"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/unclevanya.png" alt="ワーニャ伯父さん" style="width: 300px !important;"></figure>

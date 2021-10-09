@@ -3,7 +3,7 @@ title = "KAAT神奈川芸術劇場プロヂュース『人類史』"
 date = 2020-10-24T23:30:56+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2020/jinruishi.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/jinruishi.jpg"
 tags = ["tanikenichi"]
 +++
 <figure class="alignleft"><img src="/images/play/2020/jinruishi.jpg" alt="人類史" style="width: 300px !important;"></figure>

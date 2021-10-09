@@ -4,7 +4,7 @@ date = 2017-12-16T23:57:32+09:00
 type = "post"
 author = "sugi"
 tags = ["cui"]
-image = "https://asharpminor.com/images/play/2017/zenseidemoraiseidemo.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/zenseidemoraiseidemo.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2017/zenseidemoraiseidemo.jpg" alt="前世でも来世でも君は僕のことが嫌" style="width: 300px !important;"></figure>
 

@@ -3,7 +3,7 @@ type = "post"
 title = "チェルフィッチュ『部屋に流れる時間の旅』"
 author = "sugi"
 date = "2017-06-24T23:31:32+09:00"
-image = "https://asharpminor.com/images/play/2017/heyaninagarerujikannotabi.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/heyaninagarerujikannotabi.jpg"
 tags = ["chelfitsch"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/heyaninagarerujikannotabi.jpg" alt="部屋に流れる時間の旅" style="width: 300px !important;"></figure>

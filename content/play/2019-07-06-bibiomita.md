@@ -3,7 +3,7 @@ title = "『ビビを見た！』"
 date = 2019-07-06T23:16:06+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/bibi.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/bibi.jpg"
 tags = ["sample"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/bibi.jpg" alt="ビビは見た！" style="width: 300px !important;"></figure>
@@ -19,4 +19,3 @@ tags = ["sample"]
 **原作：大海赫、上演台本・演出：松井秀／神奈川芸術劇場大スタジオ／指定席5300円／2019-07-06／★★**
 
 **出演：岡山天音、石橋静河、樹里咲穂、久ヶ沢徹、瑛蓮、師岡広明、大村わたる、熊野晋也、岩岡修輝、長尾純子、中島妙子、小林風花**
-

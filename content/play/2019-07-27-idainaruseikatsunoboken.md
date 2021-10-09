@@ -3,7 +3,7 @@ title = "五反田団『偉大なる生活の冒険』"
 date = 2019-07-27T21:31:48+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com//images/play/2019/idainaruseikatsunoboken.jpg"
+image = "https://blog.asharpminor.com//images/play/2019/idainaruseikatsunoboken.jpg"
 tags = ["gotandadan"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/idainaruseikatsunoboken.jpg" alt="偉大なる生活の冒険" style="width: 300px !important;"></figure>

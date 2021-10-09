@@ -4,7 +4,7 @@ date = 2019-12-21T23:55:33+09:00
 type = "post"
 author = "sugi"
 tags = ["nagatsukakeishi"]
-image = "https://asharpminor.com/images/play/2019/hitachibokaison.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/hitachibokaison.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/hitachibokaison.jpg" alt="変半身" style="width: 300px !important;"></figure>
 

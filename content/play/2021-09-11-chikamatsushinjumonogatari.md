@@ -4,7 +4,7 @@ date = 2021-09-12T02:25:06+09:00
 type = "post"
 author = "sugi"
 tags = ["nagatsukakeishi"]
-image = "https://asharpminor.com/images/play/2021/chikamatsushinjumonogatari.webp"
+image = "https://blog.asharpminor.com/images/play/2021/chikamatsushinjumonogatari.webp"
 +++
 <figure class="alignleft"><img src="/images/play/2021/chikamatsushinjumonogatari.webp" alt="近松心中物語" style="width: 300px !important;"></figure>
 

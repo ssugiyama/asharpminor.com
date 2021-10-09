@@ -4,7 +4,7 @@ date = 2018-05-05T12:31:14+09:00
 type = "post"
 author = "sugi"
 tags = ["sample"]
-image = "https://asharpminor.com/images/play/2018/gooddeathvibration.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/gooddeathvibration.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2018/gooddeathvibration.jpg" alt="グッド・デス・バイブレーション考" style="width: 300px !important;"></figure>
 

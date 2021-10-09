@@ -3,7 +3,7 @@ title = "『作者を探す六人の登場人物』"
 date = 2017-11-04T23:13:38+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/seipersonaggi.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/seipersonaggi.jpg"
 tags = ["kaigaidrama","nagatsukakeishi"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/seipersonaggi.jpg" alt="作者を探す六人の登場人物" style="width: 300px !important;"></figure>

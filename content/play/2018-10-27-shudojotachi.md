@@ -3,7 +3,7 @@ title = "KERA・MAP『修道女たち』"
 date = 2018-10-27T23:40:41+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/shudojotachi.jpg" 
+image = "https://blog.asharpminor.com/images/play/2018/shudojotachi.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2018/shudojotachi.jpg" alt="修道女たち" style="width: 300px !important;"></figure>
 

@@ -3,7 +3,7 @@ title = "ホエイ『スマートコミュニティアンドメンタルヘル�
 date = 2018-08-18T23:48:47+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/smartcommunityandmentalhealthcare.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/smartcommunityandmentalhealthcare.jpg"
 tags = ["whey"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/smartcommunityandmentalhealthcare.jpg" alt="スマートコミュニティアンドメンタルヘルスケア" style="width: 300px !important;"></figure>

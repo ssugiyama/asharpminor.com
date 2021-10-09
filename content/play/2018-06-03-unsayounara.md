@@ -3,7 +3,7 @@ title = "五反田団『うん、さようなら』"
 date = 2018-06-03T23:21:05+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/unsayounara.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/unsayounara.jpg"
 tags = ["gotandadan"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/unsayounara.jpg" alt="うん、さようなら" style="width: 300px !important;"></figure>

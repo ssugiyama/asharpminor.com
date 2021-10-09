@@ -3,7 +3,7 @@ title = "岩松了プロデュース『三人姉妹はホントにモスクワ�
 date = 2018-01-27T23:28:05+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/sanninshimaimoscow.png"
+image = "https://blog.asharpminor.com/images/play/2018/sanninshimaimoscow.png"
 tags = ["iwamatsuryo"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/sanninshimaimoscow.png" alt="三人姉妹はホントにモスクワに行きたがっているのか？" style="width: 300px !important;"></figure>

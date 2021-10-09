@@ -3,7 +3,7 @@ date = "2016-10-11T23:38:47+09:00"
 title = "小田尚稔の演劇『是でいいのだ』"
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com//images/play/2016/koredeiinoda.jpg"
+image = "https://blog.asharpminor.com//images/play/2016/koredeiinoda.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2016/koredeiinoda.jpg" alt="是でいいのだ" style="width: 300px !important"></figure>
 

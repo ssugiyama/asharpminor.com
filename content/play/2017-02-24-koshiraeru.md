@@ -3,7 +3,7 @@ date = "2017-02-25T01:35:46+09:00"
 title = "無隣館若手自主企画／松村企画『こしらえる』"
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/koshiraeru.png"
+image = "https://blog.asharpminor.com/images/play/2017/koshiraeru.png"
 tags = ["momeraths"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/koshiraeru.png" alt="" style="width: 300px !important;"></figure>

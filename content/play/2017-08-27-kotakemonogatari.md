@@ -3,7 +3,7 @@ title = "青年団リンクホエイ『小竹物語』"
 date = 2017-08-27T23:46:16+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/kotakemonogatari.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/kotakemonogatari.jpg"
 tags = ["whey"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/kotakemonogatari.jpg" alt="小竹物語" style="width: 300px !important;"></figure>

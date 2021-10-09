@@ -4,7 +4,7 @@ date = 2020-09-20T23:15:38+09:00
 type = "post"
 author = "sugi"
 tags = ["kera"]
-image = "https://asharpminor.com/images/play/2020/bagiltown.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/bagiltown.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/bagiltown.jpg" alt="ベイジルタウンの女神" style="width: 300px !important;"></figure>
 

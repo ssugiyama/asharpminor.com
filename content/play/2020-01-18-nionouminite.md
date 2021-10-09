@@ -4,7 +4,7 @@ date = 2020-01-19T00:53:48+09:00
 type = "post"
 author = "sugi"
 tags = ["okazakigeijutsuza"]
-image = "https://asharpminor.com/images/play/2020/nionoumi.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/nionoumi.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/nionoumi.jpg" alt="ニオノウミにて" style="width: 300px !important;"></figure>
 

@@ -3,7 +3,7 @@ title = "ジエン社『物の所有を学ぶ庭』"
 date = 2018-03-03T23:34:33+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/shoyu.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/shoyu.jpg"
 tags = ["jiensha"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/shoyu.jpg" alt="物の所有を学ぶ庭" style="width: 300px !important;"></figure>

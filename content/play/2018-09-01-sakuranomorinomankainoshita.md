@@ -3,7 +3,7 @@ title = "野田地図『贋作桜の森の満開の下』"
 date = 2018-09-01T23:46:38+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/sakuranomorinomankainoshita.png"
+image = "https://blog.asharpminor.com/images/play/2018/sakuranomorinomankainoshita.png"
 tags = ["nodamap"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/sakuranomorinomankainoshita.png" alt="" style="width: 300px !important;"></figure>

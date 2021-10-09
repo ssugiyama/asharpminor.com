@@ -4,7 +4,7 @@ date = 2020-02-15T23:51:01+09:00
 type = "post"
 author = "sugi"
 tags = ["jiensha"]
-image = "https://asharpminor.com/images/play/2020/dekinai.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/dekinai.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/dekinai.jpg" alt="わたしたちはできない、をする。" style="width: 300px !important;"></figure>
 

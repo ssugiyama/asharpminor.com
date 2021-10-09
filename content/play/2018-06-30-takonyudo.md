@@ -3,7 +3,7 @@ title = "庭劇団ペニノ『蛸入道 忘却ノ儀』"
 date = 2018-06-30T21:06:28+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/takonyudo.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/takonyudo.jpg"
 tags = ["penino"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/takonyudo.jpg" alt="蛸入道 忘却ノ儀" style="width: 300px !important;"></figure>

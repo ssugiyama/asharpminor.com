@@ -3,7 +3,7 @@ title = "イキウメ『図書館的人生 Vol.4 襲ってくるもの』"
 date = 2018-06-02T23:21:56+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/osottekurumono.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/osottekurumono.jpg"
 tags = ["ikiume"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/osottekurumono.jpg" alt="襲ってくるもの" style="width: 300px !important;"></figure>

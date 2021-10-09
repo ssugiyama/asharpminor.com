@@ -3,7 +3,7 @@ title = "チェルフィッチュ『三月の5日間』リクリエーション"
 date = 2017-12-10T22:29:14+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/5daysinmarch.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/5daysinmarch.jpg"
 tags = ["chelfitsch"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/5daysinmarch.jpg" alt="三月の5日間" style="width: 300px !important;"></figure>

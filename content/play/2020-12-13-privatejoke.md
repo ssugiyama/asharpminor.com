@@ -4,7 +4,7 @@ date = 2020-12-13T23:45:06+09:00
 type = "post"
 author = "sugi"
 tags = ["paradoxteisu"]
-image = "https://asharpminor.com/images/play/2020/privatejoke.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/privatejoke.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/privatejoke.jpg" alt="プライベート・ジョーク" style="width: 300px !important;"></figure>
 

@@ -3,7 +3,7 @@ title = "ジエン社『ボードゲームと種の起源』"
 date = 2018-12-15T23:53:53+09:00
 type = "post"
 author = "sugi"
-image= "https://asharpminor.com/images/play/2018/boardgame.jpg"
+image= "https://blog.asharpminor.com/images/play/2018/boardgame.jpg"
 tags = ["jiensha"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/boardgame.jpg" alt="ボードゲームと種の起源" style="width: 300px !important;"></figure>

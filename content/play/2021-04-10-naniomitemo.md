@@ -3,7 +3,7 @@ title = "コンプソンズ『何を見ても何かを思い出すと思う』"
 date = 2021-04-10T23:14:26+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2021/naniomitemo.png"
+image = "https://blog.asharpminor.com/images/play/2021/naniomitemo.png"
 tags = ["compsons"]
 +++
 <figure class="alignleft"><img src="/images/play/2021/naniomitemo.png" alt="何を見ても何かを思い出すと思う" style="width: 300px !important;"></figure>

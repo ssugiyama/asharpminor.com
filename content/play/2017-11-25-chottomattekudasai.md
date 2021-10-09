@@ -4,7 +4,7 @@ date = 2017-11-25T23:54:53+09:00
 type = "post"
 author = "sugi"
 tags = ["kera"]
-image = "https://asharpminor.com/images/play/2017/chottomattekudasai.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/chottomattekudasai.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2017/chottomattekudasai.jpg" alt="ちょっと、まってください" style="width: 300px !important;"></figure>
 

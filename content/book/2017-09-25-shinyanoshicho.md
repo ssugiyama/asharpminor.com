@@ -9,7 +9,7 @@ ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009IXZ6MC/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51gkurF1qZL.jpg" alt="深夜の市長" class="alignleft"  /></a>
 
-[芦辺拓さんによると](https://twitter.com/ashibetaku/status/905338220761645057)、戦前二大都市奇想小説は先日読んだ『[魔都](https://asharpminor.com/book/2017-06-18-mato/)』とこの『深夜の市長』ということなので読んでみた。
+[芦辺拓さんによると](https://twitter.com/ashibetaku/status/905338220761645057)、戦前二大都市奇想小説は先日読んだ『[魔都](https://blog.asharpminor.com/book/2017-06-18-mato/)』とこの『深夜の市長』ということなので読んでみた。
 
 長編というには短くて長めの中編といったところか。深夜の散歩を愛好する主人公は偶然殺人事件を目撃してしまう。危ういところを深夜の市長と呼ばれる謎の人物に助けられ、奇妙な事件の渦中へ巻き込まれてゆくというストーリー。
 

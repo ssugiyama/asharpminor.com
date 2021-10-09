@@ -3,7 +3,7 @@ title = "『シブヤから遠く離れて』"
 type = "post"
 author = "sugi"
 date = "2016-12-10T23:56:25+09:00"
-image="https://asharpminor.com/images/play/2016/shibuya.jpg"
+image="https://blog.asharpminor.com/images/play/2016/shibuya.jpg"
 tags = ["iwamatsuryo"]
 +++
 <figure class="alignleft"><img src="/images/play/2016/shibuya.jpg" alt="" style="width: 300px !important;"></figure>

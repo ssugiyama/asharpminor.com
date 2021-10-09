@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-06-26T23:06:20+09:00"
 title = "青年団リンク キュイ『止まらない子供たちが轢かれてゆく』"
 type = "post"
-image = 'https://asharpminor.com/images/play/2016/fuminkodomo.png'
+image = 'https://blog.asharpminor.com/images/play/2016/fuminkodomo.png'
 tags = ["cui"]
 +++
 {{% figure src="/images/play/2016/fuminkodomo.png" alt="不眠普及／止まらない子供たちが轢かれてゆく" class="alignleft" %}}

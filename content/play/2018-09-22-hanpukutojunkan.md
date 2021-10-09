@@ -4,7 +4,7 @@ date = 2018-09-22T23:31:34+09:00
 type = "post"
 author = "sugi"
 tags = ["momeraths"]
-image = "https://asharpminor.com/images/play/2018/hanpukutojunkan.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/hanpukutojunkan.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2018/hanpukutojunkan.jpg" alt="反復と循環に付随するぼんやりの冒険" style="width: 300px !important;"></figure>
 

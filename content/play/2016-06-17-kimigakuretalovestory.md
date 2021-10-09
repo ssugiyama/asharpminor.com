@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-06-18T00:21:48+09:00"
 title = "シベリア少女鉄道『君がくれたラブストーリー』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/lovestory.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/lovestory.jpg"
 +++
 {{% figure src="/images/play/2016/lovestory.jpg" alt="君がくれたラブストーリー" class="alignleft" %}}
 

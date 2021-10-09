@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-05-07T23:55:02+09:00"
 title = "『8月の家族たち August: Osage Country』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/augustosagecountry.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/augustosagecountry.jpg"
 tags = ["kaigaidrama", "kera"]
 +++
 {{% figure src="/images/play/2016/augustosagecountry.jpg" alt="8月の家族たち" class="alignleft" %}}

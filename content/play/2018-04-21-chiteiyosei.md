@@ -3,7 +3,7 @@ title = "Q『地底妖精』"
 date = 2018-04-21T22:50:11+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/chiteiyosei.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/chiteiyosei.jpg"
 tags = ["qqq"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/chiteiyosei.jpg" alt="地底妖精" style="width: 300px !important;"></figure>

@@ -3,7 +3,7 @@ title = "シスカンパニー『LIFE LIFE LIFE 〜人生の3つのバージョ�
 date = 2019-04-06T23:26:20+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/lifelifelife.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/lifelifelife.jpg"
 tags = ["kera"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/lifelifelife.jpg" alt="LIFE LIFE LIFE" style="width: 300px !important;"></figure>

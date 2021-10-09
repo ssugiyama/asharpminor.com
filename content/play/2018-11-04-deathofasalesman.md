@@ -3,7 +3,7 @@ title = "『セールスマンの死』"
 date = 2018-11-04T23:24:21+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/deathofasalesman.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/deathofasalesman.jpg"
 tags = ["death_of_a_salesman"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/deathofasalesman.jpg" alt="セールスマンの死" style="width: 300px !important;"></figure>

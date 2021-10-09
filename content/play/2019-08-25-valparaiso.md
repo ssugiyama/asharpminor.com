@@ -3,7 +3,7 @@ title = "岡崎藝術座『バルパライソの長い坂をくだる話』"
 date = 2019-08-25T23:19:00+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/valparaiso.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/valparaiso.jpg"
 tags = ["okazakigeijutsuza"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/valparaiso.jpg" alt="偉大なる生活の冒険" style="width: 300px !important;"></figure>

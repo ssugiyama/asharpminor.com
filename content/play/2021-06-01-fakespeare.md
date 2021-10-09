@@ -4,7 +4,7 @@ date = 2021-06-02T23:25:09+09:00
 type = "post"
 author = "sugi"
 tags = ["nodamap"]
-image = "https://asharpminor.com/images/play/2021/fakespeare.jpg"
+image = "https://blog.asharpminor.com/images/play/2021/fakespeare.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2021/fakespeare.jpg" alt="フェイクスピア" style="width: 300px !important;"></figure>
 

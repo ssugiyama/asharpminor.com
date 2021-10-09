@@ -3,7 +3,7 @@ title = "阿佐ヶ谷スパイダース『桜姫〜燃焦旋律隊殺於焼跡�
 date = 2019-09-14T22:26:38+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/sakurahime.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/sakurahime.jpg"
 tags = ["nagatsukakeishi"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/sakurahime.jpg" alt="桜姫〜燃焦旋律隊殺於焼跡〜" style="width: 300px !important;"></figure>

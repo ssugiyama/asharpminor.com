@@ -4,7 +4,7 @@ date = "2016-02-05T23:32:11+09:00"
 title = "岡崎藝術座『イスラ！イスラ！イスラ！』"
 type = "post"
 tags = ["okazakigeijutsuza"]
-image = "https://asharpminor.com/images/play/2016/islaislaisla.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/islaislaisla.jpg"
 +++
 {{% figure src="/images/play/2016/islaislaisla.jpg" alt="イスラ！イスラ！イスラ！" class="alignleft" %}}
 

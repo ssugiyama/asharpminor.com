@@ -3,7 +3,7 @@ title = "M&Oplaysプロデュース『そして春になった』"
 date = 2020-12-12T23:22:55+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2020/soshiteharuninatta.gif"
+image = "https://blog.asharpminor.com/images/play/2020/soshiteharuninatta.gif"
 tags = ["iwamatsuryo"]
 +++
 <figure class="alignleft"><img src="/images/play/2020/soshiteharuninatta.gif" alt="そして春になった" style="width: 300px !important;"></figure>

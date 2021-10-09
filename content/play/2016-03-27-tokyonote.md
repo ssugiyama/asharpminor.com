@@ -3,7 +3,7 @@ author = "sugi"
 date = "2016-03-27T22:48:36+09:00"
 title = "ミクニヤナイハラプロジェクト『東京ノート』"
 type = "post"
-image = "https://asharpminor.com/images/play/2016/tokyonote.jpg"
+image = "https://blog.asharpminor.com/images/play/2016/tokyonote.jpg"
 tags = ["mikuniyanaihara"]
 +++
 

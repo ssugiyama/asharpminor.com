@@ -3,7 +3,7 @@ title = "イキウメ『散歩する侵略者』"
 date = 2017-11-03T23:34:40+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/sanposurushinryakusha.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/sanposurushinryakusha.jpg"
 tags = ["ikiume"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/sanposurushinryakusha.jpg" alt="散歩する侵略者" style="width: 300px !important;"></figure>
@@ -21,4 +21,3 @@ tags = ["ikiume"]
 **作・演出：前川知大／シアタートラム／指定席4800円／2017-11-03 19:00／★★★**
 
 **出演：浜田信也、安井順平、盛隆二、森下創、大窪人衛、内田慈、松岡依都美、栩原楽人、天野はな、板垣雄亮**
-

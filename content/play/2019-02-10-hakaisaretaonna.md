@@ -4,7 +4,7 @@ date = 2019-02-10T21:39:12+09:00
 type = "post"
 author = "sugi"
 tags = ["offton"]
-image = "https://asharpminor.com/images/play/2019/hakaisaretaonna.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/hakaisaretaonna.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/hakaisaretaonna.jpg" alt="" style="width: 300px !important;"></figure>
 

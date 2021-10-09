@@ -3,7 +3,7 @@ title = "城山羊の会『相談者たち』"
 date = 2017-12-02T23:47:46+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2017/sodanshatachi.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/sodanshatachi.jpg"
 tags = ["shiroyagi"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/sodanshatachi.jpg" alt="相談者たち" style="width: 300px !important;"></figure>

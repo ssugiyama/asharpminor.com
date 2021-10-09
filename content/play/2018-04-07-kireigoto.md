@@ -3,7 +3,7 @@ title = "青年団リンク キュイ『きれいごと、なきごと、ねご�
 date = 2018-04-07T23:46:06+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/kireigoto.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/kireigoto.jpg"
 tags = ["cui"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/kireigoto.jpg" alt="きれいごと、なきごと、ねごと、" style="width: 300px !important;"></figure>

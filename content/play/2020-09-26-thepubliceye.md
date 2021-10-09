@@ -3,7 +3,7 @@ title = "シス・カンパニー『あなたの目』"
 date = 2020-09-26T23:56:14+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2020/thepubliceye.jpg"
+image = "https://blog.asharpminor.com/images/play/2020/thepubliceye.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2020/thepubliceye.jpg" alt="あなたの目" style="width: 300px !important;"></figure>
 

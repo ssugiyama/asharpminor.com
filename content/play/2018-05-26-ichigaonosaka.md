@@ -4,7 +4,7 @@ date = 2018-05-26T23:15:22+09:00
 type = "post"
 author = "sugi"
 tags = ["iwamatsuryo"]
-image = "https://asharpminor.com/images/play/2018/ichigaonosaka.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/ichigaonosaka.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2018/ichigaonosaka.jpg" alt="市ヶ尾の坂" style="width: 300px !important;"></figure>
 

@@ -4,7 +4,7 @@ date = 2019-11-23T23:23:19+09:00
 type = "post"
 author = "sugi"
 tags = ["kera"]
-image = "https://asharpminor.com/images/play/2019/drhoffmann.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/drhoffmann.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/drhoffmann.jpg" alt="ドクター・ホフマンのサナトリウム" style="width: 300px !important;"></figure>
 

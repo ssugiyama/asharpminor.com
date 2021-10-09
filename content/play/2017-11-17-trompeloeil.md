@@ -4,7 +4,7 @@ date = 2017-11-17T23:09:41+09:00
 type = "post"
 author = "sugi"
 tags = ["europekikaku"]
-image = "https://asharpminor.com/images/play/2017/trompeloeil.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/trompeloeil.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2017/trompeloeil.jpg" alt="出てこようとしてるトロンプルイユ" style="width: 300px !important;"></figure>
 

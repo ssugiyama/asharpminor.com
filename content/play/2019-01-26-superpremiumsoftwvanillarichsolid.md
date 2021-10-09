@@ -4,7 +4,7 @@ date = 2019-01-26T21:54:54+09:00
 type = "post"
 author = "sugi"
 tags = ["chelfitsch"]
-image = "https://asharpminor.com/images/play/2019/solid.png"
+image = "https://blog.asharpminor.com/images/play/2019/solid.png"
 +++
 <figure class="alignleft"><img src="/images/play/2019/solid.png" alt="スーパープレミアムソフトWバニラリッチソリッド" style="width: 300px !important;"></figure>
 

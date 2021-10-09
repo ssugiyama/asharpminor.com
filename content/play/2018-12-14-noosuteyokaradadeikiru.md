@@ -3,7 +3,7 @@ title = "オフィスマウンテン『能を捨てよ体で生きる』"
 date = 2018-12-14T22:13:26+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2018/noosuteyokaradadeikiru.jpg"
+image = "https://blog.asharpminor.com/images/play/2018/noosuteyokaradadeikiru.jpg"
 tags = ["yamagatataichi"]
 +++
 <figure class="alignleft"><img src="/images/play/2018/noosuteyokaradadeikiru.jpg" alt="能を捨てよ体で生きる" style="width: 300px !important;"></figure>
@@ -17,5 +17,3 @@ tags = ["yamagatataichi"]
 **作・演出・振付：山縣太一、大谷能生、横田僚平、矢野昌幸、児玉磨利／STスポット／自由席3000円／2018-12-14 20:00／★**
 
 **出演：大谷能生、横田僚平、矢野昌幸、児玉磨利**
-
-

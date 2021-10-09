@@ -3,7 +3,7 @@ title = "範宙遊泳『うまれてないからまだしねない』"
 date = 2019-02-02T23:09:54+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/umaretenaikara.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/umaretenaikara.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/umaretenaikara.jpg" alt="うまれてないからまだしねない" style="width: 300px !important;"></figure>
 

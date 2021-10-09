@@ -4,7 +4,7 @@ date = 2019-04-20T23:03:40+09:00
 type = "post"
 author = "sugi"
 tags = ["whey"]
-image = "https://asharpminor.com/images/play/2019/tiffany.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/tiffany.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2019/tiffany.jpg" alt="喫茶ティファニー" style="width: 300px !important;"></figure>
 

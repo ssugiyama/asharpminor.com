@@ -3,7 +3,7 @@ author = "sugi"
 date = "2017-04-22T00:39:26+09:00"
 title = "KAAT×地点『忘れる日本人』"
 type = "post"
-image = "https://asharpminor.com/images/play/2017/wasurerunihonjin.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/wasurerunihonjin.jpg"
 tags = ["chiten"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/wasurerunihonjin.jpg" alt="忘れる日本人" style="width: 300px !important;"></figure>

@@ -3,7 +3,7 @@ title = "KERA・MAP『キネマと恋人』"
 date = 2019-06-22T23:23:52+09:00
 type = "post"
 author = "sugi"
-image = "https://asharpminor.com/images/play/2019/kinematokoibito.jpg"
+image = "https://blog.asharpminor.com/images/play/2019/kinematokoibito.jpg"
 tags = ["kera"]
 +++
 <figure class="alignleft"><img src="/images/play/2019/kinematokoibito.jpg" alt="キネマと恋人" style="width: 300px !important;"></figure>

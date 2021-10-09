@@ -3,7 +3,7 @@ author = "sugi"
 date = "2017-05-21T03:13:24+09:00"
 title = "イキウメ『天の敵』"
 type = "post"
-image = "https://asharpminor.com/images/play/2017/tennoteki.jpg"
+image = "https://blog.asharpminor.com/images/play/2017/tennoteki.jpg"
 tags = ["ikiume"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/tennoteki.jpg" alt="天の敵" style="width: 300px !important;"></figure>

@@ -4,6 +4,7 @@ title: 猫のホテル『けんか哀歌』
 author: sugi
 date: 2008-05-04
 url: /play/1787/
+tags: ["nekohote"]
 ---
 <img src="/images/play/20080504.jpg" alt="" class="alignleft" />
 
