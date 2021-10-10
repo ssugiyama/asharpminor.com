@@ -5,7 +5,7 @@
   "main": "hugo",
   "scripts": {
     "build": "parcel build -d static/js -o tweets src/tweets.js",
-    "watch": "parcel watch -d static/js -o tweets src/tweets.js",      
+    "watch": "parcel watch -d static/js -o tweets src/tweets.js",
     "postinstall": "cp -a node_modules/social-share-kit/dist/* node_modules/bootstrap/dist/* static"
   },
   "repository": {
@@ -19,13 +19,13 @@
   },
   "homepage": "https://github.com/ssugiyama/asharpminor.com#readme",
   "dependencies": {
-    "bootstrap": "^4.1.0",
-    "jquery": "^1.9.1",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
     "parcel-bundler": "^1.8.1",
-    "popper.js": "^1.14.3",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "react-twitter-widgets": "^1.7.1",
+    "popper.js": "^1.16.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-twitter-widgets": "^1.10.0",
     "social-share-kit": "git+https://github.com/darklow/social-share-kit.git"
   }
 }
