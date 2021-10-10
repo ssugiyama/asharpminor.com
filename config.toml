@@ -70,3 +70,6 @@ ShowRelatedPost = 1
         weight = -50
         identifier = "lost+found"
         url = "/lost+found/"
+
+[markup.goldmark.renderer]
+  unsafe = true
