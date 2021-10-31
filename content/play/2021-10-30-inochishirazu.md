@@ -5,7 +5,7 @@ type = "post"
 author = "sugi"
 tags = ["iwamatsuryo"]
 +++
-<figure class="alignleft"><img src="/images/play/2021/inochishirazu.jpg" alt="いのち知らず" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="https://blog.asharpminor.com/images/play/2021/inochishirazu.jpg" alt="いのち知らず" style="width: 300px !important;"></figure>
 
 タイトルと男ばかりの配役からギャングものを想像していたが、よい意味で裏切られた。
 
