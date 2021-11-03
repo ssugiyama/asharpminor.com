@@ -1,0 +1,85 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "../node_modules/social-share-kit/dist/css/social-share-kit.css";
+
+// Then add additional custom code here
+.alignleft {
+    float: left;
+    margin: 0 10px 10px 10px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus,
+.gsc-search-button {
+    box-sizing: content-box;
+    line-height: normal;
+}
+
+div.gsc-selected-option-container {
+    width: 100px !important;
+}
+
+.navbar-brand span {
+    opacity: 0;
+}
+
+.navbar-brand {
+    background-image: url(../static/images/scorelogo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+hr {
+    clear: both;
+}
+
+figcaption {
+    text-align: center;
+}
+
+img {
+    width: auto !important;
+}
+
+p {
+    letter-spacing: .1em;
+    text-align: justify;
+    line-height: 1.65;
+    text-indent: 1.2em;
+}
+
+.thumbnail {
+    width: 100%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 150px;
+}
+
+.thumbnail .footer a {
+
+}
+
+.card .card-footer time {
+    display: block;
+    float: right;
+}
+
+blockquote {
+    margin: 0 1em;
+    border-left: 1px solid blue;
+    padding: 0 1em;
+    font-size: 90%;
+}

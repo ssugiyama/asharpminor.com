@@ -52,29 +52,21 @@
     </nav>
 {{ block "main" . }}
     {{ end }}
-</div>    
+</div>
 <hr>
-  
+
 <footer class="container copy">
     <p>&copy; {{ .Site.LastChange.Year }} {{ if isset .Site.Params "Author" }} {{ .Site.Params.Author }} {{ else }} {{ .Site.Title }} {{ end }}</p>
 	<p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a></p>
 </footer>
 
-<!-- Social Share Kit JS -->
-<script type="text/javascript" src="/js/social-share-kit.js"></script>
+<script type="text/javascript" src="/dist/index.js"></script>
 
 <div class="ssk-sticky ssk-sm ssk-right ssk-bottom">
-    <a href="" class="ssk ssk-twitter"></a>    
+    <a href="" class="ssk ssk-twitter"></a>
     <a href="" class="ssk ssk-facebook"></a>
-    <a href="" class="ssk ssk-google-plus"></a>    
+    <a href="" class="ssk ssk-google-plus"></a>
 </div>
-
-<script type="text/javascript">
- SocialShareKit.init();
-</script>
-
-<script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
-<script src="/js/bootstrap.bundle.min.js"></script>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
