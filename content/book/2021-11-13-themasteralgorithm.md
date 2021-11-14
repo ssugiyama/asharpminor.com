@@ -1,6 +1,6 @@
 +++
 title = "Pedro Domingos “The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World”"
-date = 2021-11-14T14:20:42+09:00
+date = 2021-11-13T20:20:42+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/4123O7+VANL._SL500_.jpg"
