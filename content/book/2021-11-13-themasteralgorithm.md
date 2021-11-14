@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://m.media-amazon.com/images/I/4123O7+VANL._SL500_.jpg"
 tags = ["science"]
 +++
-<a href="https://www.amazon.co.jp/dp/B0147SEZ92/?tag=aqajp-22" target="_blank"><img src="https://m.media-amazon.com/images/I/4123O7+VANL._SL500_.jpg" alt="B0147SEZ92" border="0" /></a>
+<a href="https://www.amazon.co.jp/dp/B0147SEZ92/?tag=aqajp-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/4123O7+VANL._SL500_.jpg" alt="B0147SEZ92" border="0" /></a>
 
 次の本までのつなぎとして軽い気持ちで読みはじめたらちょうど半年かかってしまった。理由その一、英語だということ。日本語の3倍くらいかかる。理由そのニ、緊急事態宣言で通勤時間がなかったこと。通勤が一番の読書シチュエーションなのだ。そして理由その三。思ったよりずっと本格的に書かれた本で分量が多かったこと。数式やコードがほとんど出てこないだけで機械学習のエッセンスは余すところなく語られていた。
 
