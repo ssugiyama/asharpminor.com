@@ -3,7 +3,7 @@ title = "アレックス・パヴェージ（鈴木恵訳）『第八の探偵�
 date = 2021-11-22T19:48:47+09:00
 type = "post"
 author = "sugi"
-image = "https://m.media-amazon.com/images/I/51ptd4buD2L._SL500_.jp"
+image = "https://m.media-amazon.com/images/I/51ptd4buD2L._SL500_.jpg"
 ebook = 1
 tags = ["metamystery"]
 +++
