@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51KkWOJdXFL._SL500_.jpg"
 ebook = 1
+tags = ["metamystery"]
 +++
 <a href="https://www.amazon.co.jp/dp/4163910484?tag=chezsugi-22" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51KkWOJdXFL._SL500_.jpg" alt="イヴリン嬢は七回殺される" class="alignleft" /></a>
 

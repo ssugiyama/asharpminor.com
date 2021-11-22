@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/51ptd4buD2L._SL500_.jp"
 ebook = 1
+tags = ["metamystery"]
 +++
 <a href="https://www.amazon.co.jp/dp/B0922H34LP/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51ptd4buD2L._SL500_.jpg" alt="B0922H34LP" border="0" /></a>
 
@@ -12,6 +13,6 @@ ebook = 1
 
 そして、実はキャストにはもうひとつ「作者」というのがあるんじゃないかというのが読み終えて思ったことだ。第八の探偵がたどり着くのはまさに作者は誰なのかという謎だったりする。
 
-7つの作中作はどれも後味がよくないものばかりで、それをめぐって対話する二人のどちらにも好感はもてないが、それはたぶんねらったものなのだろう。ストーリーに集中することができた。
+7つの作中作はどれも後味がよくないものばかりで、それをめぐって対話する二人のどちらにも好感はもてないが、それはたぶんねらったものなのだろう。物語の構造に集中することができた。
 
 ★★
