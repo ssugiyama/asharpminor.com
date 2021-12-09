@@ -7,9 +7,7 @@ tags = ["chinesesf", "cixinliu"]
 ebook = 1
 image = "https://m.media-amazon.com/images/I/41I9CUn-wTL._SL500_.jpg"
 +++
-<a href="https://www.amazon.co.jp/dp/B089M77R61/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41I9CUn-wTL._SL500_.jpg" alt="三体Ⅱ　黒暗森林（上）" class="alignleft" /></a>
-
-<a href="https://www.amazon.co.jp/dp/B089M7M21Q/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51FxhTzg8wL._SL500_.jpg" alt="三体Ⅱ　黒暗森林（下）" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/B089M77R61/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41I9CUn-wTL._SL200_.jpg" alt="三体Ⅱ　黒暗森林（上）" class="alignleft" /></a><a href="https://www.amazon.co.jp/dp/B089M7M21Q/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51FxhTzg8wL._SL200_.jpg" alt="三体Ⅱ　黒暗森林（下）" class="alignleft" /></a>
 
 
 『三体』の続編。前作で異星文明との接触を果たした人類は同時に侵略の危機にさらされる。侵略者である三体艦隊は400年後に地球に到着する予定なので、余裕があるようにみえるが、「智子」という11次元空間に展開された陽子コンピュータにより、すべての人類の活動は監視され、テクノロジーの進歩は阻害されるようになった。本編では、そんな事態がはじまってから3年目〜213年目の出来事が描かれる。
