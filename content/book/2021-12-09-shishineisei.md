@@ -7,7 +7,7 @@ tags = ["chinesesf", "cixinliu"]
 ebook = 1
 image = "https://m.media-amazon.com/images/I/51hhIZ+y-XS._SL500_.jpg"
 +++
-<a href="https://www.amazon.co.jp/dp/B0922H5V2N/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51hhIZ+y-XS._SL500_.jpg" alt="B0922H5V2N" border="0" /></a><a href="https://www.amazon.co.jp/dp/B0922G73JR/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51tpIQwTjYS._SL500_.jpg" alt="B0922G73JR" border="0" /></a>
+<a href="https://www.amazon.co.jp/dp/B0922H5V2N/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51hhIZ+y-XS._SL200_.jpg" alt="B0922H5V2N" border="0" /></a><a href="https://www.amazon.co.jp/dp/B0922G73JR/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51tpIQwTjYS._SL200_.jpg" alt="B0922G73JR" border="0" /></a>
 
 三体三部作の完結編読み終えた。間違いなくオールタイムベストに入る作品だ。
 
