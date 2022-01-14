@@ -4,7 +4,7 @@ date = "2017-04-24T21:34:51+09:00"
 title = "小栗虫太郎『黒死館殺人事件』"
 type = "post"
 image = "https://images-fe.ssl-images-amazon.com/images/I/514r7ZpNSsL.jpg"
-tags = ["senzenkiso"]
+tags = ["senzenkiso", "3daikisho"]
 ebook = 1
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009IY1W5Q/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514r7ZpNSsL.jpg" alt="黒死館殺人事件" class="alignleft"  /></a>
