@@ -4,7 +4,7 @@ date = 2022-02-12T13:35:37+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/31jnJ9QcGSL._SL500_.jpg"
-tags = ["science", "tetsugeki]
+tags = ["science", "tetsugeki"]
 +++
 <a href="https://www.amazon.co.jp/dp/B09G9XR7P3/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/31jnJ9QcGSL._SL500_.jpg" alt="B09G9XR7P3" border="0" /></a>
 
