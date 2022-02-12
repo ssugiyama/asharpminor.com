@@ -3,7 +3,7 @@ title = "山本貴光+吉川浩満『その悩み、エピクテトスなら、�
 date = 2020-07-25T21:09:54+09:00
 type = "post"
 author = "sugi"
-tags = ["philospophy"]
+tags = ["philospophy", "tetsugeki"]
 image = "https://m.media-amazon.com/images/I/510td3X23jL._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/4480847502/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/510td3X23jL._SL500_.jpg" alt="その悩み、エピクテトスなら、こう言うね。: 古代ローマの大賢人の教え (単行本)" class="alignleft" /></a>
