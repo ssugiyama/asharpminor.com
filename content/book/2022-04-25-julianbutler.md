@@ -4,6 +4,7 @@ date = 2022-04-26T01:05:15+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/5134GmdegtL._SL500_.jpg"
+ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B09GVN9H46/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/5134GmdegtL._SL500_.jpg" alt="B09GVN9H46" border="0" /></a>
 
