@@ -4,7 +4,7 @@ date = 2022-04-29T23:25:42+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2022/ainikansuruikutsukanodanpen.jpg"
-tags = ["gotandadan']
+tags = ["gotandadan"]
 +++
 <figure class="alignleft"><img src="/images/play/2022/ainikansuruikutsukanodanpen.jpg" alt="愛に関するいくつかの断片" style="width: 300px !important;"></figure>
 
