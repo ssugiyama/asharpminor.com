@@ -1,5 +1,5 @@
 +++
-title = "伴名練"
+title = "伴名練『なめらかな世界と、その敵』"
 date = 2022-05-28T01:07:14+09:00
 type = "post"
 author = "sugi"
