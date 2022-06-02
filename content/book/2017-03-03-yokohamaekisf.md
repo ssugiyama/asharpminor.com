@@ -5,6 +5,7 @@ date = "2017-03-03T23:57:59+09:00"
 title = "柞刈湯葉『横浜駅SF』"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/61C3nqWaJIL.jpg"
+tags = ["isukariyuba", "jsf"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4040721578/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61C3nqWaJIL.jpg" alt="横浜駅SF (カドカワBOOKS)" class="alignleft" /></a>
 
@@ -19,4 +20,3 @@ image = "https://images-fe.ssl-images-amazon.com/images/I/61C3nqWaJIL.jpg"
 なお、固有名詞が、連載から微妙に変更されている。JR北海道→JR北日本、JR九州→JR福岡、Suica→Suikaなどとなっているのはやはりリアルな名称を使うことに差し障りがあったのだろうか。
 
 ネット連載の内容で収録できなかった「増発」の部分は別途書籍化するという話があり、またちょうど今このタイミングであらたに群馬編の連載がはじまっている。楽しみだ。
-

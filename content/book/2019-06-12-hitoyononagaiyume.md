@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 ebook = 1
 image = "https://images-fe.ssl-images-amazon.com/images/I/51f9JkR81cL.jpg"
+tags = ["jsf"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4150313733/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51f9JkR81cL.jpg" alt="ヒト夜の永い夢 (ハヤカワ文庫JA)" class="alignleft" /></a>
 

@@ -4,7 +4,7 @@ date = 2020-06-04T00:07:18+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/51VZczewkeL._SL500_.jpg"
-tags = ["torishima_dempo"]
+tags = ["torishima_dempo", "jsf"]
 ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B07NPHDM91/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51VZczewkeL._SL500_.jpg" alt="宿借りの星 (創元日本ＳＦ叢書)" class="alignleft" /></a>

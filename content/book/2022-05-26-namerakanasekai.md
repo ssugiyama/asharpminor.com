@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 ebook = 1
 image = "https://m.media-amazon.com/images/I/51E+52wQNBL._SL500_.jpg"
+tags = ["jsf"]
 +++
 <a href="https://www.amazon.co.jp/dp/B09XV1NSS4/?tag=chezsugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51E+52wQNBL._SL500_.jpg" alt="B09XV1NSS4" border="0" /></a>
 
