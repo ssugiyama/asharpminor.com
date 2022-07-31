@@ -4,7 +4,7 @@ title: G.ドゥルーズ（鈴木雅大訳）『スピノザ 実践の哲学』
 author: sugi
 date: 2004-05-15
 url: /book/887/
-tags: ["philosophy"]
+tags: ["philosophy", "spinoza"]
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4582764401/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51TD20WT1WL.jpg" alt="スピノザ―実践の哲学 (平凡社ライブラリー (440))" style="border: none;" class="alignleft" /></a>
 
