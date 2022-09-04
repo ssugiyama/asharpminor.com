@@ -7,7 +7,7 @@ tags = ["matsuurahisaki"]
 image = "https://m.media-amazon.com/images/I/41mks+fjMiL._SL500_.jpg"
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/B06Y126FRR/?tag=chezsugi-22" target="_blank ><img src="https://m.media-amazon.com/images/I/41mks+fjMiL._SL500_.jpg" alt="B06Y126FRR" border="0" class="alignleft"" /></a>
+<a href="https://www.amazon.co.jp/dp/B06Y126FRR/?tag=chezsugi-22" target="_blank" ><img src="https://m.media-amazon.com/images/I/41mks+fjMiL._SL500_.jpg" alt="B06Y126FRR" border="0" class="alignleft" /></a>
 
 松浦寿輝作品では『半島』が好きで今回あらたに購入して読み返すことにしたのだけど、そのついでに他の作品も読んでみようと選んだのがこの短編集だ。
 
