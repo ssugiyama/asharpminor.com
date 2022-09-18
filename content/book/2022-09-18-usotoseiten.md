@@ -7,7 +7,7 @@ ebook = 1
 tags = ["jsf"]
 image = "https://m.media-amazon.com/images/I/51zRukLXV+L._SL500_.jpg"
 +++
-<a href="https://www.amazon.co.jp/dp/B0B5DFPBT5/?tag=chezsugi-22" target="_blank ><img src="https://m.media-amazon.com/images/I/51zRukLXV+L._SL500_.jpg" alt="B0B5DFPBT5" border="0" class="alignleft"></a>
+<a href="https://www.amazon.co.jp/dp/B0B5DFPBT5/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51zRukLXV+L._SL500_.jpg" alt="B0B5DFPBT5" border="0" class="alignleft"></a>
 
 長いことぼくにとって小川哲さんは小説家ではなく村上Radioプレスペシャルのラジオパーソナリティーだったのだが、はじめて作品を読んでみた。
 
