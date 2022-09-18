@@ -1,5 +1,5 @@
 +++
-title = "小川哲『嘘と聖典』"
+title = "小川哲『嘘と正典』"
 date = 2022-09-18T19:14:09+09:00
 type = "post"
 author = "sugi"
