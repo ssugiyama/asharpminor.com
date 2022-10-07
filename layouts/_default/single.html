@@ -33,7 +33,7 @@
 	    </aside>
 	    {{ end }}
             <!-- Pagination. -->
-            <footer class="card-footer">	      
+            <footer class="card-footer">
                 <nav>
                     <ul class="row list-inline">
 
@@ -46,9 +46,9 @@
 			<li class="col-4 text-center"><a href="/{{ .Section }}/">{{ partial  "section_name.html" . }}</a></li>
 			{{ end }}
                         {{ if .NextInSection }}
-                        <li class="col-4 text-right"><a href="{{ .NextInSection.Permalink }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                        <li class="col-4 text-end"><a href="{{ .NextInSection.Permalink }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
                         {{ else }}
-                        <li class="col-4 disabled text-right"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                        <li class="col-4 disabled text-end"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
                         {{ end }}
 
                     </ul>
