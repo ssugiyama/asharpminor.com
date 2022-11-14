@@ -4,7 +4,7 @@ date = 2022-11-13T23:09:28+09:00
 type = "post"
 author = "sugi"
 image = "https://m.media-amazon.com/images/I/51IWeTIZlUL._SL500_.jpg"
-tags = ["auster"]
+tags = ["paulauster"]
 ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B0B8737RX6/?tag= chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51IWeTIZlUL._SL500_.jpg" alt="B0B8737RX6" border="0" class="alignleft"></a>
