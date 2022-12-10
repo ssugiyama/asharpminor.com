@@ -3,10 +3,10 @@ title = "呉明益（天野健太郎訳）『歩道橋の魔術師』"
 date = 2022-12-10T13:01:47+09:00
 type = "post"
 author = "sugi"
-image = "https://m.media-amazon.com/images/I/41PhtFECsxL._SL200_.jpg"
+image = "https://m.media-amazon.com/images/I/41PhtFECsxL._SL500_.jpg"
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/4309467423/?tag=aqajp-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41PhtFECsxL._SL200_.jpg" alt="4309467423" border="0" /></a>
+<a href="https://www.amazon.co.jp/dp/4309467423/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41PhtFECsxL._SL500_.jpg" alt="4309467423" border="0" class="alignleft" /></a>
 
 著者名はカタカナではウ・ミンイと書くらしい。 1971年生まれの台湾の小説家だ。内容紹介の中にあった「マジックリアリズム」という言葉に反応して読もうと思った。
 
