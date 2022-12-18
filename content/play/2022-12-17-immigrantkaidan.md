@@ -3,7 +3,7 @@ title = "岡崎藝術座+那覇文化芸術劇場なはーと『イミグレ階�
 date = 2022-12-18T01:20:56+09:00
 type = "post"
 author = "sugi"
-tags: ["okazakigeijutsuza"]
+tags = ["okazakigeijutsuza"]
 image = "https://blog.sharpminor.com/images/play/2022/immigration.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2022/immigration.jpg" alt="イミグレ怪談" style="width: 300px !important;"></figure>
