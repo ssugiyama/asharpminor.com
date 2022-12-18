@@ -4,9 +4,9 @@ date = 2022-12-18T01:20:56+09:00
 type = "post"
 author = "sugi"
 tags = ["okazakigeijutsuza"]
-image = "https://blog.sharpminor.com/images/play/2022/immigration.jpg"
+image = "https://blog.asharpminor.com/images/play/2022/immigration.jpeg"
 +++
-<figure class="alignleft"><img src="/images/play/2022/immigration.jpg" alt="イミグレ怪談" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2022/immigration.jpeg" alt="イミグレ怪談" style="width: 300px !important;"></figure>
 
 同窓会ということでやってきた３人がかわるがわる自分の物語を語る。冒頭の松井周さん（役名は役者の名前と同じになってる）はタイに移住してラオスで焼酎工場を経営している。そうなるにいたった経緯を語ろうとしているのだが、次々と脱線して、バンコクで見つけた野外のバーの話から、そこで出会った美女の話になっていく……。二番目は上城みきさんで、沖縄からボリビアに移住した人々の苦難について語る。しんがりは大村わたるさんで、なんとなく東京から沖縄に移住したという設定。まだ物語らしい物語はないのだが、松井周さんが語り好きの妖怪であることが示唆されたり、みきさんと隣人のまきさんが同一視されたり、それまでの物語の前提が揺らいでいく。もともと同会というには年齢も違う。
 
