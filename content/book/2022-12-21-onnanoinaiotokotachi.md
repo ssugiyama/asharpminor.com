@@ -8,7 +8,7 @@ image = "https://m.media-amazon.com/images/I/51g7wlfscaL._SL200_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/4163900748/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51g7wlfscaL._SL500_.jpg" alt="4163900748" border="0" class="alignleft" /></a>
 
-[初読]({{< ref "/book/2014-04-23-%e6%9d%91%e4%b8%8a%e6%98%a5%e6%a8%b9%e3%80%8e%e5%a5%b3%e3%81%ae%e3%81%84%e3%81%aa%e3%81%84%e7%94%b7%e3%81%9f%e3%81%a1%e3%80%8f.md" >}})以来8年たって再読したのは、映画『ドライブ・マイ・カー』をようやくみたからだ。完膚なきまでに忘れていて潔いくらいだった。
+[初読](/book/4771/)以来8年たって再読したのは、映画『ドライブ・マイ・カー』をようやくみたからだ。完膚なきまでに忘れていて潔いくらいだった。
 
 初読時には各作品の内容にはほとんど触れなかったので、今回は映画とからめつつ各編の内容に触れていこう。
 
