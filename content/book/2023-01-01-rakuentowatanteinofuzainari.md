@@ -3,8 +3,9 @@ title = "斜線堂有紀『楽園とは探偵の不在なり』"
 date = 2023-01-02T01:40:26+09:00
 type = "post"
 author = "sugi"
+image = "https://m.media-amazon.com/images/I/41Ur2H-gJEL._SL500_.jpg"
 +++
-<a href="https://www.amazon.co.jp/dp/B0BLVKZ67Z/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41Ur2H-gJEL._SL200_.jpg" alt="B0BLVKZ67Z" border="0" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/B0BLVKZ67Z/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41Ur2H-gJEL._SL500_.jpg" alt="B0BLVKZ67Z" border="0" class="alignleft" /></a>
 
 特殊設定ミステリーという言葉をはじめてみた。最近現実に世界にありえない特殊な設定のミステリーが増えてきて。ジャンルを形成しつつあるらしい。
 
