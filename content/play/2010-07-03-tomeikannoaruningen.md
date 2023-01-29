@@ -4,6 +4,7 @@ title: 『透明感のある人間』
 author: sugi
 date: 2010-07-03
 url: /play/2221/
+tags: ["bluesky"]
 ---
 <img src="/images/play/20100703.jpg" alt="『透明感のある人間』" class="alignleft" />
 

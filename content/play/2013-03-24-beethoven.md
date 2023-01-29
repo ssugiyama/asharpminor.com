@@ -4,6 +4,7 @@ title: ダックスーププロデュース『音楽家のベートーベン』
 author: sugi
 date: 2013-03-23
 url: /play/4051/
+tags: ["bluesky"]
 ---
 <a href="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/03/beethoven_4c.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/03/beethoven_4c.jpg?resize=170%2C240', '']);" ><img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/2013/03/beethoven_4c.jpg?resize=170%2C240" alt="beethoven_4c" class="alignleft wp-image-4052" data-recalc-dims="1" /></a>
 
