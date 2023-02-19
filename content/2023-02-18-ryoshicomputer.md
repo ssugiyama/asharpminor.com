@@ -4,10 +4,10 @@ date = 2023-02-18T22:22:40+09:00
 type = "post"
 author = "sugi"
 tags = ["science"]
-image = "https://m.media-amazon.com/images/I/51uhEW3rEPL._SL200_.jpg"
+image = "https://m.media-amazon.com/images/I/51uhEW3rEPL._SL500_.jpg"
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/B00GHHYJXE/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51uhEW3rEPL._SL200_.jpg" alt="B00GHHYJXE" border="0" class="alignleft" /></a>
+<a href="https://www.amazon.co.jp/dp/B00GHHYJXE/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51uhEW3rEPL._SL500_.jpg" alt="B00GHHYJXE" border="0" class="alignleft" /></a>
 
 いまさら量子コンピュータのことをまったく知らないと思ったので、最低限の知識をインプットしておくことにした。2005年に書かれた本なので古びてないかなと思ったが、基本的なしくみの話がメインなので、その部分は変化はないのだった。フェーズとしても実用化に向けての研究が少しずつ進んでいるという状況に変わりはなさそうだった。
 
