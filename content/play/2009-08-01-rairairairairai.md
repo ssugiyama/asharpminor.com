@@ -4,6 +4,7 @@ title: 劇団、本谷有希子『来来来来来』
 author: sugi
 date: 2009-08-01
 url: /play/2047/
+tags: ["motoyayukiko"]
 ---
 <img src="/images/play/20090801.jpg" alt="劇団、本谷有希子『来来来来来』" class="alignleft" />
 

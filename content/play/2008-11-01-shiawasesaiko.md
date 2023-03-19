@@ -4,6 +4,7 @@ title: 『幸せ最高ありがとうマジで！』
 author: sugi
 date: 2008-11-01
 url: /play/1888/
+tags: ["motoyayukiko"]
 ---
 <img src="/images/play/20081101.jpg" alt="『幸せ最高ありがとうマジで！』" class="alignleft" />
 
