@@ -7,7 +7,7 @@ image = "https://m.media-amazon.com/images/I/41QLINFIYpL._SL500_.jpg"
 tags = ["pinker"]
 ebook = 1
 +++
-<a href="https://www.amazon.co.jp/dp/B08WK3JNLT/?tag=aqajp-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/41QLINFIYpL._SL500_.jpg" alt="B08WK3JNLT" border="0" /></a>
+<a href="https://www.amazon.co.jp/dp/B08WK3JNLT/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/41QLINFIYpL._SL500_.jpg" alt="B08WK3JNLT" border="0" class="alignleft" /></a>
 
 タイトルにあやかり “Rationality” を駆使して、邦訳でなく英語の原書を読むことにした。邦訳は上下分冊であわせて4000円近くしてしまうのだがなんと650円だった。そうはいっても、Pinkerの文章は簡単ではないので、途中からは図書館で邦訳を借りて答え合わせするのに時折使うという手段をとった。
 
