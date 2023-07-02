@@ -3,7 +3,7 @@ title = "村上春樹『街とその不確かな壁』"
 date = 2023-06-27T23:10:26+09:00
 type = "post"
 author = "sugi"
-image = "https://m.media-amazon.com/images/I/41K2MkuNuHL._SL500_.jp"
+image = "https://m.media-amazon.com/images/I/41K2MkuNuHL._SL500_.jpg"
 tags = ["murakamiharuki"]
 +++
 <a href="https://www.amazon.co.jp/dp/B0BTGK1HHS/?tag=chezugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/41K2MkuNuHL._SL500_.jpg" alt="B0BTGK1HHS" border="0" /></a>
