@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2023/usaginamiohashiru.jpg"
 tags = ["nodamap"]
 +++
-<figure class="alignleft"><img src="/images/play/2023/usaginamiohashiru.jpg" alt="カモメよ、そこから銀座は見えるか？" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2023/usaginamiohashiru.jpg" alt="兎、波を走る" style="width: 300px !important;"></figure>
 
 まったく予備知識なしにみた。不思議な国のアリス、ピーターパン、桜の園などさまざまなシーンの間を言葉遊びで行き来してがどこに行き着くのか不安に思う瞬間もあったが、ちゃんとすべての言葉がつながって着地した。お見事。
 
