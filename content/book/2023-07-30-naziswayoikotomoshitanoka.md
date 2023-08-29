@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 ebook = 1
 image = "https://m.media-amazon.com/images/I/51gqvNN8mkL._SL500_.jpg"
+tags = ["nazism"]
 +++
 <a href="https://www.amazon.co.jp/dp/B0CBT89NDG/?tag=chezugi-22" target="_blank" class="alignleft"><img src="https://m.media-amazon.com/images/I/51gqvNN8mkL._SL500_.jpg" alt="B0CBT89NDG" border="0" /></a>
 
