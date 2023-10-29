@@ -4,7 +4,7 @@ date = 2023-10-28T23:38:27+09:00
 type = "post"
 author = "sugi"
 tags = ["europekikaku"]
-iamge = "https://blog.asharpminor.com/images/play/2023/jack.jpg"
+image = "https://blog.asharpminor.com/images/play/2023/jack.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2023/jack.jpg" alt="切り裂かないけど攫いはするジャック" style="width: 300px !important;"></figure>
 
