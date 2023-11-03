@@ -3,7 +3,7 @@ title = "青年団リンク キュイ『非常に様々な健康の事情』"
 date = 2023-11-02T22:25:35+09:00
 type = "post"
 author = "sugi"
-image = "https://blog/asharpminor.com/images/play/2023/hijoni_samazamana_kenkono_jijo.jpeg"
+image = "https://blog.asharpminor.com/images/play/2023/hijoni_samazamana_kenkono_jijo.jpeg"
 tags = ["cui"]
 +++
 <figure class="alignleft"><img src="/images/play/2023/hijoni_samazamana_kenkono_jijo.jpeg" alt="非常に様々な健康の事情" style="width: 300px !important;"></figure>
