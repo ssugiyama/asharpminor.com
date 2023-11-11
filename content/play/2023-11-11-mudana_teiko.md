@@ -1,5 +1,5 @@
 +++
-title = "2023 11 11 Mudana_teiko"
+title = "『無駄な抵抗』"
 date = 2023-11-11T23:26:54+09:00
 type = "post"
 author = "sugi"
