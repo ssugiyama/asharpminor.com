@@ -4,7 +4,7 @@ date = 2023-09-17T23:34:26+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2023/american_clock.jpg"
-tags = ["nagasukakeishi"]
+tags = ["nagatsukakeishi"]
 +++
 <figure class="alignleft"><img src="/images/play/2023/american_clock.jpg" alt="アメリカの時計" style="width: 300px !important;"></figure>
 
