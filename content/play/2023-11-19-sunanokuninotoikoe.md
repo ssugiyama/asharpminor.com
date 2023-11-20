@@ -3,8 +3,8 @@ title = "劇壇ガルバ『砂の国の遠い声』"
 date = 2023-11-19T23:29:57+09:00
 type = "post"
 author = "sugi"
-tags: ["miyawazaakio","kasagiizumi"]
-image = "https://blog.asharpminor.com/images/play/2023/sunanokuni.jpg'
+tags = ["miyawazaakio","kasagiizumi"]
+image = "https://blog.asharpminor.com/images/play/2023/sunanokuni.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2023/sunanokuni.jpg" alt="ジャイアンツ" style="width: 300px !important;"></figure>
 
