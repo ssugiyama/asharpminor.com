@@ -4,7 +4,7 @@ date = 2022-07-02T22:20:23+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2022/moscow.jpg"
-tags = ["kasagizumi"]
+tags = ["kasagiizumi"]
 +++
 <figure class="alignleft"><img src="/images/play/2022/moscow.jpg" alt="モスクワの海" style="width: 300px !important;"></figure>
 
