@@ -4,7 +4,7 @@ date = 2022-09-18T19:14:09+09:00
 type = "post"
 author = "sugi"
 ebook = 1
-tags = ["jsf"]
+tags = ["jsf", "ogawasatoshi"]
 image = "https://m.media-amazon.com/images/I/51zRukLXV+L._SL500_.jpg"
 +++
 <a href="https://www.amazon.co.jp/dp/B0B5DFPBT5/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51zRukLXV+L._SL500_.jpg" alt="B0B5DFPBT5" border="0" class="alignleft"></a>
