@@ -4,9 +4,9 @@ date = 2024-01-28T14:07:09+09:00
 type = "post"
 author = "sugi"
 tags = ["bluesky"]
-image = "https://blog.asharpminor.com/images/play/2024/sungekinoytakata.jpg"
+image = "https://blog.asharpminor.com/images/play/2024/sungekinoyakata.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2024/sungekinoytakata.jpg" alt="寸劇の館" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2024/sungekinoyakata.jpg" alt="寸劇の館" style="width: 300px !important;"></figure>
 
 今年初の観劇。昨年に続いて今年もブルー&スカイ作品からのスタートだ。『寸劇の館』というタイトルからわかるように実質寸劇4編のコントライブなのだが、それを、理不尽な理由で処刑されてしまいそうな息子の命を救うため森に探索に行った母親が「寸劇の館」という館に迷い込み寸劇を見せられるという荒唐無稽なストーリーでラッピングしてる。古典の枠物語の構造だ。
 
