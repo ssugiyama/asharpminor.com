@@ -5,7 +5,7 @@ type = "post"
 author = "sugi"
 ebook = 1
 image = "https://m.media-amazon.com/images/I/319oAWQdJoL._SL500_.jpg"
-tags = ["itoyamaakiko"}]
+tags = ["itoyamaakiko"]
 +++
 <a href="https://www.amazon.co.jp/dp/B0CMCKNFDV/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/319oAWQdJoL._SL500_.jpg" alt="B0CMCKNFDV" border="0" class="alignleft" /></a>
 
