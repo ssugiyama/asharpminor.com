@@ -3,9 +3,9 @@ title = "『ポストカード・ラヴァーズ』 by Kazuo Ishiguro"
 date = 2024-03-07T11:43:42+09:00
 type = "post"
 author = "sugi"
-image = "https://embed.music.apple.com/jp/album/summer-me-winter-me/1704628827"
+image = "https://embed.music.apple.com/jp/album/postcard-lovers/1704628827i=1704629083"
 +++
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/postcard-lovers/1704628827?i=1704629083"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/postcard-lovers/1704628827i=1704629083"></iframe>
 
 なんとノーベル賞作家カズオ・イシグロ作詞のジャズナンバー。かわいらしいトーンのなかにぴりっと人生の皮肉がまじっている。カズオ・イシグロらしいリリックだ。
 
