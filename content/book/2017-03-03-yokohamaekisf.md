@@ -9,7 +9,7 @@ tags = ["isukariyuba", "jsf"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4040721578/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61C3nqWaJIL.jpg" alt="横浜駅SF (カドカワBOOKS)" class="alignleft" /></a>
 
-{{< tweet 551590214812979200 >}}
+{{< tweet user=yubais id=551590214812979200 >}}
 
 元はといえばすべてはこのツイートを皮切りに連ツイされた物語の断片からすべてははじまった（ぼくもちゃんと2日あとに見つけていた）。やがて[ネットで連載](https://kakuyomu.jp/works/4852201425154905871)され、賞をとり、書籍化されたのがこの本だ。ぼくはネットの連載（今でも読める）はスルーしてしまったが、書籍化の際に大幅に加筆されているそうだ。
 

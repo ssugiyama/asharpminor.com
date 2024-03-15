@@ -6,7 +6,7 @@
 <meta name="twitter:site" content="@{{ .Site.Params.Twitter }}" />
 <meta property="og:type" content="blog">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-{{ if eq .URL "/" }}
+{{ if eq .Permalink "/" }}
 <!-- Index -->
 <meta property="og:title" content="{{ .Site.Title }}">
 <meta property="og:description" content="{{ .Site.Params.Description }}">
