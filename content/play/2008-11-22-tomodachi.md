@@ -4,6 +4,7 @@ title: 『友達』
 author: sugi
 date: 2008-11-22
 url: /play/1904/
+tags: ['abekobo']
 ---
 <img src="/images/play/20081122.jpg" alt="『友達』" class="alignleft" />
 
