@@ -4,11 +4,11 @@ date = 2024-09-15T01:16:18+09:00
 type = "post"
 author = "sugi"
 tags = ["galba","kasagiizumi"]
-image = "https://blog.sharpminor.com/images/play/2024/minemurasan.jpg"
+image = "https://blog.asharpminor.com/images/play/2024/minemurasan.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2024/minemurasan.jpg" alt="minemurasan" style="width: 300px !important;"></figure>
 
-峯村リエさん、これまで何回も舞台を見てきて好きな俳優さんだけど、タイトルになっているとは、正直どういうこと？という思いがけずいい舞台だった。
+峯村リエさんは、これまで何回も舞台を見てきて大好きな俳優さんだけど、タイトルになっているとは、どういうこと？という感じだったが、思いがけずいい舞台だった。
 
 3人の作家による3つの短編だが、それを順番に別々のものとして描くのではなく、枠物語の構造にして有機的に組み合わせる演出が成功していた。
 
