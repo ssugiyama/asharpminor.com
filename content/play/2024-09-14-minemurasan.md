@@ -1,6 +1,6 @@
 +++
 title = "劇壇ガルバ『ミネムラさん』"
-date = 2024-09-15T01:16:18+09:00
+date = 2024-09-14T23:16:18+09:00
 type = "post"
 author = "sugi"
 tags = ["galba","kasagiizumi"]
