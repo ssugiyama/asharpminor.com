@@ -1,6 +1,6 @@
 +++
 title = "『ピローマン』"
-date = 2024-10-20T01:03:08+09:00
+date = 2024-10-19T23:03:08+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2024/thepillowman.jpg"
