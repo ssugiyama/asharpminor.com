@@ -4,6 +4,7 @@ date = 2024-10-19T23:03:08+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2024/thepillowman.jpg"
+tags = ["martinmcdonagh", "ogawaeriko"]
 +++
 <figure class="alignleft"><img src="/images/play/2024/thepillowman.jpg" alt="the pillowman" style="width: 300px !important;"></figure>
 

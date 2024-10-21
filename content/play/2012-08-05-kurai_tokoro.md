@@ -4,6 +4,7 @@ title: こどもとおとなのためのお芝居『暗いところからやっ�
 author: sugi
 date: 2012-08-04
 url: /play/3535/
+tags: ["ikiume", "ogawaeriko"]
 ---
 <img src="http://i1.wp.com/asharpminor.com/wp-content/uploads/2012/08/kuraitokoro.jpg?resize=170%2C240" alt="暗いところからやってくる" title="暗いところからやってくる" class="alignleft wp-image-3536" data-recalc-dims="1" />
 
