@@ -3,7 +3,7 @@ title = "テアトロコントspecial『寸劇の庭』"
 date = 2024-11-23T20:50:57+09:00
 type = "post"
 author = "sugi"
-image = "https://blog.sharpminor.com/images/play/2024/sungekinoniwa.jpg"
+image = "https://blog.asharpminor.com/images/play/2024/sungekinoniwa.jpg"
 tags = ["bluesky"]
 +++
 <figure class="alignleft"><img src="/images/play/2024/sungekinoniwa.jpg" alt="寸劇の庭" style="width: 300px !important;"></figure>
