@@ -4,7 +4,7 @@ date = 2024-12-11T23:16:24+09:00
 type = "post"
 author = "sugi"
 tags = ["shiroyagi"]
-image = "https://blog.sharpminor.com/images/play/2024/heiwaniyoru.jpg"
+image = "https://blog.asharpminor.com/images/play/2024/heiwaniyoru.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2024/heiwaniyoru.jpg" alt="寸劇の庭" style="width: 300px !important;"></figure>
 
