@@ -4,9 +4,9 @@ date = 2024-12-22T11:03:40+09:00
 type = "post"
 author = "sugi"
 tags = ["kera", "chekhov"]
-image = "https://blog.asharpminor.com/images/play/2024/sakuranosono.png"
+image = "https://blog.asharpminor.com/images/play/2024/sakuranosono.jpg"
 +++
-<figure class="alignleft"><img src="/images/play/2024/sakuranosono.png" alt="桜の園" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2024/sakuranosono.jpg" alt="桜の園" style="width: 300px !important;"></figure>
 
 シス・カンパニーとケラリーノ・サンドロヴィッチによるチェーホフ4大戯曲上演もいよいよ4作目。ぼくは最初の『かもめ』以外の3作をみたことになる。もともと『桜の園』は2020年4月に上演するはずがコロナのせいで中止になりようやくキャストをいれかえて上演することになったのだ。
 
