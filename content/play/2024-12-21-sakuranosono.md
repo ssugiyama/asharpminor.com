@@ -3,7 +3,7 @@ title = "シス・カンパニー『桜の園』"
 date = 2024-12-22T11:03:40+09:00
 type = "post"
 author = "sugi"
-tags = ["kera", "chekhov]
+tags = ["kera", "chekhov"]
 image = "https://blog.asharpminor.com/images/play/2024/sakuranosono.png"
 +++
 <figure class="alignleft"><img src="/images/play/2024/sakuranosono.png" alt="桜の園" style="width: 300px !important;"></figure>
