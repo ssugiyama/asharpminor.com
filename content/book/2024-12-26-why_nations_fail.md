@@ -9,8 +9,6 @@ ebook = 1
 +++
 <a href="https://www.amazon.co.jp/dp/B00EJA1CJA/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51oP3THIKgL._SL200_.jpg" alt="B00EJA1CJA" border="0" class="alignleft" /></a><a href="https://www.amazon.co.jp/dp/B00EJA1CJU/?tag=chezsugi-22" target="_blank"><img src="https://m.media-amazon.com/images/I/51xLeJWtdGL._SL200_.jpg" alt="B00EJA1CJU" border="0" class="alignleft" /></a>
 
-ダロン・アセモグル、ジェイムズ・A・ロビンソン（鬼澤忍訳）『国家はなぜ衰退するのか 権力・繁栄・貧困の起源』
-
 訳書は上下巻に分冊された大部だが、伝えている主張はこの上なくシンプルだ。ほとんどの紙幅は実例を挙げての検証に費やされている。その主張は、繁栄する国家と衰退する国家を分けるのは、地理的要因でも文化でも、知識の有無でもなく、制度である、と一文で表現できてしまう。
 
 制度といってもいろいろだが、ここでは政治と経済両方に注目している。政治と経済の制度が包摂的（inclusive; 訳では「包括的」という語があてられてるが「包摂的」の方が適切だと思う）であれば国家は繁栄するし、収奪的（extracrive)であれば衰退する。包摂的な制度は政治面は中央集権的な民主主義で経済面は開かれた市場を採用している。収奪制は一部のエリートが他の人から財産や労働、場合によっては生命を奪うことで成立している。政治制度と経済制度は密接に関連していて、どちらかだけが包摂的でもうひとつが収奪的という状態は長続きしない。世界の歴史を振り返ると収奪の方がデフォルトで一度収奪が始まると永続するメカニズムが、存在する。一部の国家や社会だけが歴史上の転換点を活かして偶然的に包摂的な制度に移行できた。
