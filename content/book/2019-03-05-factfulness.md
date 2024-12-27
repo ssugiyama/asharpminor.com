@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 image = "https://images-fe.ssl-images-amazon.com/images/I/51o95aW415L.jpg"
 ebook = 1
+tags = ["economy"]
 +++
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822289605/chezsugi-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51o95aW415L.jpg" alt="FACTFULNESS(ファクトフルネス)　10の思い込みを乗り越え、データを基に世界を正しく見る習慣" class="alignleft" /></a>
 
