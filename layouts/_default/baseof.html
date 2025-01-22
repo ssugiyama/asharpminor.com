@@ -24,11 +24,11 @@
                         Facebook</a>
                 </li>
                 {{ end }}
-                {{ if .Site.Params.Twitter }}
+                {{ if .Site.Params.Bluesky }}
                 <li class="nav-item">
-                    <a class="nav-link" href="https://twitter.com/{{ .Site.Params.Twitter }}" target="_blank">
+                    <a class="nav-link" href="https://bsky.app/profile/{{ .Site.Params.Bluesky }}" target="_blank">
                         <i class="fa fa-twitter-square"></i>
-                        Twitter</a>
+                        Bluesky</a>
                 </li>
                 {{ end }}
                 {{ if .Site.Params.Github }}
