@@ -11,6 +11,13 @@
     margin: 20px 10px 10px;
 }
 
+@media only screen and (max-width: 768px) {
+    .alignleft {
+        float: none;
+        text-align: center;
+    }
+}
+
 ul {
     list-style-position: inside;
 }
