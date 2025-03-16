@@ -25,7 +25,7 @@ jobs:
           npm run build
       - name: Building blog pages
         run: |
-          HUGO_ENV=production hugo -v
+          HUGO_ENV=production hugo build
       - name: Install SSH key
         uses: shimataro/ssh-key-action@v2
         with:
