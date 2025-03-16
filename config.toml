@@ -3,7 +3,7 @@ languageCode = "ja"
 title = "a sharp minor"
 HasCJKLanguage = true
 SectionPagesMenu = "sections"
-paginate = 20
+pagination.pagerSize = 20
 ignoreFiles = [ "\\*~$" ]
 summaryLength = 140
 
