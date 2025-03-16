@@ -57,7 +57,7 @@
 <hr>
 
 <footer class="container copy">
-    <p>&copy; {{ .Site.LastChange.Year }} {{ if isset .Site.Params "Author" }} {{ .Site.Params.Author }} {{ else }} {{ .Site.Title }} {{ end }}</p>
+    <p>&copy; {{ .Site.LastMod.Year }} {{ if isset .Site.Params "Author" }} {{ .Site.Params.Author }} {{ else }} {{ .Site.Title }} {{ end }}</p>
 	<p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a></p>
 </footer>
 <div class="fixed-bottom text-end">
