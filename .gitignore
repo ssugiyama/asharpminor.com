@@ -2,8 +2,11 @@ public
 *~
 node_modules
 .cache/*
+.parcel-cache/*
+static/dist/*
 static/css/bootstrap*
 static/css/social-share-kit*
 static/js/bootstrap*
 static/js/social-share-kit*
 static/fonts/social-share-kit*
+.hugo_build.lock
