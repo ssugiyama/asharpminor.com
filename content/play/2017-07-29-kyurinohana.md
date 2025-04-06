@@ -4,7 +4,7 @@ date = 2017-07-29T23:46:44+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2017/kyurinohana.jpg"
-tags = ["MONO"]
+tags = ["tsuchidahideo"]
 +++
 <figure class="alignleft"><img src="/images/play/2017/kyurinohana.jpg" alt="" style="width: 300px !important;"></figure>
 

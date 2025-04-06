@@ -4,6 +4,7 @@ date = 2025-04-06T11:42:03+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2025/getsuyobinokyoshitachi.jpeg"
+tags = ["iwamatsuryo", "nekohote", "tsuchidahideo"]
 +++
 <figure class="alignleft"><img src="/images/play/2025/getsuyobinokyoshitachi.jpeg" alt="月曜日の教師たち" style="width: 300px !important;"></figure>
 
