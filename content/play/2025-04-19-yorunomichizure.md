@@ -6,7 +6,7 @@ author = "sugi"
 tags = ["miyoshijuro"]
 image = "https://blog.asharpminor.com/images/play/2025/michizure.jpg"
 +++
-{{% figure src="/images/play/2025/michizure.jpg" alt="夜の道づれ" class="alignleft" style="width: 300px !important;" %}}
+<figure class="alignleft"><img src="/images/play/2025/michizure.jpg" alt="夜の道づれ" style="width: 300px !important;"></figure>
 
 三好十郎が敗戦から5年後の1950年に書いた戯曲作品である。戯曲の形式をとっているものの、必ずしも舞台上演を前提としたものではなく、実際に上演された記録も残っていないようだ。夜道を歩きながら二人の男性が対話を交わす構成であるため、演劇としての上演が難しかったのかもしれない。
 
