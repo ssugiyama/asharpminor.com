@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2025/toomakinimiteru.jpg"
 tags = ["ampersand"]
 +++
-<figure class="alignleft"><img src="/images/play/2025/toomakinimiteru.jpg" alt="遠巻きに見てる" style="width: 300px !important;"></figure>mv ~/Dow    
+<figure class="alignleft"><img src="/images/play/2025/toomakinimiteru.jpg" alt="遠巻きに見てる" style="width: 300px !important;"></figure>    
 
 オムニバスで見ておもしろかったので単独公演へ。
 
