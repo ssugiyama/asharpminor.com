@@ -3,7 +3,7 @@ title = "海野十三『深夜の市長』"
 date = 2017-09-25T22:43:04+09:00
 type = "post"
 author = "sugi"
-tags = ["senzenkiso"]
+tags = ["senzenkiso", "unnojuza"]
 image = "https://images-fe.ssl-images-amazon.com/images/I/51gkurF1qZL.jpg"
 ebook = 1
 +++
