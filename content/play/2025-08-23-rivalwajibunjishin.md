@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2025/rivalwajibunjishin.webp"
 tags = ["bluesky"]
 +++
-<figure class="alignleft"><img src="images/play/2025/rivalwajibunjishin.webp" alt="ライバルは自分自身 ANNEX" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2025/rivalwajibunjishin.webp" alt="ライバルは自分自身 ANNEX" style="width: 300px !important;"></figure>
 
 「宝石のエメラルド座」というのは作品のタイトルの一部かと思っていたが、実際には団体名のようだ。実体があるわけではなさそうだが、名前を掲げることで今後の公演がやりやすくなるのかもしれない。かつての「演劇弁当猫ニャー」と比べると、まさに180度の転換である。
 
