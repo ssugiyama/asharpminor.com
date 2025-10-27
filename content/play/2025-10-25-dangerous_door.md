@@ -6,7 +6,7 @@ author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2025/dangerousdoor.jpg"
 tags = ["ampersand"]
 +++
-<figure class="alignleft"><img src="/images/play/2025/toomakinimiteru.jpg" alt="dangeousdoor" style="width: 300px !important;"></figure>    
+<figure class="alignleft"><img src="/images/play/2025/dangerousdoor.jpg" alt="dangeousdoor" style="width: 300px !important;"></figure>    
 
 再演らしい。
 
