@@ -8,7 +8,7 @@ image = "https://blog.asharpminor.com/images/play/2024/toogenowagaya.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2024/toogenowagaya.jpg" alt="the pillowman" style="width: 300px !important;"></figure>
 
-これまでみてきたなかで一、二を争う難解な作品。岩松作品はもともと登場人物の心の動きが、饒舌に本心を隠す形で難解になるのが味なのだが、今回はその本心がなかなか見えない。しかもストーリーも錯綜としている。
+これまでみてきたなかで一、二を争う難解な作品。岩松作品はもともと登場人物の心の動きが、饒舌に本心を隠す形で難解になるのが味なのだが、今回はその本心がなかなか見えない。しかもストーリーも錯綜している。
 
 あまりネタバレにもならないと思うのでストーリーを書き下してみる。
 
