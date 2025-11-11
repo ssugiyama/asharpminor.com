@@ -6,7 +6,7 @@ author = "sugi"
 tags = ["nagatsukakeishi"]
 image = "https://blog.asharpminor.com/images/play/2025/sarabatasogare.webp"
 +++
-<figure class="alignleft"><img src="images/play/2025/sarabatasogare.webp" alt="さらば黄昏" style="width: 300px !important;"></figure>
+<figure class="alignleft"><img src="/images/play/2025/sarabatasogare.webp" alt="さらば黄昏" style="width: 300px !important;"></figure>
 
 過疎の村の駐在所が舞台。駐在である竹井は退職して故郷に戻ろうとしていた。そこへ、不穏な事件が立て続けに起こり、かつて村を隠然と支配し放火殺人を起こし服役していた男が出所して弟と甥を引き連れて村に戻ろうとしているという話を聞く。当時逮捕したのは竹井だったのだ。
 
