@@ -1,6 +1,6 @@
 +++
 title = "城山羊の会『勝手に唾が出てくる甘さ』"
-date = 2025-11-16T23:20:49+09:00
+date = 2025-11-15T23:20:49+09:00
 type = "post"
 author = "sugi"
 tags = ["shiroyagi"]
