@@ -4,6 +4,7 @@ date = 2025-12-06T23:30:40+09:00
 type = "post"
 author = "sugi"
 image = "https://blog.asharpminor.com/images/play/2025/threekingdoms.jpg"
+tags = ["kamimurasatoshi"]
 draft = 1
 +++
 <figure class="alignleft"><img src="/images/play/2025/threekingdoms.jpg" alt="スリー・キングダムス" style="width: 300px !important;"></figure>
