@@ -3,7 +3,6 @@ title = "KAATカナガワ・ツアー・プロジェクト『箱根山の美女�
 date = 2024-02-29T11:22:48+09:00
 type = "post"
 author = "sugi"
-draft = 1
 image = "https://blog.asharpminor.com/images/play/2024/kanagawatour2.jpg"
 tags = ["nagatsukakeishi", "kanagawa-tour-project"]
 +++
