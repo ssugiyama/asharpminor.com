@@ -5,6 +5,7 @@ type = "post"
 author = "sugi"
 draft = 1
 image = "https://blog.asharpminor.com/images/play/2024/kanagawatour2.jpg"
+tags = ["nagatsukakeishi", "kanagawa-tour-project"]
 +++
 <figure class="alignleft"><img src="/images/play/2024/kanagawatour2.jpg" alt="箱根山の美女と野獣／三浦半島の人魚姫" style="width: 300px !important;"></figure>
 
