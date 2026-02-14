@@ -4,7 +4,7 @@ date = 2026-02-13T10:29:44+09:00
 type = "post"
 author = "sugi"
 tags = ["nagatsukakeishi", "kanagawa-tour-project"]
-image = "https::/blog.asharpminor.com/images/play/2026/bokenshatachi.jpg"
+image = "https://blog.asharpminor.com/images/play/2026/bokenshatachi.jpg"
 +++
 <figure class="alignleft"><img src="/images/play/2026/bokenshatachi.jpg" alt="冒険者たち" style="width: 300px !important;"></figure>
 
